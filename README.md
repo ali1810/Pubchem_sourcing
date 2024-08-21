@@ -13,6 +13,8 @@ To assess the quality of the sourced data, we compared it with literature solubi
 - **Data Cleaning**: Extracted and standardized solubility values using custom functions.
 
 ## Repository Structure
+
+```plaintext
 ├── Sol_exp
 │   ├── compound_solubility_data.csv
 │   ├── Steps_for_solubility_experiment.md
