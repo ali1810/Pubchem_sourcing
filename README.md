@@ -1,14 +1,25 @@
-# Sourcing Solubility Data from PubChem
+This project aims to source solubility data from the PubChem database by processing SMILES (Simplified Molecular Input Line Entry System) strings for chemical compounds. The study involved processing 50 million SMILES to retrieve solubility data, which was further cleaned and evaluated against literature data.
 
-## Overview
-In this study, we processed 50 million SMILES to obtain solubility data from PubChem, the world's largest collection of freely accessible chemical information. After preprocessing, we retrieved 66,639 raw data points. Following data cleaning, we refined the dataset to 53,789 entries, each with numerical values and units (e.g., g/L, mg/mL). Raw data is saved in `raw_0k_50000k.csv`, and cleaned data in `clean_0k_50000.csv`.
+## Project Overview
+
+PubChem is the world's largest collection of freely accessible chemical information. In this project, we utilized the PubChemPy Python library to retrieve solubility data for 50 million SMILES. The steps involved in the project are:
 
 ## Data Retrieval Process
-- **SMILES and CID**: Sourced from [PubChem](https://ftp.ncbi.nlm.nih.gov/pubchem/Compound/Extras/CID-SMILES.gz), which contains information on over 111 million compounds.
+- **SMILES and CID**: Sourced from (https://ftp.ncbi.nlm.nih.gov/pubchem/Compound/Extras/CID-SMILES.gz), which contains information on over 111 million compounds.
 
 - **Chunking**: Processed in chunks of 10,000 SMILES for efficiency.
 - **Data Sourcing**: Solubility data sourced using Pubchempy, saved to CSV files.
-- **Data Cleaning**: Extracted and standardized solubility values using custom functions.
+
+2. **Data Processing**: Cleaning and converting the raw solubility data to a uniform format, including units like gm/l, mg/ml, g/ml, etc.
+3. **Data Evaluation**: Comparing the sourced data with literature solubility data to evaluate quality.
+
+## Data Processing Summary
+
+- **Total SMILES Processed**: 50 million
+- **Raw Data Extracted**: 66,639 entries
+- **Clean Data**: 53,789 entries, including numerical solubility values with units.
+
+The raw data is saved in `raw_0k_50000k.csv`, and the clean data is stored in `clean_0k_50000.csv`. For quality evaluation, we compared our results with literature solubility data and found 631 unique matching entries, which are saved in `Pubchem_match.xlsx` and `Pubchem_match.csv`.
 
 ## Data Evaluation
 To assess the quality of the sourced data, we compared it with literature solubility data using `unique_train4_new_24.csv`. We found 631 unique matching data points, enabling a comparison of PubChem and literature solubility values. This matching data is saved in `Pubchem_match.xlsx` and `Pubchem_match.csv`.
