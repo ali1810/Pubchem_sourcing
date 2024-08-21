@@ -49,3 +49,39 @@ To assess the quality of the sourced data, we compared it with literature solubi
 - **results/**: Contains the comparative model results.
   - `model_results.csv`
   - `compare_results.csv`
+## Installation
+
+To install the required Python packages for this project, you can use the `requirements.txt` file. Run the following command:
+
+
+pip install -r requirements.txt
+
+## Contributing
+
+Contributions are welcome! Please follow these steps to contribute:
+
+1. Fork the repository.
+2. Create a new branch:
+   ```bash
+   git checkout -b feature-branch-name
+
+## License
+
+This project is licensed under the MIT License.
+
+## Contact
+
+For any questions or further information, you can contact:
+
+- **Mushtaq Ali** - [mushtaq.ali@kit.edu](mailto:dev.punjabi@kit.edu)
+- **Nicole Jung** - [nicole.jung@kit.edu](mailto:nicole.jung@kit.edu)
+
+- **Institution**:  - [https://www.ibcs.kit.edu](https://www.ibcs.kit.edu)
+
+### Conclusion
+
+The project successfully sourced, processed, and evaluated solubility data from the PubChem database for 50 million chemical compounds. Utilizing the PubChemPy library, we retrieved 66,639 raw solubility data entries, which were subsequently cleaned and standardized, resulting in 53,789 usable data points.
+
+This clean dataset, which includes numerical solubility values with appropriate units, serves as a valuable resource for further chemical research and analysis. Our comparison with literature data identified 631 matching entries, validating the accuracy and reliability of the sourced solubility data.
+
+This study demonstrates the feasibility of large-scale data extraction and processing from PubChem, providing a foundation for other researchers to obtain and analyze chemical data at scale. The resulting dataset and scripts are available for further exploration and improvement, supporting ongoing research in the fields of chemistry and material science.
