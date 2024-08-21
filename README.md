@@ -14,20 +14,26 @@ To assess the quality of the sourced data, we compared it with literature solubi
 
 ## Repository Structure
 
-```plaintext
-├── Sol_exp
-│   ├── compound_solubility_data.csv
-│   ├── Steps_for_solubility_experiment.md
-├── src
-│   ├── data_processing.py
-│   ├── data_cleaning.py
-├── raw_0k_50000k.csv
-├── clean_0k_50000.csv
-├── Pubchem_match.xlsx
-├── Pubchem_match.csv
-├── README.md
-├── requirements.txt
-└── results
-    ├── cleaned_solubility_data.csv
+- **data/**: Contains all datasets used in the study.
+  - `water_solubility_data.csv`
+  - `dataset-not-FA.csv`
+  - `Supplementary_data.csv`
+  - `data_paper.csv`
+  - `dataset-E.csv`
+  - `unique_train4_new24.csv`
+  - `unique_test_new24.csv`
+  - `overlap_data_new.csv`
 
+- **notebooks/**: Jupyter notebooks containing the analysis, preprocessing, and model training code.
+  - `data_preprocess_3_24.ipynb`
+  - `4_24.ipynb`
+  - `feature_fg7_fe_38.ipynb`
+  - `Sorkundata_improve_Preprocess.ipynb`
+  - `mpnn.ipynb`
 
+- **scripts/**: Function to create the discriptors used in the study.
+  - `utilities.py`
+
+- **results/**: Contains the comparative model results.
+  - `model_results.csv`
+  - `compare_results.csv`
