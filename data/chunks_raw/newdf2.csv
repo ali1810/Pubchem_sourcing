@@ -1,0 +1,1001 @@
+Unnamed: 0,CID,SMILES,Solubility,Experiment Solubility-PubChem
+1000,5325.0,CC1=NC(=NC=C1)NS(=O)(=O)C2=CC=C(C=C2)N,>32.1 [ug/mL],
+1001,5326.0,COC1=CN=C(N=C1)NS(=O)(=O)C2=CC=C(C=C2)N,>42 [ug/mL],>42 [ug/mL] (The mean of the results at pH 7.4)
+1002,5327.0,CC1=CC(=NC(=N1)NS(=O)(=O)C2=CC=C(C=C2)N)C,"less than 1 mg/mL at 68.9° F (NTP, 1992)","less than 1 mg/mL at 68.9 °F (NTP, 1992)"
+1003,5328.0,CC1=NN=C(S1)NS(=O)(=O)C2=CC=C(C=C2)N,>40.5 [ug/mL],>40.5 [ug/mL] (The mean of the results at pH 7.4)
+1004,5329.0,CC1=CC(=NO1)NS(=O)(=O)C2=CC=C(C=C2)N,>38 [ug/mL],>38 [ug/mL] (The mean of the results at pH 7.4)
+1005,5333.0,C1=CC(=CC=C1N)S(=O)(=O)N,>25.8 [ug/mL],>25.8 [ug/mL] (The mean of the results at pH 7.4)
+1006,5335.0,C1=CC=C(C=C1)N2C(=CC=N2)NS(=O)(=O)C3=CC=C(C=C3)N,0.6 [ug/mL],0.6 [ug/mL] (The mean of the results at pH 7.4)
+1007,5336.0,C1=CC=NC(=C1)NS(=O)(=O)C2=CC=C(C=C2)N,33.1 [ug/mL],33.1 [ug/mL] (The mean of the results at pH 7.4)
+1008,5338.0,C1=CC=C2C(=C1)N=CC(=N2)NS(=O)(=O)C3=CC=C(C=C3)N,>45.1 [ug/mL],>45.1 [ug/mL] (The mean of the results at pH 7.4)
+1009,5339.0,C1=CC=NC(=C1)NS(=O)(=O)C2=CC=C(C=C2)N=NC3=CC(=C(C=C3)O)C(=O)O,"less than 1 mg/mL at 77° F (NTP, 1992)",
+1010,5340.0,C1=CC(=CC=C1N)S(=O)(=O)NC2=NC=CS2,"Insoluble (<1 mg/ml at 70° F) (NTP, 1992)","Insoluble (<1 mg/ml at 70 °F) (NTP, 1992)"
+1011,5342.0,C1=CC=C(C=C1)N2C(=O)C(C(=O)N2C3=CC=CC=C3)CCS(=O)C4=CC=CC=C4,>60.7 [ug/mL],>60.7 [ug/mL] (The mean of the results at pH 7.4)
+1012,5343.0,CC1=CC(=NC(=N1)C)NS(=O)(=O)C2=CC=C(C=C2)N,0.01 M,
+1013,5344.0,CC1=C(ON=C1C)NS(=O)(=O)C2=CC=C(C=C2)N,>40.1 [ug/mL],>40.1 [ug/mL] (The mean of the results at pH 7.4)
+1014,5350.0,CS(=O)CCCCN=C=S,1.382e+004 mg/L @ 25 °C (est),
+1015,5351.0,C1=CC(=CC=C1NCS(=O)O)S(=O)(=O)C2=CC=C(C=C2)NCS(=O)O,2.63e+00 g/L,2.63e+00 g/L
+1016,5355.0,CCN1CCCC1CNC(=O)C2=C(C=CC(=C2)S(=O)(=O)N)OC,>51.2 [ug/mL],>51.2 [ug/mL] (The mean of the results at pH 7.4)
+1017,5358.0,CNS(=O)(=O)CC1=CC2=C(C=C1)NC=C2CCN(C)C,40.3 [ug/mL],40.3 [ug/mL] (The mean of the results at pH 7.4)
+1018,5359.0,CC(C1=CC=C(C=C1)C(=O)C2=CC=CS2)C(=O)O,limited solubility,limited solubility
+1019,5361.0,CC1=C(C=C(C=C1)C(=O)NC2=C3C(=CC(=CC3=C(C=C2)S(=O)(=O)O)S(=O)(=O)O)S(=O)(=O)O)NC(=O)C4=CC(=CC=C4)NC(=O)NC5=CC=CC(=C5)C(=O)NC6=C(C=CC(=C6)C(=O)NC7=C8C(=CC(=CC8=C(C=C7)S(=O)(=O)O)S(=O)(=O)O)S(=O)(=O)O)C,8.72e-03 g/L,8.72e-03 g/L
+1020,5366.0,CCN(CC)CCS(=O)(=O)C1CCN2C1C(=O)OC(C(C=CC(=O)NCC=CC(=CC(CC(=O)CC3=NC(=CO3)C2=O)O)C)C)C(C)C,"In water, 26.88 mg/L at 25 °C (est)",
+1021,5372.0,CC1CC(C2C(CC(C(O2)(C(=O)C(=O)N3CCCCC3C(=O)OC(C(C(CC(=O)C(C=C(C1)C)CC=C)O)C)C(=CC4CCC(C(C4)OC)O)C)O)C)OC)OC,"In water, 1.824X10-2 mg/L at 25 °C (est)",
+1022,5381.0,CCOC(=O)C1=CN=C(C=C1)C#CC2=CC3=C(C=C2)SCCC3(C)C,Soluble,Soluble
+1023,5383.0,CC(C)(C)C1=NN=C(S1)N(C)C(=O)NC,0.01 M,"Solubility in benzene 3.7, hexane 6.1, 2-methoxyethanol 60, acetonitrile 60, acetone 70, methanol 170, chloroform 250 (all in g/L, 25 °C)"
+1024,5386.0,C1CC(OC1)N2C=C(C(=O)NC2=O)F,29.9 [ug/mL],29.9 [ug/mL] (The mean of the results at pH 7.4)
+1025,5392.0,COP(=S)(OC)OC1=CC=C(C=C1)SC2=CC=C(C=C2)OP(=S)(OC)OC,"Insoluble (NIOSH, 2016)","Insoluble (NIOSH, 2024)"
+1026,5401.0,COC1=C(C=C2C(=C1)C(=NC(=N2)N3CCN(CC3)C(=O)C4CCCO4)N)OC,1.50e+00 g/L,1.50e+00 g/L
+1027,5413.0,CC[N+](CC)(CC)CC,Soluble in water.,Soluble in water.
+1028,5416.0,[Kr],Solubility in water: none,Solubility in water: none
+1029,5419.0,C1CC(C2=CC=CC=C2C1)C3=NCCN3,"In water, 31.09 mg/L at 25 °C (est)",
+1030,5426.0,C1CC(=O)NC(=O)C1N2C(=O)C3=CC=CC=C3C2=O,"less than 1 mg/mL at 72° F (NTP, 1992)","less than 1 mg/mL at 72 Â°F (NTP, 1992)"
+1031,5429.0,CN1C=NC2=C1C(=O)NC(=O)N2C,"less than 1 mg/mL at 64° F (NTP, 1992)","less than 1 mg/mL at 64 °F (NTP, 1992)"
+1032,5430.0,C1=CC=C2C(=C1)NC(=N2)C3=CSC=N3,>30.2 [ug/mL],>30.2 [ug/mL] (The mean of the results at pH 7.4)
+1033,5443.0,C1=CC=C(C(=C1)C(=O)O)S,SOL IN WATER /SODIUM SALT/,SOL IN WATER /SODIUM SALT/
+1034,5447.0,C(CSCCO)O,8.18 M,"In water, miscible at 20 °C"
+1035,5453.0,C1CN1P(=S)(N2CC2)N3CC3,>28.4 [ug/mL],>28.4 [ug/mL] (The mean of the results at pH 7.4)
+1036,5454.0,CN1CCN(CC1)CCC=C2C3=CC=CC=C3SC4=C2C=C(C=C4)S(=O)(=O)N(C)C,"Pratically insoluble in water (cis-, trans- mixture)","Pratically insoluble in water (cis-, trans- mixture)"
+1037,5455.0,CN(C)C(=S)SSC(=S)N(C)C,"less than 1 mg/mL at 72° F (NTP, 1992)","less than 1 mg/mL at 72 Â°F (NTP, 1992)"
+1038,5456.0,CCCCCCCCCCCCCCCC[N+](C)(C)CCN(CC1=CC=C(C=C1)OC)C2=NC=CC=N2,Soluble,Soluble
+1039,5457.0,CN(C)CCN(CC1=CC=C(C=C1)OC)C2=NC=CC=N2,Highly Soluble,Highly Soluble
+1040,5468.0,CC(C1=CC=C(S1)C(=O)C2=CC=CC=C2)C(=O)O,3.24e-02 g/L,3.24e-02 g/L
+1041,5472.0,C1CN(CC2=C1SC=C2)CC3=CC=CC=C3Cl,1 [ug/mL],1 [ug/mL] (The mean of the results at pH 7.4)
+1042,5478.0,CC(C)(C)NCC(COC1=NSN=C1N2CCOCC2)O,2.69e-01 g/L,2.69e-01 g/L
+1043,5479.0,CCS(=O)(=O)CCN1C(=NC=C1[N+](=O)[O-])C,>37.1 [ug/mL],>37.1 [ug/mL] (The mean of the results at pH 7.4)
+1044,5482.0,C1=CC(=C(C=C1Cl)Cl)C(CN2C=CN=C2)OCC3=C(SC=C3)Cl,1.65e-02 g/L,1.65e-02 g/L
+1045,5487.0,C1CN=C(N1)NC2=C(C=CC3=NSN=C32)Cl,slightly soluble,41.1 [ug/mL] (The mean of the results at pH 7.4)
+1046,5497.0,CCN(CC)C(=O)C1=CN=CC=C1,"greater than or equal to 100 mg/mL at 73° F (NTP, 1992)","greater than or equal to 100 mg/mL at 73 °F (NTP, 1992)"
+1047,5503.0,CC1=CC=C(C=C1)S(=O)(=O)NC(=O)NN2CCCCCC2,"less than 1 mg/mL at 77° F (NTP, 1992)","less than 1 mg/mL at 77 °F (NTP, 1992)"
+1048,5504.0,C1CN=C(N1)CC2=CC=CC=C2,"less than 1 mg/mL at 77° F (NTP, 1992)",
+1049,5505.0,CCCCNC(=O)NS(=O)(=O)C1=CC=C(C=C1)C,>40.6 [ug/mL],>40.6 [ug/mL] (The mean of the results at pH 7.4)
+1050,5510.0,CC1=CC(=CC=C1)N(C)C(=S)OC2=CC3=CC=CC=C3C=C2,"less than 1 mg/mL at 72° F (NTP, 1992)","less than 1 mg/mL at 72 °F (NTP, 1992)"
+1051,5513.0,CC1CCC2(C(C3C(O2)CC4C3(CCC5C4CCC6C5(CCC(C6)OC7C(C(C(C(O7)CO)OC8C(C(C(C(O8)CO)O)OC9C(C(C(CO9)O)O)O)OC2C(C(C(C(O2)CO)O)O)O)O)O)C)C)C)NC1,"SOLUBLE IN ETHANOL, METHANOL, DIOXANE, PROPYLENE GLYCOL; PRACTICALLY INSOLUBLE IN WATER, ETHER, PETROLEUM ETHER","SOLUBLE IN ETHANOL, METHANOL, DIOXANE, PROPYLENE GLYCOL; PRACTICALLY INSOLUBLE IN WATER, ETHER, PETROLEUM ETHER"
+1052,5526.0,C1CC(CCC1CN)C(=O)O,1.06 M,
+1053,5531.0,CCN(CC)C1=CC(=NC2=NC=NN12)C,>30.8 [ug/mL],>30.8 [ug/mL] (The mean of the results at pH 7.4)
+1054,5533.0,C1CN(CCN1CCCN2C(=O)N3C=CC=CC3=N2)C4=CC(=CC=C4)Cl,"In water, 27.6 mg/L at 25 °C (est)",2.90e-01 g/L
+1055,5541.0,CC(=O)OCC(COC(=O)C)OC(=O)C,0.27 M,"In water, 52,130 mg/L at 24.5 °C"
+1056,5543.0,CC(C)N(C(C)C)C(=O)SCC(=C(Cl)Cl)Cl,1.31e-05 M,"In water, 4 mg/L at 25 Â°C"
+1057,5546.0,C1=CC=C(C=C1)C2=NC3=C(N=C(N=C3N=C2N)N)N,"less than 1 mg/mL at 68° F (NTP, 1992)","less than 1 mg/mL at 68 °F (NTP, 1992)"
+1058,5558.0,C(Br)(Br)Br,"less than 0.1 mg/mL at 72.5° F (NTP, 1992)","less than 0.1 mg/mL at 72.5 °F (NTP, 1992)"
+1059,5561.0,C(CCl)N(CCCl)CCCl,7.82e-04 M,The undiluted liq decomp on standing and forms polymeric quaternary ammonium salts which are insol in the free base
+1060,5563.0,C(C(Cl)(Cl)Cl)OP(=O)(O)O,SOL IN WATER /MONOSODIUM/,SOL IN WATER /MONOSODIUM/
+1061,5564.0,C1=CC(=C(C=C1Cl)O)OC2=C(C=C(C=C2)Cl)Cl,3.45e-05 M,"In water, 10 mg/L at 20 °C"
+1062,5565.0,C(CNCCNCCN)N,"greater than or equal to 100 mg/mL at 68.4° F (NTP, 1992)","greater than or equal to 100 mg/mL at 68.4 Â°F (NTP, 1992)"
+1063,5566.0,CN1CCN(CC1)CCCN2C3=CC=CC=C3SC4=C2C=C(C=C4)C(F)(F)F,"greater than or equal to 100 mg/mL at 68.4° F (NTP, 1992)",
+1064,5568.0,CN(C)CCCN1C2=CC=CC=C2SC3=C1C=C(C=C3)C(F)(F)F,"SOL IN WATER, ALC, & ACETONE; INSOL IN ETHER /HCL/","SOL IN WATER, ALC, & ACETONE; INSOL IN ETHER /HCL/"
+1065,5569.0,CCCN(CCC)C1=C(C=C(C=C1[N+](=O)[O-])C(F)(F)F)[N+](=O)[O-],"less than 0.1 mg/mL at 72.5° F (NTP, 1992)","less than 0.1 mg/mL at 72.5 °F (NTP, 1992)"
+1066,5570.0,C[N+]1=CC=CC(=C1)C(=O)[O-],"In water, 1.0X10+6 mg/L at 25 °C (est) /miscible/",
+1067,5572.0,C1CCC(CC1)C(CCN2CCCCC2)(C3=CC=CC=C3)O,"Crystals; decomp at 258.5 °C; pH of 1% aq soln 5.5-6.0; solubility (g/100 mL): water at 25 °C 1.0, alcohol 6, chloroform 5; more soluble in methanol; very slightly soluble in ether, benzene /Hydrochloride/","Crystals; decomp at 258.5 °C; pH of 1% aq soln 5.5-6.0; solubility (g/100 mL): water at 25 °C 1.0, alcohol 6, chloroform 5; more soluble in methanol; very slightly soluble in ether, benzene /Hydrochloride/"
+1068,5573.0,CCC(COC(=O)C1=CC(=C(C(=C1)OC)OC)OC)(C2=CC=CC=C2)N(C)C,Insoluble,Insoluble
+1069,5574.0,CC(CN1C2=CC=CC=C2SC3=CC=CC=C31)CN(C)C,Insoluble,
+1070,5576.0,CC1(C(=O)N(C(=O)O1)C)C,<0.3 [ug/mL],<0.3 [ug/mL] (The mean of the results at pH 7.4)
+1071,5577.0,CN(C)CCOC1=CC=C(C=C1)CNC(=O)C2=CC(=C(C(=C2)OC)OC)OC,<0.3 [ug/mL],
+1072,5578.0,COC1=CC(=CC(=C1OC)OC)CC2=CN=C(N=C2N)N,"less than 1 mg/mL at 75° F (NTP, 1992)","less than 1 mg/mL at 75 °F (NTP, 1992)"
+1073,5584.0,CC(CN1C2=CC=CC=C2CCC3=CC=CC=C31)CN(C)C,Slightly soluble,Slightly soluble
+1074,5585.0,CC1=CC(=O)OC2=C1C=C3C=C(OC3=C2C)C,21.51 mg/L @ 25 °C (est),
+1075,5587.0,CN(C)CCN(CC1=CC=CC=C1)C2=CC=CC=N2,"Very soluble (NTP, 1992)","Very soluble (NTP, 1992)"
+1076,5593.0,CCN(CC1=CC=NC=C1)C(=O)C(CO)C2=CC=CC=C2,>42.7 [ug/mL],>42.7 [ug/mL] (The mean of the results at pH 7.4)
+1077,5596.0,C1CC[N+]2(C1)C3CCC2CC(C3)OC(=O)C(C4=CC=CC=C4)(C5=CC=CC=C5)O,6.68e-05 g/L,6.68e-05 g/L
+1078,5610.0,C1=CC(=CC=C1CCN)O,SOL IN WATER /TYRAMINE HYDROCHLORIDE/,SOL IN WATER /TYRAMINE HYDROCHLORIDE/
+1079,5611.0,CCCC(=O)NC1=C(C=C(C(=C1I)CC(CC)C(=O)O)I)I,slightly water soluble,slightly water soluble
+1080,5625.0,CC(C)NC1=C(N=CC=C1)N2CCN(CC2)C(=O)C3=CC4=C(N3)C=CC(=C4)NS(=O)(=O)C,8.60e-02 g/L,8.60e-02 g/L
+1081,5634.0,C=CCCCCCCCCC(=O)O,Insoluble,Insoluble
+1082,5641.0,CCOC(=O)N,"greater than or equal to 100 mg/mL at 72° F (NTP, 1992)","greater than or equal to 100 mg/mL at 72 °F (NTP, 1992)"
+1083,5646.0,CC1=C(C(=C2C(=C1O)C3(C(=CC(=O)C(C3=O)C(=O)C)O2)C)C(=O)C)O,"Solubility at 25 °C (g/100 ml): acetone, 0.77; ethyl acetate, 0.88; fural, 7.32; furfuryl alcohol, 1.21","Solubility at 25 °C (g/100 ml): acetone, 0.77; ethyl acetate, 0.88; fural, 7.32; furfuryl alcohol, 1.21"
+1084,5649.0,CC1C(=O)NC(C(=O)OC(C(=O)NC(C(=O)OC(C(=O)NC(C(=O)OC(C(=O)NC(C(=O)OC(C(=O)NC(C(=O)OC(C(=O)NC(C(=O)O1)C(C)C)C(C)C)C(C)C)C)C(C)C)C(C)C)C(C)C)C)C(C)C)C(C)C)C(C)C,Insoluble in water,Insoluble in water
+1085,5651.0,CC1C(C(CC(O1)OC2C(C(C(OC2OC3=C4C=C5C=C3OC6=C(C=C(C=C6)C(C(C(=O)NC(C(=O)NC5C(=O)NC7C8=CC(=C(C=C8)O)C9=C(C=C(C=C9O)O)C(NC(=O)C(C(C1=CC(=C(O4)C=C1)Cl)O)NC7=O)C(=O)O)CC(=O)N)NC(=O)C(CC(C)C)NC)O)Cl)CO)O)O)(C)N)O,"White solid; solubility in water: greater than 100 mg/mL; moderately soluble in methanol; insoluble in higher alcohols, acetone, ether; UV max absorption (water): 282 nm (e = 40, 1%, 1 cm) /Vancomycin hydrochloride/","White solid; solubility in water: greater than 100 mg/mL; moderately soluble in methanol; insoluble in higher alcohols, acetone, ether; UV max absorption (water): 282 nm (e = 40, 1%, 1 cm) /Vancomycin hydrochloride/"
+1086,5657.0,CC1CCC2C(C3(C(CC4(C5CCC6C7(C5(CC4(C3CN2C1)O)OC6(C(CC7)OC(=O)C8=CC(=C(C=C8)OC)OC)O)C)O)O)O)(C)O,SOL IN WATER; SLIGHTLY SOL IN ETHER,SOL IN WATER; SLIGHTLY SOL IN ETHER
+1087,5658.0,CC=C(C)C(=O)OC1CCC2(C3C1(OC24CC5(C6CN7CC(CCC7C(C6(C(CC5(C4CC3)O)O)O)(C)O)C)O)O)C,9.63e-04 M,
+1088,5662.0,C1CCC(C(C1)N2CCC(CC2)C3=CC=CC=C3)O,>38.9 [ug/mL],>38.9 [ug/mL] (The mean of the results at pH 7.4)
+1089,5672.0,CCC1=CC2CC(C3=C(CN(C2)C1)C4=CC=CC=C4N3)(C5=C(C=C6C(=C5)C78CCN9C7C(C=CC9)(C(C(C8N6C)(C(=O)OC)O)OC(=O)C)CC)OC)C(=O)OC,White to yellow or light brown amorphous powder. MF: C45H54N4O8.2C4H6O6. MW: 1079.12. Aqueous solubility: >1000 mg/ml in distilled water. pH approx 3.5 /Tartrate/,
+1090,5694.0,CC1=C(C(=CC=C1)NC2=CC(=NC(=N2)SCC(=O)O)Cl)C,"In water, 47.42 mg/L at 25 °C (est)",
+1091,5717.0,CC1=CC=CC=C1S(=O)(=O)NC(=O)C2=CC(=C(C=C2)CC3=CN(C4=C3C=C(C=C4)NC(=O)OC5CCCC5)C)OC,9.62e-04 g/L,9.62e-04 g/L
+1092,5719.0,CCN(C1=CC=CC(=C1)C2=CC=NC3=C(C=NN23)C#N)C(=O)C,4.03e-02 g/L,4.03e-02 g/L
+1093,5727.0,Cl[Zn]Cl,432 g/100 g water at 25 °C; 614 g/100 g water at 100 °C,"435 % at 70 °F (NIOSH, 2024)"
+1094,5734.0,C1=CC=C2C(=C1)C(=NO2)CS(=O)(=O)N,>31.8 [ug/mL],>31.8 [ug/mL] (The mean of the results at pH 7.4)
+1095,5735.0,CN1CCN(CC1)C(=O)OC2C3=NC=CN=C3C(=O)N2C4=NC=C(C=C4)Cl,>58.3 [ug/mL],>58.3 [ug/mL] (The mean of the results at pH 7.4)
+1096,5736.0,CN(C)CCOC1=CC2=CC=CC=C2SC3=C1C=C(C=C3)Cl,Poorly soluble,Poorly soluble
+1097,5742.0,C(=N)(N)N.Cl,"Solubility in water, g/100ml at 20 °C: 215","Solubility in water, g/100ml at 20 °C: 215"
+1098,5743.0,C[C@@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@@]4([C@]3([C@H](C[C@@]2([C@]1(C(=O)CO)O)C)O)F)C,"less than 1 mg/mL at 77° F (NTP, 1992)","less than 1 mg/mL at 77 °F (NTP, 1992)"
+1099,5744.0,CC(=O)OCC(=O)[C@]1(CC[C@@H]2[C@@]1(C[C@@H]([C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)O)C)O,3.49e-05 M,
+1100,5745.0,CC(=O)OCC(=O)[C@]1(CC[C@@H]2[C@@]1(CC(=O)[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C)O,3.49e-05 M,
+1101,5746.0,CC1=C(C(=O)C2=C(C1=O)N3C[C@H]4[C@@H]([C@@]3([C@@H]2COC(=O)N)OC)N4)N,"Soluble (NTP, 1992)","Soluble (NTP, 1992)"
+1102,5749.0,CC[N+](C)(CC)CCOC(=O)C(C1CCCCC1)(C2=CC=CC=C2)O,1.36e-04 g/L,1.36e-04 g/L
+1103,5753.0,C[C@]12CCC(=O)C=C1CC[C@@H]3[C@@H]2[C@H](C[C@]4([C@H]3CC[C@@H]4C(=O)CO)C)O,5.74e-04 M,0.199 mg/mL
+1104,5754.0,C[C@]12CCC(=O)C=C1CC[C@@H]3[C@@H]2[C@H](C[C@]4([C@H]3CC[C@@]4(C(=O)CO)O)C)O,5.74e-04 M,
+1105,5755.0,C[C@]12C[C@@H]([C@H]3[C@H]([C@@H]1CC[C@@]2(C(=O)CO)O)CCC4=CC(=O)C=C[C@]34C)O,5.74e-04 M,
+1106,5756.0,C[C@]12CC[C@H]3[C@H]([C@@H]1C[C@H]([C@@H]2O)O)CCC4=C3C=CC(=C4)O,"Slightly soluble in ethyl ether, benzene, trifluoroacetic acid; very soluble in pyridine","Slightly soluble in ethyl ether, benzene, trifluoroacetic acid; very soluble in pyridine"
+1107,5757.0,C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2O)CCC4=C3C=CC(=C4)O,"Slightly soluble in ethyl ether, benzene, trifluoroacetic acid; very soluble in pyridine",
+1108,5758.0,C1=CC(=C(C(=C1)Cl)C(=O)O)Cl,"1 to 10 mg/mL at 66° F (NTP, 1992)","1 to 10 mg/mL at 66 °F (NTP, 1992)"
+1109,5759.0,C1=CC(=C(C(=C1Cl)C(=O)O)Cl)Cl,0.03 M,Soluble in ethyl ether
+1110,5760.0,CN1C2CCC1[C@H]([C@H](C2)OC(=O)C3=CC=CC=C3)C(=O)OC,0.01 M,
+1111,5761.0,CCN(CC)C(=O)[C@H]1CN([C@@H]2CC3=CNC4=CC=CC(=C34)C2=C1)C,Water soluble,Water soluble
+1112,5763.0,CCN(CC)CCOC(=O)C(C1=CC=CC=C1)C2=CC=CC=C2.Cl,>52.2 [ug/mL],>52.2 [ug/mL] (The mean of the results at pH 7.4)
+1113,5768.0,COC1=CC2=C(C=CN=C2C=C1)[C@@H]([C@H]3CC4CCN3C[C@@H]4C=C)O.COC1=CC2=C(C=CN=C2C=C1)[C@@H]([C@H]3CC4CCN3C[C@@H]4C=C)O.OS(=O)(=O)O,"WHITE; VERY BITTER; ODORLESS; FINE CRYSTALS; FREQUENTLY COHERING IN MASSES; PH (1% AQUEOUS SOLN): 6.0-6.8 PKA: 4.2, 8.8; SPECIFIC OPTICAL ROTATION: +212 @ 25 °C/D (95% ALCOHOL); ABOUT + 260 @ 25 °C/D (DILUTE HYDROCHLORIC ACID); DOES NOT LOSE ALL OF ITS WATER BELOW 120 °C 1 G DISSOLVES IN ABOUT 90 ML WATER, 15 ML BOILING WATER, 10 ML ALCOHOL, 3 ML METHANOL, 12 ML CHLOROFORM; INSOL IN ETHER, BENZENE; /DIHYDRATE/","WHITE; VERY BITTER; ODORLESS; FINE CRYSTALS; FREQUENTLY COHERING IN MASSES; PH (1% AQUEOUS SOLN): 6.0-6.8 PKA: 4.2, 8.8; SPECIFIC OPTICAL ROTATION: +212 @ 25 °C/D (95% ALCOHOL); ABOUT + 260 @ 25 °C/D (DILUTE HYDROCHLORIC ACID); DOES NOT LOSE ALL OF ITS WATER BELOW 120 °C 1 G DISSOLVES IN ABOUT 90 ML WATER, 15 ML BOILING WATER, 10 ML ALCOHOL, 3 ML METHANOL, 12 ML CHLOROFORM; INSOL IN ETHER, BENZENE; /DIHYDRATE/"
+1114,5770.0,CO[C@H]1[C@@H](C[C@@H]2CN3CCC4=C([C@H]3C[C@@H]2[C@@H]1C(=O)OC)NC5=C4C=CC(=C5)OC)OC(=O)C6=CC(=C(C(=C6)OC)OC)OC,"less than 1 mg/mL at 72° F (NTP, 1992)","less than 1 mg/mL at 72 °F (NTP, 1992)"
+1115,5773.0,C1C(=C(N2[C@H](S1)[C@@H](C2=O)NC(=O)CC3=CC=CS3)C(=O)[O-])C[N+]4=CC=CC=C4,SOL IN WATER,SOL IN WATER
+1116,5775.0,CC1=CC=C(C=C1)N(CC2=NCCN2)C3=CC(=CC=C3)O,"In water, 4.59 mg/L at 25 °C (est)",2.72e-01 g/L
+1117,5781.0,C1(=O)C(=O)NC(=O)NC1=O,"greater than or equal to 100 mg/mL at 70.7° F (NTP, 1992)",Sol in benzene
+1118,5784.0,C1=CC(=C(C=C1Cl)C(=O)O)Cl,"less than 1 mg/mL at 66° F (NTP, 1992)","less than 1 mg/mL at 66 °F (NTP, 1992)"
+1119,5786.0,C1=C(C(=CC(=C1Cl)Cl)Cl)C(=O)O,0.00 M,
+1120,5787.0,C1=CC(=C(C=C1Cl)Cl)C(=O)O,"less than 1 mg/mL at 66° F (NTP, 1992)","less than 1 mg/mL at 66 °F (NTP, 1992)"
+1121,5789.0,CC1=CN(C(=O)NC1=O)[C@H]2C[C@@H]([C@H](O2)CO)O,73.5 mg/mL,73.5 mg/mL
+1122,5790.0,C1[C@@H]([C@H](O[C@H]1N2C=C(C(=O)NC2=O)F)CO)O,73.5 mg/mL,
+1123,5792.0,C1=CC=C(C=C1)C(C2=NC3=CC=CC=C3N2)O,>33.6 [ug/mL],>33.6 [ug/mL] (The mean of the results at pH 7.4)
+1124,5794.0,CCCCOCCOCCOCC1=CC2=C(C=C1CCC)OCO2,"less than 1 mg/mL at 64° F (NTP, 1992)","less than 1 mg/mL at 64 °F (NTP, 1992)"
+1125,5798.0,C1=CC=C2C(=C1)NC=N2,>17.7 [ug/mL],>17.7 [ug/mL] (The mean of the results at pH 7.4)
+1126,5799.0,C1CN1C2=NC(=NC(=N2)N3CC3)N4CC4,"less than 1 mg/mL at 61° F (NTP, 1992)","less than 1 mg/mL at 61 °F (NTP, 1992)"
+1127,5801.0,C1=CC=C(C(=C1)N)O,"less than 0.1 mg/mL at 70° F (NTP, 1992)","less than 0.1 mg/mL at 70 °F (NTP, 1992)"
+1128,5802.0,C1=C(C(=O)NC(=O)N1)Br,"less than 1 mg/mL at 75° F (NTP, 1992)","less than 1 mg/mL at 75 °F (NTP, 1992)"
+1129,5807.0,CC(C)NCC(C1=CC(=C(C=C1)O)O)O.Cl,>37.2 [ug/mL],>37.2 [ug/mL] (The mean of the results at pH 7.4)
+1130,5810.0,C1[C@H](CN[C@@H]1C(=O)O)O,"Soluble in water at 0, 25, 50, and 60 °C","Soluble in water at 0, 25, 50, and 60 °C"
+1131,5811.0,C1=C(C=C(C=C1Cl)Cl)C(=O)O,7.70e-04 M,
+1132,5815.0,CNC[C@@H](C1=CC(=C(C=C1)O)O)O.[C@@H]([C@H](C(=O)O)O)(C(=O)O)O,1.00 M,>50 [ug/mL] (The mean of the results at pH 7.4)
+1133,5816.0,CNC[C@@H](C1=CC(=C(C=C1)O)O)O,"less than 0.1 mg/mL at 64° F (NTP, 1992)","less than 0.1 mg/mL at 64 °F (NTP, 1992)"
+1134,5817.0,C1=CC(=C(C=C1C(=O)O)Cl)Cl,3.20e-04 M,
+1135,5824.0,CN(C)C(=O)OC1=CC=CC(=C1)[N+](C)(C)C.COS(=O)(=O)[O-],>50.2 [ug/mL],>50.2 [ug/mL] (The mean of the results at pH 7.4)
+1136,5826.0,C[C@@H](CC1=CC=CC=C1)N,Moderately Soluble,Moderately Soluble
+1137,5827.0,CC(=O)NC1=CC=C(C=C1)OC,0.09 M,
+1138,5828.0,C1=CC(=CC=C1N)O.Cl,Very sol in water; sol in alcohol,Very sol in water; sol in alcohol
+1139,5831.0,C[N+](C)(C)CCOC(=O)N.[Cl-],1 g in 1 ml water,1 g in 1 ml water
+1140,5832.0,CC(=O)O[C@]1(CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@H]34)C)C#C,1.61e-05 M,
+1141,5833.0,CC(=O)S[C@@H]1CC2=CC(=O)CC[C@@]2([C@@H]3[C@@H]1[C@@H]4CC[C@]5([C@]4(CC3)C)CCC(=O)O5)C,5.28e-05 M,Soluble in most organic solvents
+1142,5834.0,CC(=O)OCC(=O)[C@]1(CC[C@@H]2[C@@]1(C[C@@H]([C@H]3[C@H]2CCC4=CC(=O)C=C[C@]34C)O)C)O,4.27e-05 M,
+1143,5838.0,CCC1(C(=O)NC(=O)NC1=O)C2=CCCCC2,0.01 M,
+1144,5839.0,C[C@]12CCC(=O)C=C1CC[C@@H]3[C@@H]2[C@H](C[C@]4([C@H]3CC[C@@H]4C(=O)CO)C=O)O,0.01 M,
+1145,5842.0,C=CCC1(C(=O)NC(=O)NC1=O)CC=C,0.01 M,
+1146,5850.0,C[N+]1(CCCC1)CCCCC[N+]2(CCCC2)C,1.16e-05 g/L,1.16e-05 g/L
+1147,5853.0,COP(=O)(C(C(Cl)(Cl)Cl)O)OC,"10 to 50 mg/mL at 70Â° F (NTP, 1992)","10 to 50 mg/mL at 70 °F (NTP, 1992)"
+1148,5857.0,C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@]2(C#C)O)CCC4=CCCC[C@H]34,"In water, 0.768 mg/L at 25 °C (est)",
+1149,5859.0,CN(C)S(=O)(=O)C1=CC=C(C=C1)OP(=S)(OC)OC,"Sparingly soluble in water. In aqueous isopropanol (45%) 23 g/kg (20 °C); in xylene 300 g/kg (5 °C); soluble in acetone, carbon tetrachloride, chloroform, cyclohexanone, dichloromethane, toluene; sparingly soluble in aliphatic hydrocarbons","Sparingly soluble in water. In aqueous isopropanol (45%) 23 g/kg (20 °C); in xylene 300 g/kg (5 °C); soluble in acetone, carbon tetrachloride, chloroform, cyclohexanone, dichloromethane, toluene; sparingly soluble in aliphatic hydrocarbons"
+1150,5865.0,C[C@]12CC(=O)[C@H]3[C@H]([C@@H]1CC[C@@]2(C(=O)CO)O)CCC4=CC(=O)C=C[C@]34C,"Very slightly soluble (NTP, 1992)","Very slightly soluble (NTP, 1992)"
+1151,5875.0,C[C@@H]1C[C@H]2[C@@H]3C[C@@H](C4=CC(=O)C=C[C@@]4([C@H]3[C@H](C[C@@]2([C@]1(C(=O)CO)O)C)O)C)F,"Fluffy, practically white, crystalline powder. Sol in chloroform, ether, and methanol; odorless /acetate/","Fluffy, practically white, crystalline powder. Sol in chloroform, ether, and methanol; odorless /acetate/"
+1152,5876.0,C[C@]12C[C@@H]([C@H]3[C@H]([C@@H]1CC[C@@]2(C(=O)CO)O)C[C@@H](C4=CC(=O)C=C[C@]34C)F)O,"SPARINGLY SOL IN ALC, METHANOL, ETHYL ACETATE. SLIGHTLY SOL IN CHLOROFORM, ETHER, ETHYLENE DICHLORIDE. VERY SLIGHTLY SOL IN BENZENE.","SPARINGLY SOL IN ALC, METHANOL, ETHYL ACETATE. SLIGHTLY SOL IN CHLOROFORM, ETHER, ETHYLENE DICHLORIDE. VERY SLIGHTLY SOL IN BENZENE."
+1153,5878.0,C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@]2(C)O)CC[C@@H]4[C@@]3(COC(=O)C4)C,"PRACTICALLY INSOL IN WATER; SPARINGLY SOL IN ALC, ACETONE; FREELY SOL IN CHLOROFORM","PRACTICALLY INSOL IN WATER; SPARINGLY SOL IN ALC, ACETONE; FREELY SOL IN CHLOROFORM"
+1154,5879.0,C[C@]12CC[C@H](C[C@@H]1CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CCC4=O)C)O,4.61e-05 M,0.012 mg/mL at 23 °C
+1155,5887.0,CN(C)CCCN1C2=CC=CC=C2SC3=CC=CC=C31.Cl,>48.1 [ug/mL],>48.1 [ug/mL] (The mean of the results at pH 7.4)
+1156,5889.0,C1=CC=C2C(=C1)C=CC3=CC4=C(C=CC5=CC=CC=C54)C=C32,"less than 1 mg/mL at 66° F (NTP, 1992)","less than 1 mg/mL at 66 °F (NTP, 1992)"
+1157,5892.0,C1=CC(=C[N+](=C1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)([O-])OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)N4C=NC5=C(N=CN=C54)N)O)O)O)O)C(=O)N,752.5 mg/mL,752.5 mg/mL
+1158,5896.0,CC(=O)N(C1=CC2=C(C=C1)C3=CC=CC=C3C2)O,"less than 1 mg/mL at 64° F (NTP, 1992)","less than 1 mg/mL at 64 °F (NTP, 1992)"
+1159,5897.0,CC(=O)NC1=CC2=C(C=C1)C3=CC=CC=C3C2,"less than 1 mg/mL at 68.9° F (NTP, 1992)","less than 1 mg/mL at 68.9 °F (NTP, 1992)"
+1160,5901.0,C1=NN(C(=O)NC1=O)[C@H]2[C@@H]([C@@H]([C@H](O2)CO)O)O,36.2 [ug/mL],36.2 [ug/mL] (The mean of the results at pH 7.4)
+1161,5903.0,CCN(CC)CCOC(=O)C1=CC=C(C=C1)N.CC1([C@@H](N2[C@H](S1)[C@@H](C2=O)NC(=O)CC3=CC=CC=C3)C(=O)O)C,Slightly soluble,Slightly soluble
+1162,5904.0,CC1([C@@H](N2[C@H](S1)[C@@H](C2=O)NC(=O)CC3=CC=CC=C3)C(=O)O)C,Slightly soluble (210 mg/L),Slightly soluble (210 mg/L)
+1163,5905.0,C1[C@@H]([C@H](O[C@H]1N2C=C(C(=O)NC2=O)I)CO)O,Slightly soluble (210 mg/L),
+1164,5906.0,C[C@@H]([C@@H](C1=CC(=CC=C1)O)O)N,Slightly soluble (210 mg/L),
+1165,5909.0,CC[C@H]1[C@H](COC1=O)CC2=CN=CN2C.Cl,>36.7 [ug/mL],>36.7 [ug/mL] (The mean of the results at pH 7.4)
+1166,5910.0,CC[C@H]1[C@H](COC1=O)CC2=CN=CN2C,>36.7 [ug/mL],FREELY SOL IN ETHANOL; INSOL IN DIETHYL ETHER /HCL/
+1167,5916.0,CC1=C(C=CC(=C1)N(C)C)N=NC2=CC=CC=C2,"less than 1 mg/mL at 66° F (NTP, 1992)","less than 1 mg/mL at 66 °F (NTP, 1992)"
+1168,5917.0,C1CCC2=NN=NN2CC1,"greater than or equal to 100 mg/mL at 70° F (NTP, 1992)","greater than or equal to 100 mg/mL at 70 °F (NTP, 1992)"
+1169,5918.0,C1=CN=CC(=C1N)N,12.2 [ug/mL],12.2 [ug/mL] (The mean of the results at pH 7.4)
+1170,5920.0,C1=CC(=C(C=C1OC2=C(C=C(C=C2I)C[C@@H](C(=O)O)N)I)I)O,11.4 [ug/mL],11.4 [ug/mL] (The mean of the results at pH 7.4)
+1171,5921.0,CCN(CC)N=O,"greater than or equal to 100 mg/mL at 70° F (NTP, 1992)","greater than or equal to 100 mg/mL at 70 °F (NTP, 1992)"
+1172,5922.0,C1=CN=CC=C1C(=O)O,0.04 M,
+1173,5926.0,C[N+](C)(C)CC#CCOC(=O)NC1=CC(=CC=C1)Cl.[Cl-],>47.6 [ug/mL],>47.6 [ug/mL] (The mean of the results at pH 7.4)
+1174,5931.0,CNC1=CC=C(C=C1)O,"Soluble in alcohol, ether","Soluble in alcohol, ether"
+1175,5934.0,CC1=CC(=CC=C1)N=NC2=CC=C(C=C2)N(C)C,0.4 [ug/mL],0.4 [ug/mL] (The mean of the results at pH 7.4)
+1176,5935.0,CN(CCCl)CCCl.Cl,"greater than or equal to 100 mg/mL at 66° F (NTP, 1992)","greater than or equal to 100 mg/mL at 66 °F (NTP, 1992)"
+1177,5936.0,CC(C)OP(=O)(OC(C)C)F,"greater than or equal to 100 mg/mL at 66° F (NTP, 1992)",
+1178,5942.0,C(CN)CNCCCN,"Soluble (>=10 mg/ml) (NTP, 1992)","Soluble (>=10 mg/ml) (NTP, 1992)"
+1179,5943.0,C(Cl)(Cl)(Cl)Cl,"less than 1 mg/mL at 70° F (NTP, 1992)","less than 1 mg/mL at 70 °F (NTP, 1992)"
+1180,5944.0,C[C@@]12[C@H]3CC[C@@H]([C@@]1(C(=O)OC2=O)C)O3,1.53e-04 M,"Insol in cold water; somewhat sol in hot water; 1 g dissolves in 40 ml acetone, 65 ml chloroform; 1 g dissolves in 560 ml ether, 150 ml ethyl acetate; sol in oils."
+1181,5946.0,CC[N+](CC)(CC)CC.[Cl-],20.3 [ug/mL],20.3 [ug/mL] (The mean of the results at pH 7.4)
+1182,5952.0,CC(=O)OCC(=O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C,2.34e-05 M,
+1183,5953.0,COC1=CC2=C(C=CN=C2C=C1)[C@@H]([C@H]3CC4CCN3C[C@@H]4C=C)O,"less than 0.1 mg/mL at 64° F (NTP, 1992)","WHITE; VERY BITTER; ODORLESS; FINE CRYSTALS; FREQUENTLY COHERING IN MASSES; PH (1% AQUEOUS SOLN): 6.0-6.8 PKA: 4.2, 8.8; SPECIFIC OPTICAL ROTATION: +212 @ 25 °C/D (95% ALCOHOL); ABOUT + 260 @ 25 °C/D (DILUTE HYDROCHLORIC ACID); DOES NOT LOSE ALL OF ITS WATER BELOW 120 °C 1 G DISSOLVES IN ABOUT 90 ML WATER, 15 ML BOILING WATER, 10 ML ALCOHOL, 3 ML METHANOL, 12 ML CHLOROFORM; INSOL IN ETHER, BENZENE; /DIHYDRATE/"
+1184,5954.0,C1=CC=C2C(=C1)C=CC3=CC4=CC=CC=C4C=C32,"less than 1 mg/mL at 68° F (NTP, 1992)","less than 1 mg/mL at 68 °F (NTP, 1992)"
+1185,5955.0,C1=CC=C2C(=C1)C(=CC=[N+]2[O-])[N+](=O)[O-],"less than 1 mg/mL at 66° F (NTP, 1992)","less than 1 mg/mL at 66 °F (NTP, 1992)"
+1186,5963.0,C[N+](C)(C)CC1=CC=CC=C1.[Cl-],>27.9 [ug/mL],>27.9 [ug/mL] (The mean of the results at pH 7.4)
+1187,5965.0,CN(CCCCCCCCCCN(C)C(=O)OC1=CC=CC(=C1)[N+](C)(C)C)C(=O)OC2=CC=CC(=C2)[N+](C)(C)C.[Br-].[Br-],"FREELY SOL IN WATER, ALCOHOL; SPARINGLY SOL IN ACETONE; INSOL IN ETHER","FREELY SOL IN WATER, ALCOHOL; SPARINGLY SOL IN ACETONE; INSOL IN ETHER"
+1188,5966.0,CN(CCCCCCCCCCN(C)C(=O)OC1=CC=CC(=C1)[N+](C)(C)C)C(=O)OC2=CC=CC(=C2)[N+](C)(C)C,1.69e-05 g/L,1.69e-05 g/L
+1189,5970.0,C[N+](C)(C)CC(CC(=O)O)O.[Cl-],>29.6 [ug/mL],>29.6 [ug/mL] (The mean of the results at pH 7.4)
+1190,5971.0,C=CCN=C=S,"less than 0.1 mg/mL at 66° F (NTP, 1992)","less than 0.1 mg/mL at 66 °F (NTP, 1992)"
+1191,5976.0,CN(C)N,"Decomposes (NTP, 1992)","Decomposes (NTP, 1992)"
+1192,5977.0,CC(C)(C(Cl)(Cl)Cl)O,0.05 M,"INSOL IN COLD WATER, SOL IN HOT WATER"
+1193,5978.0,CC[C@@]1(C[C@@H]2C[C@@](C3=C(CCN(C2)C1)C4=CC=CC=C4N3)(C5=C(C=C6C(=C5)[C@]78CCN9[C@H]7[C@@](C=CC9)([C@H]([C@@]([C@@H]8N6C=O)(C(=O)OC)O)OC(=O)C)CC)OC)C(=O)OC)O,"WHITE TO SLIGHTLY YELLOW, AMORPHOUS OR CRYSTALLINE POWDER; ODORLESS, HYGROSCOPIC; FREELY SOL IN WATER /VINCRISTINE SULFATE USP/","WHITE TO SLIGHTLY YELLOW, AMORPHOUS OR CRYSTALLINE POWDER; ODORLESS, HYGROSCOPIC; FREELY SOL IN WATER /VINCRISTINE SULFATE USP/"
+1194,5987.0,NS(=O)(=O)O,"SPARINGLY SOL IN ALC, METHANOL; SLIGHTLY SOL IN ACETONE; INSOL IN ETHER; FREELY SOL IN NITROGENOUS BASES AND IN NITROGEN CONTAINING ORG SOLVENTS","SPARINGLY SOL IN ALC, METHANOL; SLIGHTLY SOL IN ACETONE; INSOL IN ETHER; FREELY SOL IN NITROGENOUS BASES AND IN NITROGEN CONTAINING ORG SOLVENTS"
+1195,5988.0,C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O[C@]2([C@H]([C@@H]([C@H](O2)CO)O)O)CO)O)O)O)O,"greater than or equal to 100 mg/mL at 66° F (NTP, 1992)","greater than or equal to 100 mg/mL at 66 °F (NTP, 1992)"
+1196,5991.0,C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@]2(C#C)O)CCC4=C3C=CC(=C4)O,"less than 1 mg/mL at 70° F (NTP, 1992)","less than 1 mg/mL at 70 °F (NTP, 1992)"
+1197,5993.0,C1C2C(C(C1Cl)Cl)C3(C(=C(C2(C3(Cl)Cl)Cl)Cl)Cl)Cl,"0.0001 % (NIOSH, 2016)","0.0001 % (NIOSH, 2024)"
+1198,5994.0,CC(=O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C,"less than 1 mg/mL at 66° F (NTP, 1992)","less than 1 mg/mL at 66 °F (NTP, 1992)"
+1199,5995.0,CCC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C,"less than 1 mg/mL at 76.1° F (NTP, 1992)","less than 1 mg/mL at 76.1 °F (NTP, 1992)"
+1200,6000.0,CN1CCC2=CC(=C3C=C2[C@@H]1CC4=CC=C(C=C4)OC5=C6[C@@H](CC7=CC(=C(C=C7)O)O3)[N+](CCC6=CC(=C5O)OC)(C)C)OC,"Solublity (25 °C): approx 50 mg/l water; but supersaturated solustions are formed readily. Solubility also reported as approximately 1 g/40 ml water; approximately 1 g/75 ml ethanol. Also soluble in methanol. Insoluble in pyridine, chloroform, benzene, acetone, ether. /Chloride, d-Form/","Solublity (25 °C): approx 50 mg/l water; but supersaturated solustions are formed readily. Solubility also reported as approximately 1 g/40 ml water; approximately 1 g/75 ml ethanol. Also soluble in methanol. Insoluble in pyridine, chloroform, benzene, acetone, ether. /Chloride, d-Form/"
+1201,6001.0,CC1=C2C=CC3=CC=CC=C3C2=C(C4=CC=CC=C14)C,"less than 1 mg/mL at 64° F (NTP, 1992)","less than 1 mg/mL at 64 °F (NTP, 1992)"
+1202,6005.0,CN1CCC2=C3[C@H]1CC4=C(C3=CC=C2)C(=C(C=C4)O)O,"MINUTE, WHITE OR GRAYISH WHITE, GLISTENING CRYSTALS OR WHITE POWDER; ODORLESS; SOLN ARE NEUTRAL TO LITMUS; LEVOROTATORY IN DIL ACID; 1 G SOL IN 50 ML WATER, IN ABOUT 50 ML ALCOHOL, & IN ABOUT 20 ML WATER @ 80 °C; PPT BY TANNIC ACID & OTHER ALKALOIDAL PRECIPITANTS & DECOMP BY OXIDIZING AGENTS. /HCL/","MINUTE, WHITE OR GRAYISH WHITE, GLISTENING CRYSTALS OR WHITE POWDER; ODORLESS; SOLN ARE NEUTRAL TO LITMUS; LEVOROTATORY IN DIL ACID; 1 G SOL IN 50 ML WATER, IN ABOUT 50 ML ALCOHOL, & IN ABOUT 20 ML WATER @ 80 °C; PPT BY TANNIC ACID & OTHER ALKALOIDAL PRECIPITANTS & DECOMP BY OXIDIZING AGENTS. /HCL/"
+1203,6009.0,CC1=C(C(=O)N(N1C)C2=CC=CC=C2)N(C)C,"greater than or equal to 100 mg/mL at 72° F (NTP, 1992)","greater than or equal to 100 mg/mL at 72 °F (NTP, 1992)"
+1204,6010.0,C[C@]12CCC(=O)C=C1CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CC[C@]4(C)O)C,"greater than or equal to 100 mg/mL at 72° F (NTP, 1992)",
+1205,6011.0,C[C@@H]1C[C@]2([C@@H](CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CC[C@@H]4O)C)CC1=O)C,6.05e-03 g/L,6.05e-03 g/L
+1206,6014.0,CC(CN1C2=CC=CC=C2SC3=CC=CC=C31)N(C)C.Cl,"greater than or equal to 100 mg/mL at 72° F (NTP, 1992)","greater than or equal to 100 mg/mL at 72 °F (NTP, 1992)"
+1207,6018.0,CC(C)CC1CN2CCC3=CC(=C(C=C3C2CC1=O)OC)OC,Sparingly soluble,Sparingly soluble
+1208,6019.0,CC1=NC=C(C(=C1O)CO)CO.Cl,"5 to 10 mg/mL at 68° F (NTP, 1992)","5 to 10 mg/mL at 68 °F (NTP, 1992)"
+1209,6028.0,C1=C(C(=C(C(=C1Cl)Cl)Cl)O)Cl,"less than 1 mg/mL at 68° F (NTP, 1992)","less than 1 mg/mL at 68 °F (NTP, 1992)"
+1210,6029.0,C1=CN(C(=O)NC1=O)[C@H]2[C@@H]([C@@H]([C@H](O2)CO)O)O,34.9 [ug/mL],34.9 [ug/mL] (The mean of the results at pH 7.4)
+1211,6032.0,C1[C@H]([C@@H]([C@H]([C@@H]([C@H]1N)O[C@@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CN)O)O)O)O)O[C@@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)N)O)N,Miscible with water at 25 °C (1.0X10+6 mg/L) (est),9.23e+01 g/L
+1212,6035.0,C1[C@@H]([C@H](O[C@H]1N2C=C(C(=O)NC2=O)Br)CO)O,"10 to 50 mg/mL at 72° F (NTP, 1992)","10 to 50 mg/mL at 72 °F (NTP, 1992)"
+1213,6037.0,C1=CC(=CC=C1C(=O)N[C@@H](CCC(=O)O)C(=O)O)NCC2=CN=C3C(=N2)C(=O)N=C(N3)N,0.0016 mg/mL,"Almost insoluble (NTP, 1992)"
+1214,6038.0,C1=CC=C2C(=C1)C=CC(=O)N2,0.01 M,
+1215,6041.0,CNC[C@@H](C1=CC(=CC=C1)O)O,Freely soluble in water,Freely soluble in water
+1216,6042.0,CC1=C(SC=[N+]1CC2=CN=C(N=C2N)C)CCO.[Cl-],SLIGHTLY SOL IN ALC & CHLOROFORM /MONONITRATE/,SLIGHTLY SOL IN ALC & CHLOROFORM /MONONITRATE/
+1217,6043.0,C1=CC=C2C(=C1)NC(=O)O2,>20.3 [ug/mL],>20.3 [ug/mL] (The mean of the results at pH 7.4)
+1218,6046.0,C1COCCN1N=O,"greater than or equal to 100 mg/mL at 66° F (NTP, 1992)","greater than or equal to 100 mg/mL at 66 °F (NTP, 1992)"
+1219,6047.0,C1=CC(=C(C=C1C[C@@H](C(=O)O)N)O)O,5mM,5mM
+1220,6050.0,CCCC(=O)OCC(COC(=O)CCC)OC(=O)CCC,"SOL IN ACETONE, BENZENE","SOL IN ACETONE, BENZENE"
+1221,6051.0,C1=CC=C(C=C1)N=NC2=CC=C(C=C2)N,"less than 1 mg/mL at 66° F (NTP, 1992)","less than 1 mg/mL at 66 °F (NTP, 1992)"
+1222,6053.0,CN(C)C1=CC=C(C=C1)N=NC2=CC=CC=C2,"less than 1 mg/mL at 72° F (NTP, 1992)","less than 1 mg/mL at 72 °F (NTP, 1992)"
+1223,6054.0,C1=CC=C(C=C1)CCO,"less than 1 mg/mL at 72° F (NTP, 1992)",
+1224,6055.0,CC(CC1=CC=CC=C1)N.CC(CC1=CC=CC=C1)N.OS(=O)(=O)O,"50 to 100 mg/mL at 61° F (NTP, 1992)","50 to 100 mg/mL at 61 °F (NTP, 1992)"
+1225,6058.0,C(CS)N,Freely soluble in water.,Freely soluble in water.
+1226,6060.0,CC(=O)OCC[N+](C)(C)C.[Cl-],>27.2 [ug/mL],>27.2 [ug/mL] (The mean of the results at pH 7.4)
+1227,6061.0,CNN,"Insoluble (<1 mg/ml at 75° F) (NTP, 1992)","Insoluble (<1 mg/ml at 75 °F) (NTP, 1992)"
+1228,6070.0,C[C@H]1C[C@H]([C@@H](NC1)[C@@H](C)C2=C(C3=C(C=C2)[C@@H]4CC=C5C[C@H](CC[C@@]5([C@H]4C3)C)O)C)O,"SLIGHTLY SOL IN WATER; SOL IN METHANOL, ALC","SLIGHTLY SOL IN WATER; SOL IN METHANOL, ALC"
+1229,6072.0,C1=CC(=CC=C1CCC(=O)C2=C(C=C(C=C2O[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O)O)O)O,1 mg/mL at 22 °C,1 mg/mL at 22 °C
+1230,6075.0,CN1CCCC(C1)CN2C3=CC=CC=C3SC4=CC=CC=C42,1.80e-05 M,
+1231,6076.0,C1[C@@H]2[C@H]([C@H]([C@@H](O2)N3C=NC4=C(N=CN=C43)N)O)OP(=O)(O1)O,4 mg/mL,4 mg/mL
+1232,6077.0,CC(=O)C1=CC2=C(C=C1)SC3=CC=CC=C3N2CCCN(C)C,9.80e-03 g/L,9.80e-03 g/L
+1233,6081.0,CC(C(C1=C(C=CC(=C1)OC)OC)O)N.Cl,>37.2 [ug/mL],>37.2 [ug/mL] (The mean of the results at pH 7.4)
+1234,6082.0,CC(C(C1=C(C=CC(=C1)OC)OC)O)N,Soluble (185 g/L),Soluble (185 g/L)
+1235,6083.0,C1=NC(=C2C(=N1)N(C=N2)[C@H]3[C@@H]([C@@H]([C@H](O3)COP(=O)(O)O)O)O)N,Soluble (185 g/L),
+1236,6084.0,COC1=C(C=C(C=C1)CC2=NC=CC3=CC(=C(C=C32)OC)OC)OC.Cl,"Soluble (>=10 mg/ml at 70° F) (NTP, 1992)","Soluble (>=10 mg/ml at 70 °F) (NTP, 1992)"
+1237,6087.0,CC1([C@@H](N2[C@H](S1)[C@@H](C2=O)NC(=O)C3=C(C=CC=C3OC)OC)C(=O)O)C,"FINE, WHITE, CRYSTALLINE POWDER; FREELY SOL IN METHANOL, PYRIDINE; SLIGHTLY SOL IN PROPYL AND AMYL ALCOHOL, ETHYLENE CHLORIDE; INSOL IN BENZENE; ODORLESS OR HAVING SLIGHT ODOR /METHICILLIN SODIUM/","FINE, WHITE, CRYSTALLINE POWDER; FREELY SOL IN METHANOL, PYRIDINE; SLIGHTLY SOL IN PROPYL AND AMYL ALCOHOL, ETHYLENE CHLORIDE; INSOL IN BENZENE; ODORLESS OR HAVING SLIGHT ODOR /METHICILLIN SODIUM/"
+1238,6088.0,CNCCC1=CNC2=CC=CC=C21,>26.1 [ug/mL],>26.1 [ug/mL] (The mean of the results at pH 7.4)
+1239,6089.0,CN(C)CCC1=CNC2=CC=CC=C21,Freely soluble in dilute acetic and dilute mineral acids,Freely soluble in dilute acetic and dilute mineral acids
+1240,6093.0,C1CN(C(=O)N1)C2=NC=C(S2)[N+](=O)[O-],6.07e-04 M,Insoluble in most organic solvents; soluble in dimethylformamide
+1241,6098.0,CC1=C(C(=NO1)C2=CC=CC=C2Cl)C(=O)N[C@H]3[C@@H]4N(C3=O)[C@H](C(S4)(C)C)C(=O)O,"WHITE, CRYSTALLINE POWDER; SOL IN ALCOHOL; SLIGHTLY SOL IN ACETONE, CHLOROFORM; AQ SOLN IS ALKALINE; DECOMP BETWEEN 170 °C & 173 °C; ODORLESS; BITTER TASTE /MONOHYDRATE/","WHITE, CRYSTALLINE POWDER; SOL IN ALCOHOL; SLIGHTLY SOL IN ACETONE, CHLOROFORM; AQ SOLN IS ALKALINE; DECOMP BETWEEN 170 °C & 173 °C; ODORLESS; BITTER TASTE /MONOHYDRATE/"
+1242,6099.0,CN(C)C1=CC2=C(C=C1)N=C3C=CC(=[N+](C)C)C=C3S2.[Cl-],0.14 M,"In water, 43,600 mg/L at 25 °C."
+1243,6100.0,CC[N+](C)(C)CC1=CC=CC=C1Br.CC1=CC=C(C=C1)S(=O)(=O)[O-],>62.2 [ug/mL],>62.2 [ug/mL] (The mean of the results at pH 7.4)
+1244,6101.0,CC1=CC=C(C=C1)S(=O)(=O)O,3.60 M,"ABOUT 67 G/100 ML WATER; SOL IN ALCOHOL, ETHER"
+1245,6104.0,C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)[S-])O)O)O)O.[Au+],"Slightly soluble in propylene glycol; practically insoluble in acetone, alcohol, chloroform, and ether","Slightly soluble in propylene glycol; practically insoluble in acetone, alcohol, chloroform, and ether"
+1246,6106.0,CC(C)C[C@@H](C(=O)O)N,"Slightly soluble in propylene glycol; practically insoluble in acetone, alcohol, chloroform, and ether",
+1247,6108.0,C1=CC(=CC=C1C(=O)O)[N+](=O)[O-],"less than 1 mg/mL at 79° F (NTP, 1992)","less than 1 mg/mL at 79 °F (NTP, 1992)"
+1248,6109.0,C(CN(CC(=O)[O-])CC(=O)[O-])N(CC(=O)[O-])CC(=O)[O-].[Na+].[Na+].[Ca+2],Powder. Solubility in water: at 20 °C a 0.1M solution can be prepared (pH approx 7). Pratically insoluble in organic solvents /Tetrahydrate/,Powder. Solubility in water: at 20 °C a 0.1M solution can be prepared (pH approx 7). Pratically insoluble in organic solvents /Tetrahydrate/
+1249,6110.0,COC(CNC(=O)N)C[Hg+].[Cl-],2.92e+01 g/L,2.92e+01 g/L
+1250,6112.0,C1CSS[C@@H]1CCCCC(=O)O,Insoluble,Insoluble
+1251,6113.0,CCOS(=O)(=O)C,"50 to 100 mg/mL at 81° F (NTP, 1992)","50 to 100 mg/mL at 81 °F (NTP, 1992)"
+1252,6114.0,CC(C[N+](C)(C)C)OC(=O)C.[Cl-],>29.4 [ug/mL],>29.4 [ug/mL] (The mean of the results at pH 7.4)
+1253,6115.0,C1=CC=C(C=C1)N,"10 to 50 mg/mL at 73° F (NTP, 1992)","10 to 50 mg/mL at 73 °F (NTP, 1992)"
+1254,6116.0,CC(=O)[O-].CC(=O)[O-].[Ca+2],37.4 G IN 100 CC OF WATER @ 0 °C; 29.7 G IN 100 CC OF WATER @ 100 °C; SLIGHTLY SOL IN ALCOHOL,37.4 G IN 100 CC OF WATER @ 0 °C; 29.7 G IN 100 CC OF WATER @ 100 °C; SLIGHTLY SOL IN ALCOHOL
+1255,6119.0,CC(C)(C(=O)O)N,1.76 M,181 mg/mL at 25 °C
+1256,6124.0,CN(C)N=O,"greater than or equal to 100 mg/mL at 66° F (NTP, 1992)","greater than or equal to 100 mg/mL at 66 °F (NTP, 1992)"
+1257,6129.0,CNC(=O)OC1=CC=CC2=CC=CC=C21,>30.2 [ug/mL],>30.2 [ug/mL] (The mean of the results at pH 7.4)
+1258,6134.0,C([C@@H]1[C@@H]([C@@H]([C@H]([C@@H](O1)O[C@@H]2[C@H](O[C@H]([C@@H]([C@H]2O)O)O)CO)O)O)O)O,"50 to 100 mg/mL at 68° F (NTP, 1992)","50 to 100 mg/mL at 68 °F (NTP, 1992)"
+1259,6136.0,CN(C)CCN(CC1=CC=C(C=C1)OC)C2=NC=CC=N2.Cl,"Very soluble (NTP, 1992)","Very soluble (NTP, 1992)"
+1260,6137.0,CSCC[C@@H](C(=O)O)N,"Soluble (NTP, 1992)","Soluble (NTP, 1992)"
+1261,6140.0,C1=CC=C(C=C1)C[C@@H](C(=O)O)N,"10 to 50 mg/mL at 77° F (NTP, 1992)","10 to 50 mg/mL at 77 °F (NTP, 1992)"
+1262,6143.0,CC(C)C1=CC(=CC=C1)OC(=O)NC,4.40e-04 M,10% in isophorone; 10% in xylene; 20% in toluene; 20% in toluene; 40% in isopropanol; 50% in acetone; 60% in dimethylformamide. Practically insoluble in cyclohexane.
+1263,6144.0,C(CN(CC(=O)[O-])CC(=O)[O-])N(CC(=O)[O-])CC(=O)[O-].[Na+].[Na+].[Na+].[Na+],Slightly soluble in ethanol,Slightly soluble in ethanol
+1264,6163.0,CCOS(=O)(=O)OCC,0.05 M,Miscible in alcohol and ether.
+1265,6166.0,C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2C(=O)CO)CCC4=CC(=O)CC[C@]34C,0.0595 mg/mL at 37 °C,0.0595 mg/mL at 37 °C
+1266,6167.0,CC(=O)N[C@H]1CCC2=CC(=C(C(=C2C3=CC=C(C(=O)C=C13)OC)OC)OC)OC,"greater than or equal to 100 mg/mL at 70° F (NTP, 1992)","greater than or equal to 100 mg/mL at 70 °F (NTP, 1992)"
+1267,6171.0,CC1=NC=C(C(=C1O)C=O)CO.Cl,2.46 M,
+1268,6172.0,CC[N+](CC)(CC)CCOC1=C(C(=CC=C1)OCC[N+](CC)(CC)CC)OCC[N+](CC)(CC)CC.[I-].[I-].[I-],Soluble,Soluble
+1269,6173.0,CN1CCCC1C2=CN=CC=C2.CN1CCCC1C2=CN=CC=C2.OS(=O)(=O)O,Soluble in water and alcohol,Soluble in water and alcohol
+1270,6174.0,CN1CCCC1C2=CN=CC=C2.[C@@H]([C@H](C(=O)O)O)(C(=O)O)O.[C@@H]([C@H](C(=O)O)O)(C(=O)O)O,Sol in ether /Dihydrate/,Sol in ether /Dihydrate/
+1271,6175.0,C1=CN(C(=O)N=C1N)[C@H]2[C@@H]([C@@H]([C@H](O2)CO)O)O,"greater than or equal to 100 mg/mL at 63° F (NTP, 1992)","greater than or equal to 100 mg/mL at 63 °F (NTP, 1992)"
+1272,6180.0,CC(=O)NC(CCSC)C(=O)O,1.07 M,
+1273,6181.0,C1=C(C=C(C(=C1I)O)I)CC(C(=O)O)N,0.00 M,
+1274,6184.0,CCCCCC=O,0.06 M,"In water, 5.64X10+3 mg/L at 30 °C"
+1275,6194.0,C1=C(C(=O)NC(=O)N1)N(CCCl)CCCl,"less than 1 mg/mL at 68° F (NTP, 1992)","less than 1 mg/mL at 68 °F (NTP, 1992)"
+1276,6197.0,C[C@H]1C[C@@H](C(=O)[C@@H](C1)[C@@H](CC2CC(=O)NC(=O)C2)O)C,"10 to 50 mg/mL at 68° F (NTP, 1992)","10 to 50 mg/mL at 68 °F (NTP, 1992)"
+1277,6199.0,C1=CC(=O)OC2=CC3=C(C=CO3)C=C21,"In water, 65.16 mg/L at 25 °C","In water, 65.16 mg/L at 25 °C"
+1278,6202.0,CC1=C(SC=[N+]1CC2=CN=C(N=C2N)C)CCO.Cl.[Cl-],SLIGHTLY SOL IN ALC & CHLOROFORM /MONONITRATE/,SLIGHTLY SOL IN ALC & CHLOROFORM /MONONITRATE/
+1279,6205.0,CCSCCC(C(=O)O)N,"1 to 5 mg/mL at 64° F (NTP, 1992)","1 to 5 mg/mL at 64 °F (NTP, 1992)"
+1280,6209.0,C[N+](C)(C)CCO.[Cl-],"Very soluble (NTP, 1992)","Very soluble (NTP, 1992)"
+1281,6211.0,C1C(=O)NC(=O)NC1=O,1.9e-05 mg/mL at 37 °C,1.9e-05 mg/mL at 37 °C
+1282,6212.0,C(Cl)(Cl)Cl,"less than 1 mg/mL at 66° F (NTP, 1992)","less than 1 mg/mL at 66 °F (NTP, 1992)"
+1283,6213.0,CS(=O)(=O)C,1e+006 mg/L @ 25 °C (est),
+1284,6214.0,C(C(Cl)(Cl)Cl)(Cl)(Cl)Cl,"less than 1 mg/mL at 70° F (NTP, 1992)","less than 1 mg/mL at 70 °F (NTP, 1992)"
+1285,6215.0,C[C@]12C[C@@H]([C@]3([C@H]([C@@H]1C[C@@H]4[C@]2(OC(O4)(C)C)C(=O)CO)C[C@@H](C5=CC(=O)C=C[C@@]53C)F)F)O,Insoluble,Insoluble
+1286,6216.0,CC(=O)OCC(=O)[C@]1([C@@H](C[C@@H]2[C@@]1(C[C@@H]([C@]3([C@H]2CCC4=CC(=O)C=C[C@@]43C)F)O)C)OC(=O)C)O,7.42e-05 M,
+1287,6224.0,C(C(=O)[O-])C(CC(=O)[O-])(C(=O)[O-])O.[Na+].[Na+].[Na+],29.4g/L,29.4g/L
+1288,6228.0,CN(C)C=O,"greater than or equal to 100 mg/mL at 72° F (NTP, 1992)","greater than or equal to 100 mg/mL at 72 °F (NTP, 1992)"
+1289,6230.0,C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@]2(C#C)O)CCC4=CC(=O)CC[C@H]34,2.36e-05 M,"PRACTICALLY INSOL IN WATER; SOL IN CHLOROFORM, ETHER, DIOXANE; SOL @ 25 °C: 1 IN 12.5 PARTS 95% ETHANOL, 1 IN 4 PARTS ACETONE /ACETATE/"
+1290,6231.0,C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@]2(C#C)O)CCC4=C3CCC(=O)C4,Very slightly soluble in water; freely soluble in chloroform; soluble in acetone; sparingly soluble in ethanol.,Very slightly soluble in water; freely soluble in chloroform; soluble in acetone; sparingly soluble in ethanol.
+1291,6234.0,C1[C@H](C(=O)NO1)N,Soluble,Soluble
+1292,6235.0,C1CN1C2=CC(=O)C(=C(C2=O)N3CC3)N4CC4,"Sparingly soluble (NTP, 1992)","Sparingly soluble (NTP, 1992)"
+1293,6238.0,CC(=O)[C@]1(CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C)O,1.96e-05 M,0.00648 mg/mL
+1294,6239.0,CCN(CC)CCCC(C)NC1=C2C=C(C=CC2=NC3=C1C=CC(=C3)Cl)OC.Cl.Cl,"10 to 50 mg/mL at 64° F (NTP, 1992)","10 to 50 mg/mL at 64 °F (NTP, 1992)"
+1295,6240.0,CN(C)CCCN1C2=CC=CC=C2SC3=C1C=C(C=C3)Cl.Cl,"greater than or equal to 100 mg/mL at 75° F (NTP, 1992)","greater than or equal to 100 mg/mL at 75 °F (NTP, 1992)"
+1296,6251.0,C([C@H]([C@H]([C@@H]([C@@H](CO)O)O)O)O)O,"greater than or equal to 100 mg/mL at 68° F (NTP, 1992)","greater than or equal to 100 mg/mL at 68 °F (NTP, 1992)"
+1297,6252.0,C1=CN(C(=O)N=C1N)[C@H]2[C@H]([C@@H]([C@H](O2)CO)O)O.Cl,>42 [ug/mL],>42 [ug/mL] (The mean of the results at pH 7.4)
+1298,6253.0,C1=CN(C(=O)N=C1N)[C@H]2[C@H]([C@@H]([C@H](O2)CO)O)O,>36.5 [ug/mL],>36.5 [ug/mL] (The mean of the results at pH 7.4)
+1299,6256.0,C1[C@@H]([C@H](O[C@H]1N2C=C(C(=O)NC2=O)C(F)(F)F)CO)O,>44.4 [ug/mL],>44.4 [ug/mL] (The mean of the results at pH 7.4)
+1300,6262.0,C(C[C@@H](C(=O)O)N)CN,Appreciable,Appreciable
+1301,6264.0,C1=CC(=C(C=C1[N+](=O)[O-])[N+](=O)[O-])F,"0.1 to 1.0 mg/mL at 67.5° F (NTP, 1992)","0.1 to 1.0 mg/mL at 67.5 °F (NTP, 1992)"
+1302,6265.0,CC1=CC(=C(C=C1)COC(=O)C2C(C2(C)C)C=C(C)C)C,"Soluble in petroleum hydrocarbons, aromatic petroleum derivatives, alcohols, and methylene chloride.","Soluble in petroleum hydrocarbons, aromatic petroleum derivatives, alcohols, and methylene chloride."
+1303,6269.0,CC1=CC=C(C=C1)S(=O)(=O)N,0.02 M,"In water, 3.16X10+3 mg/L at 25 °C"
+1304,6270.0,CCC(=O)C1=CC=C(C=C1)N,Soluble in DMSO,Soluble in DMSO
+1305,6276.0,CCCCCO,"10 to 50 mg/mL at 63° F (NTP, 1992)","10 to 50 mg/mL at 63 °F (NTP, 1992)"
+1306,6277.0,CC(=O)[O-].CC(=O)[O-].[Co+2],Readily soluble in water,Readily soluble in water
+1307,6278.0,CC(Cl)(Cl)Cl,"less than 1 mg/mL at 68° F (NTP, 1992)","less than 1 mg/mL at 68 °F (NTP, 1992)"
+1308,6279.0,C[C@H]1C[C@@H]2[C@H](CC[C@]3([C@H]2CC[C@@]3(C(=O)C)OC(=O)C)C)[C@@]4(C1=CC(=O)CC4)C,"less than 1 mg/mL at 73° F (NTP, 1992)","less than 1 mg/mL at 73 °F (NTP, 1992)"
+1309,6280.0,C[C@H]1CC[C@H]2[C@@]([C@]3([C@H](C[C@]4([C@@H]5CC[C@H]6[C@]7([C@]5(C[C@]4([C@@H]3CN2C1)O)O[C@@]6([C@H](CC7)OC(=O)C8=CC(=C(C=C8)OC)OC)O)C)O)O)O)(C)O,SOL IN WATER; SLIGHTLY SOL IN ETHER,SOL IN WATER; SLIGHTLY SOL IN ETHER
+1310,6282.0,C1=CC(=C(C=C1C2(C3=C(C(=C(C(=C3Br)Br)Br)Br)C(=O)O2)C4=CC(=C(C=C4)O)S(=O)(=O)[O-])S(=O)(=O)[O-])O.[Na+].[Na+],"SOL IN WATER; INSOL IN ALCOHOL, ACETONE","SOL IN WATER; INSOL IN ALCOHOL, ACETONE"
+1311,6291.0,C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@]2(C#C)O)CCC4=C3C=CC(=C4)OC,"In double-distilled water, 0.32 mg/L","In double-distilled water, 0.32 mg/L"
+1312,6292.0,CC1=CC=CC=C1N2C(=NC3=CC=CC=C3C2=O)C,PRACTICALLY INSOL IN WATER,PRACTICALLY INSOL IN WATER
+1313,6293.0,C1=CC=C2C(=C1)C(=O)C3=C(C2=O)C(=C(C=C3)O)O,0.00 M,
+1314,6294.0,C1=CC(=CC=C1C(C2=CC=C(C=C2)Cl)C(Cl)Cl)Cl,"less than 1 mg/mL at 65.3° F (NTP, 1992)","less than 1 mg/mL at 65.3 °F (NTP, 1992)"
+1315,6295.0,CCC1=CC=C(C=C1)C(C2=CC=C(C=C2)CC)C(Cl)Cl,"less than 1 mg/mL at 68° F (NTP, 1992)","less than 1 mg/mL at 68 °F (NTP, 1992)"
+1316,6296.0,CC1=C(C=CC(=C1)C2=CC(=C(C=C2)N=NC3=C(C4=C(C=C(C=C4C=C3S(=O)(=O)[O-])S(=O)(=O)[O-])N)O)C)N=NC5=C(C6=C(C=C(C=C6C=C5S(=O)(=O)[O-])S(=O)(=O)[O-])N)O.[Na+].[Na+].[Na+].[Na+],"1 to 10 mg/mL at 68° F (NTP, 1992)","1 to 10 mg/mL at 68 °F (NTP, 1992)"
+1317,6297.0,CC1=C(C=CC(=C1)C2=CC(=C(C=C2)N=NC3=C(C4=C(C=C(C=C4C=C3S(=O)(=O)O)S(=O)(=O)O)N)O)C)N=NC5=C(C6=C(C=C(C=C6C=C5S(=O)(=O)O)S(=O)(=O)O)N)O,"1 to 10 mg/mL at 68° F (NTP, 1992)",
+1318,6300.0,C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@]2(C)O)CCC4=CC(=O)C=C[C@]34C,"In water, 9.7 mg/L at 25 Â°C (est)","SOL IN ALC, CHLOROFORM, GLACIAL ACETIC ACID; SLIGHTLY SOL IN ETHER; INSOL IN WATER"
+1319,6305.0,C1=CC=C2C(=C1)C(=CN2)C[C@@H](C(=O)O)N,"1 to 5 mg/mL at 68° F (NTP, 1992)","1 to 5 mg/mL at 68 °F (NTP, 1992)"
+1320,6306.0,CC[C@H](C)[C@@H](C(=O)O)N,"1 to 5 mg/mL at 68° F (NTP, 1992)",
+1321,6307.0,CCC1NC2=CC(=C(C=C2C(=O)N1)S(=O)(=O)N)Cl,"less than 1 mg/mL at 67.1° F (NTP, 1992)","less than 1 mg/mL at 67.1 °F (NTP, 1992)"
+1322,6318.0,C1=CC(=CC=C1C(=O)O)Cl,"less than 1 mg/mL at 59° F (NTP, 1992)","less than 1 mg/mL at 59 °F (NTP, 1992)"
+1323,6319.0,C1=CC=C(C=C1)NC2=CC=C(C=C2)NC3=CC=CC=C3,"less than 1 mg/mL at 68° F (NTP, 1992)","less than 1 mg/mL at 68 °F (NTP, 1992)"
+1324,6323.0,CBr,"2 % (NIOSH, 2016)","2 % (NIOSH, 2024)"
+1325,6324.0,CC,0.00 M,"In water, 60.2 mg/L at 25 °C"
+1326,6325.0,C=C,0.00 M,"In water, 131 mg/L at 25 °C"
+1327,6326.0,C#C,"2 % (NIOSH, 2016)","2 % (NIOSH, 2024)"
+1328,6327.0,CCl,"Slightly soluble (NTP, 1992)","Slightly soluble (NTP, 1992)"
+1329,6328.0,CI,"10 to 50 mg/mL at 64° F (NTP, 1992)","10 to 50 mg/mL at 64 °F (NTP, 1992)"
+1330,6329.0,CN,"greater than or equal to 100 mg/mL at 70° F (NTP, 1992)","greater than or equal to 100 mg/mL at 70 °F (NTP, 1992)"
+1331,6332.0,CCBr,"less than 1 mg/mL at 61° F (NTP, 1992)","less than 1 mg/mL at 61 °F (NTP, 1992)"
+1332,6333.0,C(Cl)Br,"1 to 5 mg/mL at 68° F (NTP, 1992)","1 to 5 mg/mL at 68 °F (NTP, 1992)"
+1333,6334.0,CCC,"0.01 % (NIOSH, 2016)","0.01 % (NIOSH, 2024)"
+1334,6335.0,CC#C,"Insoluble (NIOSH, 2016)","Insoluble (NIOSH, 2024)"
+1335,6336.0,CCCCC(CN1C=NC=N1)(C#N)C2=CC=C(C=C2)Cl,"Soluble in common organic solvents, e.g. ketones, esters, alcohols and aromatic hydrocarbons, all 50 to 100 g/L. Insoluble in aliphatic hydrocarbons.","Soluble in common organic solvents, e.g. ketones, esters, alcohols and aromatic hydrocarbons, all 50 to 100 g/L. Insoluble in aliphatic hydrocarbons."
+1336,6337.0,CCCl,"0.574 g/100 mL at 68° F (NTP, 1992)","0.574 g/100 mL at 68 °F (NTP, 1992)"
+1337,6338.0,C=CCl,"Slightly soluble (NTP, 1992)","Slightly soluble (NTP, 1992)"
+1338,6339.0,C=CF,"Insoluble (NIOSH, 2016)","Insoluble (NIOSH, 2024)"
+1339,6340.0,CCI,0.03 M,"Solubility in water, g/100ml at 20 °C: 0.4"
+1340,6341.0,CCN,"Very soluble (NTP, 1992)","Very soluble (NTP, 1992)"
+1341,6342.0,CC#N,"greater than or equal to 100 mg/mL at 72.5° F (NTP, 1992)","greater than or equal to 100 mg/mL at 72.5 °F (NTP, 1992)"
+1342,6343.0,CCS,"0.7 % (NIOSH, 2016)","0.7 % (NIOSH, 2024)"
+1343,6344.0,C(Cl)Cl,"10 to 50 mg/mL at 70° F (NTP, 1992)","10 to 50 mg/mL at 70 °F (NTP, 1992)"
+1344,6345.0,C(F)F,"In water, 1.285X10+4 mg/L at 25 °C (est)","In water, 0.44% at 25 °C"
+1345,6346.0,C(I)I,0.00 M,
+1346,6348.0,C(=S)=S,"less than 1 mg/mL at 68° F (NTP, 1992)","less than 1 mg/mL at 68 °F (NTP, 1992)"
+1347,6349.0,[CH3-].[Mg+2].[Br-],Soluble in ether and tetrahydrofuran; insoluble in hydrocarbons,
+1348,6351.0,C1CC1,OSTWALD SOLUBILITY COEFFICIENT (37 °C) IN H2O: 0.20; IN BLOOD: 0.42 AND IN OIL: 11.9,OSTWALD SOLUBILITY COEFFICIENT (37 °C) IN H2O: 0.20; IN BLOOD: 0.42 AND IN OIL: 11.9
+1349,6354.0,C1CO1,"Miscible (NTP, 1992)","Miscible (NTP, 1992)"
+1350,6356.0,B(F)(F)F,"106 % (in cold H2O) (NIOSH, 2016)","106 % (in cold H2O) (NIOSH, 2024)"
+1351,6358.0,CC(C)Br,0.02 M,"Miscible with alcohol, benzene, chloroform, ether"
+1352,6359.0,C(Cl)(Cl)Br,"5 to 10 mg/mL at 66° F (NTP, 1992)","5 to 10 mg/mL at 66 °F (NTP, 1992)"
+1353,6360.0,CC(C)C,"Slight (NIOSH, 2016)","Slight (NIOSH, 2024)"
+1354,6361.0,CC(C)Cl,0.04 M,"Miscible with alcohol, ether"
+1355,6362.0,CC(C)I,0.01 M,
+1356,6363.0,CC(C)N,"Very soluble (NTP, 1992)","Very soluble (NTP, 1992)"
+1357,6364.0,CC(C)S,"Miscible in ethanol, ether; very soluble in acetone; soluble in chloroform","Miscible in ethanol, ether; very soluble in acetone; soluble in chloroform"
+1358,6365.0,CC(Cl)Cl,"less than 1 mg/mL at 68° F (NTP, 1992)","less than 1 mg/mL at 68 °F (NTP, 1992)"
+1359,6366.0,C=C(Cl)Cl,"5 to 10 mg/mL at 70° F (NTP, 1992)","5 to 10 mg/mL at 70 °F (NTP, 1992)"
+1360,6367.0,CC(=O)Cl,"Reaction (NTP, 1992)","Reaction (NTP, 1992)"
+1361,6368.0,CC(F)F,0.05 M,"In water, 3.2X10+3 mg/L at 25 °C"
+1362,6369.0,C=C(F)F,"0.018 g/100 g at 77° F and 760 mm Hg (NTP, 1992)","0.018 g/100 g at 77 °F and 760 mmHg (NTP, 1992)"
+1363,6370.0,C(F)(Cl)Cl,"0.7 % at 86° F (NIOSH, 2016)","0.7 % at 86 °F (NIOSH, 2024)"
+1364,6371.0,C(=O)(Cl)Cl,"Very slightly soluble (NTP, 1992)","Very slightly soluble (NTP, 1992)"
+1365,6372.0,C(F)(F)Cl,"0.3 % at 77° F (NIOSH, 2016)","0.3 % at 77 °F (NIOSH, 2024)"
+1366,6373.0,C(F)(F)F,0.06 M,"In water, 4.09X10+3 mg/L at 25 °C"
+1367,6374.0,C(I)(I)I,"less than 1 mg/mL at 75° F (NTP, 1992)","less than 1 mg/mL at 75 °F (NTP, 1992)"
+1368,6375.0,C[N+](=O)[O-],"greater than or equal to 100 mg/mL at 68° F (NTP, 1992)","greater than or equal to 100 mg/mL at 68 °F (NTP, 1992)"
+1369,6377.0,CC1CN1,"greater than or equal to 100 mg/mL at 66° F (NTP, 1992)","greater than or equal to 100 mg/mL at 66 °F (NTP, 1992)"
+1370,6378.0,CC1CO1,"greater than or equal to 100 mg/mL at 66° F (NTP, 1992)","greater than or equal to 100 mg/mL at 66 °F (NTP, 1992)"
+1371,6379.0,C[N+](C)(C)C.[Cl-],"Slightly soluble in ethanol; insoluble in ether, benzene, chloroform; very soluble in methanol","Slightly soluble in ethanol; insoluble in ether, benzene, chloroform; very soluble in methanol"
+1372,6382.0,C(F)(F)(Br)Br,"Insoluble (NIOSH, 2016)","Insoluble (NIOSH, 2024)"
+1373,6383.0,C(Cl)(Cl)(Cl)Br,INSOL IN WATER; SOL IN ALL PROP IN ALCOHOL & ETHER,INSOL IN WATER; SOL IN ALL PROP IN ALCOHOL & ETHER
+1374,6384.0,C(F)(F)(F)Br,"0.03 % (NIOSH, 2016)","0.03 % (NIOSH, 2024)"
+1375,6385.0,CC(C)(C)N,"Very soluble (NTP, 1992)","Very soluble (NTP, 1992)"
+1376,6386.0,CC(C)(C)O,"greater than or equal to 100 mg/mL at 70° F (NTP, 1992)","greater than or equal to 100 mg/mL at 70 °F (NTP, 1992)"
+1377,6387.0,CC(C)(C)S,"Slightly sol in water; very sol in alcohol, ether, liquid hydrogen sulfide","Insoluble (NFPA, 2010)"
+1378,6388.0,CC(F)(F)Cl,0.01 M,Insoluble in water; sol in benzene
+1379,6389.0,C(F)(Cl)(Cl)Cl,"10 to 50 mg/mL at 64° F (NTP, 1992)","10 to 50 mg/mL at 64 °F (NTP, 1992)"
+1380,6391.0,C(F)(F)(Cl)Cl,"Insoluble (NTP, 1992)","Insoluble (NTP, 1992)"
+1381,6392.0,C(F)(F)(F)Cl,8.62e-04 M,Water solubility = 60.1 mg/l @ 25 °C
+1382,6393.0,C(F)(F)(F)F,2.14e-04 M,"In water, 18.8 mg/L at 25 °C"
+1383,6394.0,C[Pb](C)(C)C,"Insoluble (NTP, 1992)","Insoluble (NTP, 1992)"
+1384,6395.0,CS(=O)(=O)O,10.41 M,"Solubility at 26-28 °C in wt %: hexane, 0; benzene, 1.5; methylcyclopentane, 0; toluene, 0.38; o-chlorotoluene, 0.23; ethyl disulfide, 0.47"
+1385,6396.0,C[Si](C)(C)C,2.22e-04 M,Insoluble in cold concentrated sulfuric acid; soluble in most organic solvents
+1386,6397.0,C[Si](C)(C)Cl,"Decomposes (NTP, 1992)","Decomposes (NTP, 1992)"
+1387,6398.0,C[Si](C)(Cl)Cl,Decomposes in water and ethanol,Decomposes in water and ethanol
+1388,6399.0,C[Si](Cl)(Cl)Cl,Decomposes in ethanol,Decomposes in ethanol
+1389,6401.0,C(C(Cl)(Cl)Br)Br,"Sol in alcohol, ether, acetone, benzene","Sol in alcohol, ether, acetone, benzene"
+1390,6403.0,CCC(C)(C)C,"less than 1 mg/mL at 72° F (NTP, 1992)","less than 1 mg/mL at 72 °F (NTP, 1992)"
+1391,6404.0,CC(C)(C)CO,0.40 M,"MISCIBLE WITH ALC, ETHER; IN WATER: ABOUT 3.5% @ 25 °C"
+1392,6405.0,CCC(C)(C)O,1.25 M,Solubility in water: 12.1%wt at 20 °C; 11.0%wt at 25 °C; 10.1%wt at 30 °C
+1393,6406.0,CC(C)(C#N)O,"greater than or equal to 100 mg/mL at 68° F (NTP, 1992)","greater than or equal to 100 mg/mL at 68 °F (NTP, 1992)"
+1394,6407.0,C(=O)C(Cl)(Cl)Cl,"Reaction (NTP, 1992)","Reaction (NTP, 1992)"
+1395,6408.0,C(C(F)(F)F)Cl,0.08 M,"In water, 9,200 mg/l @ 25 °C"
+1396,6409.0,C(C(F)(F)F)O,10.00 M,
+1397,6410.0,CC(C)(C)OO,"greater than or equal to 100 mg/mL at 72° F (NTP, 1992)","greater than or equal to 100 mg/mL at 72 °F (NTP, 1992)"
+1398,6411.0,C(O)S(=O)(=O)O,Soluble in water,
+1399,6413.0,C=C[Si](Cl)(Cl)Cl,Soluble in most organic solvents,Soluble in most organic solvents
+1400,6415.0,C(=O)(C(Br)(Br)Br)O,0.67 M,"Soluble in alcohol, ether; slightly soluble in petroleum ether."
+1401,6416.0,CC(=O)C(C)(C)C,0.19 M,"Soluble in ethanol, ether, acetone, carbon tetrachloride"
+1402,6417.0,CC(C)(C)C(=O)O,0.21 M,"Very soluble in ethanol, ethyl ether"
+1403,6418.0,CC(C(=O)O)(Cl)Cl,"50 % (NIOSH, 2016)","50 % (NIOSH, 2024)"
+1404,6419.0,C(C(Cl)(Cl)Cl)(Cl)Cl,"less than 0.1 mg/mL at 70° F (NTP, 1992)","less than 0.1 mg/mL at 70 °F (NTP, 1992)"
+1405,6420.0,C(=O)(C(Cl)(Cl)Cl)Cl,Sol in ether,Sol in ether
+1406,6421.0,C(=O)(C(Cl)(Cl)Cl)O,"greater than or equal to 100 mg/mL at 72° F (NTP, 1992)","greater than or equal to 100 mg/mL at 72 °F (NTP, 1992)"
+1407,6422.0,C(=O)(C(F)(F)F)O,8.77 M,"Miscible with ether, acetone, ethanol, benzene, carbon tetrachloride, hexane."
+1408,6423.0,C([N+](=O)[O-])(Cl)(Cl)Cl,"1 to 5 mg/mL at 72° F (NTP, 1992)","1 to 5 mg/mL at 72 °F (NTP, 1992)"
+1409,6424.0,CC(C)(C(Br)(Br)Br)O,"SLIGHTLY SOL IN WATER; SOL IN ALCOHOL, ETHER","SLIGHTLY SOL IN WATER; SOL IN ALCOHOL, ETHER"
+1410,6426.0,C(C(Cl)(Cl)Cl)(F)(F)Cl,"0.01 % (NIOSH, 2016)","0.01 % (NIOSH, 2024)"
+1411,6427.0,C(C(F)(Cl)Cl)(F)(Cl)Cl,"0.01 % at 77° F (NIOSH, 2016)","0.01 % at 77 °F (NIOSH, 2024)"
+1412,6428.0,C(C(F)(Cl)Cl)(F)(F)Cl,"Insoluble (NTP, 1992)","Insoluble (NTP, 1992)"
+1413,6429.0,C(C(F)(F)Cl)(F)(F)Cl,7.61e-04 M,"0.01 % (NIOSH, 2024)"
+1414,6430.0,C(C(F)(F)Cl)(F)(F)F,"0.006 % at 77° F (NIOSH, 2016)","0.006 % at 77 °F (NIOSH, 2024)"
+1415,6431.0,C(C(F)(F)F)(F)(F)F,5.64e-05 M,"In water, 7.78 mg/L at 25 °C"
+1416,6432.0,C(C(F)(F)F)(C(F)(F)F)(F)F,5.64e-05 M,
+1417,6435.0,C1(=O)C(C(=O)NC(=O)N1)(C2(C(=O)NC(=O)NC2=O)O)O,0.01 M,"SPARINGLY SOL IN COLD WATER, ALCOHOL, ETHER"
+1418,6436.0,C[C@]12C[C@@H]([C@]3([C@H]([C@@H]1C[C@@H]4[C@]2(OC(O4)(C)C)C(=O)CO)CCC5=CC(=O)C=C[C@@]53C)F)O,4.83e-05 M,
+1419,6442.0,CC(C)(CO)[N+](=O)[O-],29.38 M,
+1420,6448.0,CC(=O)OC1CC2CCC1(C2(C)C)C,In water 9.721 mg/L at 25 °C (est),Insoluble in water
+1421,6455.0,CCC1(C(=O)NC(=O)NC1=O)C(C)C,0.01 M,
+1422,6456.0,C1=CC=C(C=C1)C(C2=CC=CC=C2)(C3=CC=CC=C3)Cl,"INSOL IN WATER, SLIGHTLY SOL IN ALCOHOL, SOL IN ACETONE; VERY SOL IN ETHER, BENZENE, CHLOROFORM, CARBON DISULFIDE, CARBON TETRACHLORIDE","INSOL IN WATER, SLIGHTLY SOL IN ALCOHOL, SOL IN ACETONE; VERY SOL IN ETHER, BENZENE, CHLOROFORM, CARBON DISULFIDE, CARBON TETRACHLORIDE"
+1423,6457.0,C1=CC=C(C=C1)C(C2=CC=CC=C2)(C3=CC=CC=C3)O,0.01 M,
+1424,6461.0,C[N+]1(CCCC(C1)OC(=O)C(C2=CC=CC=C2)(C3=CC=CC=C3)O)C.[Br-],>63.1 [ug/mL],>63.1 [ug/mL] (The mean of the results at pH 7.4)
+1425,6463.0,C1=CC=C(C=C1)C(C2=CC=CC=C2)(C(=O)O)O,0.01 M,"Very soluble in ethanol, ethyl ether; soluble concentrated sulfuric acid; slightly soluble in acetone"
+1426,6464.0,CC(C)C1(C(=O)NC(=O)NC1=O)CC=C,0.01 M,
+1427,6466.0,C[C@@]12[C@H](C=C[C@@]3([C@@H]1[C@@H]([C@]45[C@H]3CC[C@](C4)(C(=C)C5)O)C(=O)O)OC2=O)O,"Slightly soluble (NTP, 1992)","Slightly soluble (NTP, 1992)"
+1428,6476.0,CC1(CC(=O)N(C1=O)C)C2=CC=CC=C2,"Freely sol in methanol, alcohol","Freely sol in methanol, alcohol"
+1429,6478.0,C1(=C(C(C(=C1Cl)Cl)(Cl)Cl)Cl)Cl,"less than 0.1 mg/mL at 70.7° F (NTP, 1992)","less than 0.1 mg/mL at 70.7 °F (NTP, 1992)"
+1430,6480.0,CC(CO)(CO)[N+](=O)[O-],5.92 M,
+1431,6488.0,CCC(CC)(C(=O)NC(=O)N)Br,"less than 1 mg/mL at 72° F (NTP, 1992)","less than 1 mg/mL at 72 °F (NTP, 1992)"
+1432,6490.0,CC(C)C(C(C)(C)COC(=O)C(C)C)O,"Solubility in water, g/100ml: 2","Solubility in water, g/100ml: 2"
+1433,6491.0,CC1(C(=O)NC(=O)N1)C,"Very soluble in ethanol, ether, acetone, benzene, chloroform; soluble in DMSO","Very soluble in ethanol, ether, acetone, benzene, chloroform; soluble in DMSO"
+1434,6492.0,C1C=CC2C1C3CC2C=C3,"Insoluble (NTP, 1992)","Insoluble (NTP, 1992)"
+1435,6493.0,CCC(C)(CC)O,0.42 M,
+1436,6494.0,CCC(C)(C#C)O,1.15 M,
+1437,6496.0,C=CS(=O)(=O)C=C,"greater than or equal to 100 mg/mL at 63° F (NTP, 1992)","greater than or equal to 100 mg/mL at 63 °F (NTP, 1992)"
+1438,6497.0,COS(=O)(=O)OC,"3 % at 64° F (NIOSH, 2016)","3 % at 64 °F (NIOSH, 2024)"
+1439,6498.0,C1C=CCS1(=O)=O,"50 to 100 mg/mL at 61° F (NTP, 1992)","50 to 100 mg/mL at 61 °F (NTP, 1992)"
+1440,6500.0,CCOP(=O)(C#N)N(C)C,Readily soluble in organic solvents.,Readily soluble in organic solvents.
+1441,6501.0,CCOC(=O)C1C(O1)(C)C2=CC=CC=C2,"Insoluble (<1 mg/ml at 68° F) (NTP, 1992)","Insoluble (<1 mg/ml at 68 °F) (NTP, 1992)"
+1442,6502.0,CC(CO)(CO)CO,Miscible in water and ethanol; insoluble in diethyl ether and benzene; very soluble in acetic acid,Miscible in water and ethanol; insoluble in diethyl ether and benzene; very soluble in acetic acid
+1443,6503.0,C(C(CO)(CO)N)O,79.1 mg/mL in ethylene glycol; 26 mg/mL in methanol; 14.6 mg/mL in anhyd ethanol; 22 mg/mL in 95% ethanol; 14 mg/mL in dimethyl formamide; 20 mg/mL in acetone; 0.5 mg/mL in ethyl acetate; 0.4 mg/mL in olive oil; 0.1 mg/mL in cyclohexane; 0.05 mg/mL in chloroform; less than 0.05 mg/mL in carbon tetrachloride,79.1 mg/mL in ethylene glycol; 26 mg/mL in methanol; 14.6 mg/mL in anhyd ethanol; 22 mg/mL in 95% ethanol; 14 mg/mL in dimethyl formamide; 20 mg/mL in acetone; 0.5 mg/mL in ethyl acetate; 0.4 mg/mL in olive oil; 0.1 mg/mL in cyclohexane; 0.05 mg/mL in chloroform; less than 0.05 mg/mL in carbon tetrachloride
+1444,6505.0,CCCCOC(=O)CC(CC(=O)OCCCC)(C(=O)OCCCC)OC(=O)C,1.24e-05 M,"In water, 5 mg/L, temp not specified"
+1445,6506.0,CCOC(=O)CC(CC(=O)OCC)(C(=O)OCC)O,"Insoluble (NIOSH, 2016)","In water, 6.50X10+4 mg/L at room temp"
+1446,6510.0,CCC(CO)(CO)CO,"SOL IN ALL PROP IN WATER, ALCOHOL; INSOL IN BENZENE, CARBON TETRACHLORIDE","SOL IN ALL PROP IN WATER, ALCOHOL; INSOL IN BENZENE, CARBON TETRACHLORIDE"
+1447,6511.0,CC[Pb](CC)(CC)CC,"less than 1 mg/mL at 70° F (NTP, 1992)","less than 1 mg/mL at 70 °F (NTP, 1992)"
+1448,6514.0,C(CS)C(=O)O,"SOL IN WATER, ALCOHOL, BENZENE, & ETHER","SOL IN WATER, ALCOHOL, BENZENE, & ETHER"
+1449,6517.0,CCO[Si](OCC)(OCC)OCC,"Reacts with water (NIOSH, 2016)","Reacts with water (NIOSH, 2024)"
+1450,6518.0,C(C(CO[N+](=O)[O-])(CO[N+](=O)[O-])CO[N+](=O)[O-])O[N+](=O)[O-],"less than 1 mg/mL at 72° F (NTP, 1992)","less than 1 mg/mL at 72 °F (NTP, 1992)"
+1451,6521.0,C1CCC(CC1)(O)OOC2(CCCCC2)OO,OFF-WHITE THICK PASTE; INSOL IN WATER; SOL IN COMMON ORG SOLVENTS /PASTE WITH DIBUTYL PHTHALATE/,OFF-WHITE THICK PASTE; INSOL IN WATER; SOL IN COMMON ORG SOLVENTS /PASTE WITH DIBUTYL PHTHALATE/
+1452,6526.0,CCC(C)(CC)OC(=O)N,0.03 M,
+1453,6527.0,CC1=CC=CC=C1OP(=O)(OC2=CC=CC=C2C)OC3=CC=CC=C3C,Sparingly soluble in water,Sparingly soluble in water
+1454,6528.0,CC1=CC=C(C=C1)OP(=O)(OC2=CC=CC=C2)OC3=CC=CC=C3,Insoluble in water,Insoluble in water
+1455,6529.0,CC1=CC=C(C=C1)OP(=O)(OC2=CC=C(C=C2)C)OC3=CC=C(C=C3)C,"Insoluble (NTP, 1992)","Insoluble (NTP, 1992)"
+1456,6531.0,CCOP(=S)(OCC)SC1C(OCCO1)SP(=S)(OCC)OCC,"less than 0.1 mg/mL at 68° F (NTP, 1992)","less than 0.1 mg/mL at 68 °F (NTP, 1992)"
+1457,6532.0,CC(C)C(=O)OC(C)(CCC=C(C)C)C=C,10 mg/L @ 20 °C (exp),10 mg/L @ 20 °C (exp)
+1458,6534.0,CCOP(=O)(CC)OCC,"Slightly soluble (NTP, 1992)","Slightly soluble (NTP, 1992)"
+1459,6535.0,CCOP(=O)(OCC)OCC,"Soluble, slight decomposition (NTP, 1992)","Soluble, slight decomposition (NTP, 1992)"
+1460,6537.0,CCCCC(CC)COP(=O)(OCC(CC)CCCC)OCC(CC)CCCC,"less than 1 mg/mL at 64° F (NTP, 1992)","less than 1 mg/mL at 64 °F (NTP, 1992)"
+1461,6538.0,C(C(CCl)Cl)OP(=O)(OCC(CCl)Cl)OCC(CCl)Cl,"In water, 1.51 mg/L at 25 °C (est)",
+1462,6539.0,CCCCOP(=O)(CCCC)OCCCC,0.00 M,INSOL IN WATER; MISCIBLE WITH MOST COMMON ORG SOLVENTS
+1463,6540.0,CCCCOCCOP(=O)(OCCOCCCC)OCCOCCCC,"Soluble (NTP, 1992)","Soluble (NTP, 1992)"
+1464,6542.0,CCN(CC)CCSP(=O)(OCC)OCC,Highly soluble in water and most organic solvents,Highly soluble in water and most organic solvents
+1465,6543.0,COP(=S)(OC)SCC1=NC(=NC(=N1)N)N,8.53e-04 M,LOW SOLUBILITY IN WATER & ORG SOLVENTS
+1466,6544.0,CC1=CC(=O)CC(C1)(C)C,"0.1 to 1 mg/mL at 64° F (NTP, 1992)","0.1 to 1 mg/mL at 64 °F (NTP, 1992)"
+1467,6545.0,CC(C)(C)OOC(C)(C)CCC(C)(C)OOC(C)(C)C,"less than 1 mg/mL at 73° F (NTP, 1992)","less than 1 mg/mL at 73 °F (NTP, 1992)"
+1468,6547.0,CC(C)(C#N)N=NC(C)(C)C#N,0.00 M,"SOL IN METHANOL @ 0, 20, 40 °C: 1.8, 4.96, 16.06 G/100 ML; SOL IN ETHANOL @ 0, 20, 40 °C: 0.58, 2.04, 7.15 G/100 ML"
+1469,6548.0,CCC(C)(CCCC(C)C)O,188.9 mg/L @ 25 °C (est),"soluble in alcohol, most fixed oils; insoluble in water"
+1470,6549.0,CC(=CCCC(C)(C=C)O)C,0.01 M,"In water, 1590 mg/L at 25 °C"
+1471,6553.0,CC(CBr)Br,"In water, 1.43X10+3 mg/L at 25 °C","In water, 1.43X10+3 mg/L at 25 °C"
+1472,6554.0,CCC(C)Br,Soluble in alcohol and ether; insoluble in water.,Soluble in alcohol and ether; insoluble in water.
+1473,6556.0,CCC(C)C,"less than 1 mg/mL at 73° F (NTP, 1992)","less than 1 mg/mL at 73 °F (NTP, 1992)"
+1474,6557.0,CC(=C)C=C,"less than 1 mg/mL at 70.7° F (NTP, 1992)","less than 1 mg/mL at 70.7 °F (NTP, 1992)"
+1475,6558.0,CC(C)CN,"Very soluble (NTP, 1992)","Very soluble (NTP, 1992)"
+1476,6559.0,CC(C)C#N,"Slight (NIOSH, 2016)","Slight (NIOSH, 2024)"
+1477,6560.0,CC(C)CO,"50 to 100 mg/mL at 61° F (NTP, 1992)","50 to 100 mg/mL at 61 °F (NTP, 1992)"
+1478,6561.0,CC(C)C=O,"less than 1 mg/mL at 66° F (NTP, 1992)","less than 1 mg/mL at 66 °F (NTP, 1992)"
+1479,6562.0,CC(=C)C=O,0.81 M,"MISCIBLE WITH WATER, ETHANOL, ETHER"
+1480,6563.0,CCC(C)Cl,0.01 M,
+1481,6564.0,CC(CCl)Cl,"less than 0.1 mg/mL at 70.7° F (NTP, 1992)","less than 0.1 mg/mL at 70.7 °F (NTP, 1992)"
+1482,6565.0,C=C(CCl)Cl,"less than 1 mg/mL at 72° F (NTP, 1992)","less than 1 mg/mL at 72 °F (NTP, 1992)"
+1483,6566.0,CC(CO)Cl,"Soluble (NTP, 1992)","Soluble (NTP, 1992)"
+1484,6567.0,CC(CN)N,"Very soluble (NTP, 1992)","Very soluble (NTP, 1992)"
+1485,6568.0,CCC(C)O,"16 % (NIOSH, 2016)","16 % (NIOSH, 2024)"
+1486,6569.0,CCC(=O)C,"greater than or equal to 100 mg/mL at 66° F (NTP, 1992)","greater than or equal to 100 mg/mL at 66 °F (NTP, 1992)"
+1487,6570.0,CC(=O)C=C,"greater than or equal to 100 mg/mL at 72° F (NTP, 1992)","greater than or equal to 100 mg/mL at 72 °F (NTP, 1992)"
+1488,6571.0,CC(=O)CCl,0.97 M,"Miscible with alcohol, ether and chloroform. Soluble in 10 parts water (wet weight)"
+1489,6572.0,CC(C#N)O,"greater than or equal to 100 mg/mL at 73° F (NTP, 1992)","greater than or equal to 100 mg/mL at 73 °F (NTP, 1992)"
+1490,6573.0,CCC(Cl)Cl,0.02 M,"In water, 2,700 mg/L at 20 °C"
+1491,6574.0,C(C(Cl)Cl)Cl,"1 to 5 mg/mL at 68° F (NTP, 1992)","1 to 5 mg/mL at 68 °F (NTP, 1992)"
+1492,6575.0,C(=C(Cl)Cl)Cl,"less than 1 mg/mL at 70° F (NTP, 1992)","less than 1 mg/mL at 70 °F (NTP, 1992)"
+1493,6576.0,C(=O)C(Cl)Cl,SOL IN ALC,SOL IN ALC
+1494,6577.0,C(C(=O)Cl)Cl,"Decomposes (NIOSH, 2016)","Decomposes (NIOSH, 2024)"
+1495,6579.0,C=CC(=O)N,"greater than or equal to 100 mg/mL at 72° F (NTP, 1992)","greater than or equal to 100 mg/mL at 72 °F (NTP, 1992)"
+1496,6580.0,C(C(=O)N)Cl,0.96 M,"In water, 90,000 mg/L at 25 °C"
+1497,6581.0,C=CC(=O)O,"greater than or equal to 100 mg/mL at 63° F (NTP, 1992)","greater than or equal to 100 mg/mL at 63 °F (NTP, 1992)"
+1498,6582.0,CC(=O)NC,13.68 M,SOL IN CHLOROFORM
+1499,6584.0,CC(=O)OC,"greater than or equal to 100 mg/mL at 70° F (NTP, 1992)","greater than or equal to 100 mg/mL at 70 °F (NTP, 1992)"
+1500,6585.0,CC(=O)OO,13.15 M,"Very soluble in ether, sulfuric acid; soluble in ethanol"
+1501,6586.0,COC(=O)Cl,"SOL IN CHLOROFORM, BENZENE, IN ALL PROPORTIONS IN ALCOHOL, ETHER","SOL IN CHLOROFORM, BENZENE, IN ALL PROPORTIONS IN ALCOHOL, ETHER"
+1502,6587.0,CC[N+](=O)[O-],"Slightly soluble (NTP, 1992)","Slightly soluble (NTP, 1992)"
+1503,6588.0,C(C(Br)Br)(Br)Br,"less than 1 mg/mL at 68° F (NTP, 1992)","less than 1 mg/mL at 68 °F (NTP, 1992)"
+1504,6589.0,CC(C)C(C)C,"less than 1 mg/mL at 74.3° F (NTP, 1992)","less than 1 mg/mL at 74.3 °F (NTP, 1992)"
+1505,6590.0,CC(C)C(=O)O,"less than 1 mg/mL at 74.3° F (NTP, 1992)",
+1506,6591.0,C(C(Cl)Cl)(Cl)Cl,"less than 0.1 mg/mL at 72Â° F (NTP, 1992)","less than 0.1 mg/mL at 72 Â°F (NTP, 1992)"
+1507,6593.0,C(C(=O)Cl)(Cl)Cl,"Decomposes (NTP, 1992)","Decomposes (NTP, 1992)"
+1508,6594.0,C(=C(F)Cl)(F)F,"In water, 4.01X10+3 mg/L at 25 °C (est)","Soluble in benzene, chloroform"
+1509,6597.0,C(C(=O)O)(Cl)Cl,"greater than or equal to 100 mg/mL at 59° F (NTP, 1992)","greater than or equal to 100 mg/mL at 59 °F (NTP, 1992)"
+1510,6598.0,CN(C)C(=O)Cl,"Decomposes (NTP, 1992)","Decomposes (NTP, 1992)"
+1511,6609.0,CC1CC=C(C(C1(C)C)C=CC(=O)C)C,1 ml in 4 ml 70% alcohol (in ethanol),1 ml in 4 ml 70% alcohol (in ethanol)
+1512,6610.0,CCC(C)(C)C1=CC(=C(C=C1O)C(C)(C)CC)O,SLIGHTLY SOL IN WATER; SOL IN ALCOHOL & BENZENE,SLIGHTLY SOL IN WATER; SOL IN ALCOHOL & BENZENE
+1513,6613.0,CC(C)(CO)[C@H](C(=O)NCCC(=O)O)O,Soluble,Soluble
+1514,6616.0,CC1(C2CCC(C2)C1=C)C,3.38e-05 M,"In water, 4.6 mg/L at 25 °C"
+1515,6618.0,CC(C)(C1=CC(=C(C(=C1)Br)O)Br)C2=CC(=C(C(=C2)Br)O)Br,"Insoluble (<1 mg/ml) (NTP, 1992)","Insoluble (<1 mg/ml) (NTP, 1992)"
+1516,6621.0,C1=CC=C(C=C1)S(=O)(=O)C2=CC=C(C=C2)Cl,"At 20 °C acetone (74.4 g/100mL), toluene (44.4 g/100mL), dioxane (65.6 g/100mL), isopropanol (21 g/100mL), hexane 0.4 g/100mL), xylene (18.2 g/100mL), carbon tetrachloride (4.9 g/100mL); slightly soluble in pet ether.","At 20 °C acetone (74.4 g/100mL), toluene (44.4 g/100mL), dioxane (65.6 g/100mL), isopropanol (21 g/100mL), hexane 0.4 g/100mL), xylene (18.2 g/100mL), carbon tetrachloride (4.9 g/100mL); slightly soluble in pet ether."
+1517,6623.0,CC(C)(C1=CC=C(C=C1)O)C2=CC=C(C=C2)O,"less than 1 mg/mL at 70.7° F (NTP, 1992)","less than 1 mg/mL at 70.7 °F (NTP, 1992)"
+1518,6624.0,CC(C1=CC=C(C=C1)Cl)(C2=CC=C(C=C2)Cl)O,Sol in ether and benzene; insol in water and alcohol,Sol in ether and benzene; insol in water and alcohol
+1519,6625.0,C1=CC(=CC=C1S(=O)(=O)C2=CC=C(C=C2)Cl)Cl,"less than 1 mg/mL at 68° F (NTP, 1992)","less than 1 mg/mL at 68 °F (NTP, 1992)"
+1520,6626.0,C1=CC(=CC=C1O)S(=O)(=O)C2=CC=C(C=C2)O,Insoluble in water,Insoluble in water
+1521,6627.0,C1=CC=C(C=C1)[Si](C2=CC=CC=C2)(Cl)Cl,"Soluble in ethanol, ethyl ether, acetone, carbon tetrachloride and benzene","Soluble in ethanol, ethyl ether, acetone, carbon tetrachloride and benzene"
+1522,6628.0,CC1=CC=C(C=C1)S(=O)(=O)N(C)N=O,"INSOL IN WATER; SOL IN ETHER, PETROLEUM ETHER, BENZENE","INSOL IN WATER; SOL IN ETHER, PETROLEUM ETHER, BENZENE"
+1523,6629.0,CC(C)(C1=CC=CC=C1)OO,"less than 0.1 mg/mL at 64° F (NTP, 1992)","less than 0.1 mg/mL at 64 °F (NTP, 1992)"
+1524,6630.0,COS(=O)(=O)C1=CC=CC=C1,0.02 M,
+1525,6633.0,CC1=CC=C(C=C1)S(=O)(=O)NC2CCCCC2,"less than 1 mg/mL at 70° F (NTP, 1992)","less than 1 mg/mL at 70 °F (NTP, 1992)"
+1526,6634.0,C1=CC(=CC=C1N)S(=O)(=O)NC2=NN=C(C=C2)Cl,35 [ug/mL],35 [ug/mL] (The mean of the results at pH 7.4)
+1527,6635.0,C1=CC(=CC=C1OS(=O)(=O)C2=CC=C(C=C2)Cl)Cl,PRACTICALLY INSOL IN WATER; SOL @ 25 °C IN G/100 ML: 1.4 G IN 95% ALCOHOL; 41.0 G IN CARBON TETRACHLORIDE; 110.0 G IN CYCLOHEXANONE; 110.0 G IN ETHYLENE DICHLORIDE; 2.0-2.7 G IN PETROLEUM OILS; 130.0 G IN ACETONE; 78 G IN XYLENE,PRACTICALLY INSOL IN WATER; SOL @ 25 °C IN G/100 ML: 1.4 G IN 95% ALCOHOL; 41.0 G IN CARBON TETRACHLORIDE; 110.0 G IN CYCLOHEXANONE; 110.0 G IN ETHYLENE DICHLORIDE; 2.0-2.7 G IN PETROLEUM OILS; 130.0 G IN ACETONE; 78 G IN XYLENE
+1528,6636.0,C1=CC=C(C=C1)S(=O)(=O)OC2=CC=C(C=C2)Cl,SPARINGLY SOLUBLE IN WATER ... /&/ ORGANIC POLAR AND AROMATIC SOLVENTS,SPARINGLY SOLUBLE IN WATER ... /&/ ORGANIC POLAR AND AROMATIC SOLVENTS
+1529,6637.0,CCNS(=O)(=O)C1=CC=C(C=C1)C,"less than 1 mg/mL at 70° F (NTP, 1992)","less than 1 mg/mL at 70 °F (NTP, 1992)"
+1530,6638.0,CCOS(=O)(=O)C1=CC=C(C=C1)C,"INSOL IN WATER; SOL IN ALC, ETHER, HOT ACETIC ACID","INSOL IN WATER; SOL IN ALC, ETHER, HOT ACETIC ACID"
+1531,6641.0,CC(C)(C1=CC=CC=C1)OOC(C)(C)C2=CC=CC=C2,"less than 1 mg/mL at 73° F (NTP, 1992)","less than 1 mg/mL at 73 °F (NTP, 1992)"
+1532,6643.0,CCC(C)(C)C1=CC=C(C=C1)O,"less than 1 mg/mL at 79° F (NTP, 1992)","less than 1 mg/mL at 79 °F (NTP, 1992)"
+1533,6644.0,CC1CCC(CC1)C(C)(C)OO,"less than 0.1 mg/mL at 63° F (NTP, 1992)","less than 0.1 mg/mL at 63 °F (NTP, 1992)"
+1534,6645.0,CC1=CC=C(C=C1)S(=O)(=O)OC,"INSOL IN WATER; SLIGHTLY SOL IN PETROLEUM ETHER; SOL IN ETHER; VERY SOL IN ALCOHOL, BENZENE, CHLOROFORM","INSOL IN WATER; SLIGHTLY SOL IN PETROLEUM ETHER; SOL IN ETHER; VERY SOL IN ALCOHOL, BENZENE, CHLOROFORM"
+1535,6647.0,CCCC(CCC)C(=O)OC1C[C@H]2CC[C@H](C1)[N+]2(C)C.[Br-],"SOL IN WATER, CHLOROFORM; SPARINGLY SOL IN ALCOHOL; SLIGHTLY SOL IN ACETONE; INSOL IN ETHER",
+1536,6649.0,C1=CC(=CC=C1OC2=CC=C(C=C2)S(=O)(=O)NN)S(=O)(=O)NN,Soluble in acetone; moderately soluble in ethanol and polyethylene glycols; insoluble in water and gasoline,Soluble in acetone; moderately soluble in ethanol and polyethylene glycols; insoluble in water and gasoline
+1537,6650.0,CC1(CCC(CC1)C(C)(C)N)N,"Slightly soluble (NTP, 1992)","Slightly soluble (NTP, 1992)"
+1538,6651.0,CC1(CCC(CC1)C(C)(C)O)O,0.02 M,1 mg/mL at 20 °C
+1539,6654.0,CC1=CCC2CC1C2(C)C,1.83e-05 M,ALMOST INSOLUBLE IN PROPYLENE GLYCOL & GLYCERINE
+1540,6658.0,CC(=C)C(=O)OC,"1 to 10 mg/mL at 63.5° F (NTP, 1992)","1 to 10 mg/mL at 63.5 °F (NTP, 1992)"
+1541,6659.0,COC(=O)C(=C)Cl,"less than 1 mg/mL at 72° F (NTP, 1992)","less than 1 mg/mL at 72 °F (NTP, 1992)"
+1542,6660.0,CC1=C(C(=O)CC1)O,soluble in alcohol and propylene glycol; slightly soluble in most fixed oils and 1 g in 72 ml water,soluble in alcohol and propylene glycol; slightly soluble in most fixed oils and 1 g in 72 ml water
+1543,6665.0,C[C@H](CCCC(C)C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@@H]4[C@@]3(CC[C@@H](C4)O)C)C,0.0003391 mg/L @ 25 °C (est),
+1544,6669.0,CC1=C(C(=C(C(=C1[N+](=O)[O-])C(C)(C)C)[N+](=O)[O-])C)C(=O)C,"Insoluble (<1 mg/ml at 68.0° F) (NTP, 1992)","Insoluble (<1 mg/ml at 68.0 °F) (NTP, 1992)"
+1545,6670.0,C1=CC=C2C(=C1)C=CC(=C2S(=O)(=O)O)N,"Slightly sol in cold water; more sol in hot water; very slightly sol in alcohol, ether","Slightly sol in cold water; more sol in hot water; very slightly sol in alcohol, ether"
+1546,6672.0,CC1=C(C(=CC=C1)C)[N+](=O)[O-],"less than 1 mg/mL at 66° F (NTP, 1992)","less than 1 mg/mL at 66 °F (NTP, 1992)"
+1547,6673.0,C1C2C3CC4C(C3C1C5C2O5)O4,SOL IN BENZENE,SOL IN BENZENE
+1548,6674.0,C[C@H](CCC(=O)O)[C@H]1CC[C@@H]2[C@@]1(C(=O)C[C@H]3[C@H]2C(=O)C[C@H]4[C@@]3(CCC(=O)C4)C)C,Insoluble,Insoluble
+1549,6675.0,C[C@H](CCC(=O)NCCS(=O)(=O)O)[C@H]1CC[C@@H]2[C@@]1([C@H](C[C@H]3[C@H]2[C@@H](C[C@H]4[C@@]3(CC[C@H](C4)O)C)O)O)C,Very soluble in water and ethanol; slightly soluble in ether and ethyl acetate,Very soluble in water and ethanol; slightly soluble in ether and ethyl acetate
+1550,6681.0,C1=CC=C2C(=C1)C(=O)C3=C(C2=O)C(=C(C=C3Br)Br)N,"less than 1 mg/mL at 73° F (NTP, 1992)","less than 1 mg/mL at 73 °F (NTP, 1992)"
+1551,6683.0,C1=CC=C2C(=C1)C(=O)C3=C(C2=O)C(=C(C=C3O)O)O,2.50e-05 M,
+1552,6688.0,C1=CC=C2C(=C1)C(=O)C3=C(C=CC(=C3C2=O)O)O,MODERATELY SOL IN ALCOHOL WITH RED COLOR,MODERATELY SOL IN ALCOHOL WITH RED COLOR
+1553,6690.0,C1=CC=C2C(=C1)C(=O)C3=C(C2=O)C4=C(C=C3)NC5=C(N4)C=CC6=C5C(=O)C7=CC=CC=C7C6=O,"less than 1 mg/mL at 70° F (NTP, 1992)","less than 1 mg/mL at 70 °F (NTP, 1992)"
+1554,6693.0,C1=CC2=C3C(=C1)C(=O)OC(=O)C3=CC=C2,Slightly sol in acetic acid; very soluble in ether and alcohol.,Slightly sol in acetic acid; very soluble in ether and alcohol.
+1555,6694.0,CCN(CC)C1=CC2=C(C=C1)C(=C3C=CC(=[N+](CC)CC)C=C3O2)C4=CC=CC=C4C(=O)O.[Cl-],"SOL IN WATER, ALCOHOL & ETHER, BENZENE /BASIC ANHYDROUS FORM/","SOL IN WATER, ALCOHOL & ETHER, BENZENE /BASIC ANHYDROUS FORM/"
+1556,6695.0,CCN(CC)C1=CC2=C(C=C1)C(=C3C=CC(=[N+](CC)CC)C=C3O2)C4=CC=CC=C4C(=O)O,"less than 0.1 mg/mL at 63° F (NTP, 1992)","less than 0.1 mg/mL at 63 °F (NTP, 1992)"
+1557,6697.0,C1=CC=C2C(=C1)C3=CC=CC4=C3C(=CC=C4)C2=O,@ 20 °C: 0.52 G IN 100 G GLACIAL ACETIC ACID,@ 20 °C: 0.52 G IN 100 G GLACIAL ACETIC ACID
+1558,6702.0,CC1=C(C2=C(C=C1)C(=O)C3=CC=CC=C3C2=O)N,"less than 1 mg/mL at 68° F (NTP, 1992)","less than 1 mg/mL at 68 °F (NTP, 1992)"
+1559,6709.0,C1=CC=C2C(=C1)C(=O)C3=C(C2=O)C(=CC=C3)Cl,INSOL IN WATER; SLIGHTLY SOL IN HOT ALCOHOL; SOL IN NITROBENZENE & HOT AMYL ALCOHOL,INSOL IN WATER; SLIGHTLY SOL IN HOT ALCOHOL; SOL IN NITROBENZENE & HOT AMYL ALCOHOL
+1560,6712.0,C1=CC2=C(C(=C1)S(=O)(=O)O)C(=O)C3=C(C2=O)C=CC=C3S(=O)(=O)O,18.08 M,
+1561,6718.0,C1=C(C(=C(C(=C1Cl)Cl)[N+](=O)[O-])O)Cl,"less than 1 mg/mL at 66° F (NTP, 1992)","less than 1 mg/mL at 66 °F (NTP, 1992)"
+1562,6719.0,C1=CC=C(C=C1)C(C2=CC=CC=C2)C(=O)C3C(=O)C4=CC=CC=C4C3=O,8.81e-07 M,"In water, 0.3 mg/L, temp not specified"
+1563,6720.0,C1(=C(C(=C(C(=C1Cl)Cl)Cl)Cl)Cl)[N+](=O)[O-],"less than 1 mg/mL at 72° F (NTP, 1992)","less than 1 mg/mL at 72 °F (NTP, 1992)"
+1564,6721.0,C1=C(C(=C(C(=C1[N+](=O)[O-])O)[N+](=O)[O-])O)[N+](=O)[O-],0.02 M,
+1565,6723.0,CC1=NC=C(C(=C1O)C(=O)O)CO,4337 mg/L @ 25 °C (est),
+1566,6724.0,C1=CC2=C3C(=C1)C(=O)C(=O)C3=CC=C2,"INSOL IN WATER; SLIGHTLY SOL IN ACETIC ACID; SLIGHTLY SOL IN ALC, HOT BENZENE; HOT PETROLEUM ETHER","INSOL IN WATER; SLIGHTLY SOL IN ACETIC ACID; SLIGHTLY SOL IN ALC, HOT BENZENE; HOT PETROLEUM ETHER"
+1567,6726.0,CN1CCN(CC1)C(C2=CC=CC=C2)C3=CC=CC=C3,"INSOL IN WATER; SLIGHTLY SOL IN ACETIC ACID; SLIGHTLY SOL IN ALC, HOT BENZENE; HOT PETROLEUM ETHER",
+1568,6729.0,CC(C)(C)C1=CC=C(C=C1)CN2CCN(CC2)C(C3=CC=CC=C3)C4=CC=C(C=C4)Cl,2.46e-04 g/L,2.46e-04 g/L
+1569,6731.0,C1=CC=C2C(=C1)C=CC(=N2)C3C(=O)C4=CC=CC=C4C3=O,"less than 1 mg/mL at 66° F (NTP, 1992)","less than 1 mg/mL at 66 °F (NTP, 1992)"
+1570,6732.0,CC(C)(C)C(=O)C1C(=O)C2=CC=CC=C2C1=O,"less than 1 mg/mL at 72° F (NTP, 1992)","less than 1 mg/mL at 72 °F (NTP, 1992)"
+1571,6733.0,CC(C)CC(=O)C1C(=O)C2=CC=CC=C2C1=O,Insoluble in water; soluble in common organic solvents.,Insoluble in water; soluble in common organic solvents.
+1572,6734.0,C1CC2=CC=CC3=C2C1=CC=C3,"less than 1 mg/mL at 68° F (NTP, 1992)","less than 1 mg/mL at 68 °F (NTP, 1992)"
+1573,6736.0,CC1=CNC2=CC=CC=C12,6.8 [ug/mL],6.8 [ug/mL] (The mean of the results at pH 7.4)
+1574,6737.0,C1=CC(=C(C(=C1)Cl)C=O)Cl,"less than 1 mg/mL at 73° F (NTP, 1992)","less than 1 mg/mL at 73 °F (NTP, 1992)"
+1575,6739.0,CC1=C(C(=CC=C1)[N+](=O)[O-])C,"less than 1 mg/mL at 70° F (NTP, 1992)","less than 1 mg/mL at 70 °F (NTP, 1992)"
+1576,6746.0,CC[C@H](C=C[C@@H](C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C)C(C)C,"Very soluble in benzene, ethyl ether, ethanol",
+1577,6748.0,CN1C=CC(=O)C2=CC=CC=C21,0.10 M,
+1578,6749.0,C1=CC2=C(C=CC=C2O)C(=C1)O,0.00 M,"Solubility in water, g/100ml at 20 °C: 0.06"
+1579,6753.0,CC1=C(C=C(C(=C1[N+](=O)[O-])OC)C(C)(C)C)[N+](=O)[O-],"Insoluble (NTP, 1992)","Insoluble (NTP, 1992)"
+1580,6755.0,C1=CC=C2C(=C1)C(=CC(=O)C2=O)O,"less than 1 mg/mL at 66° F (NTP, 1992)","less than 1 mg/mL at 66 °F (NTP, 1992)"
+1581,6758.0,CC(=C)[C@H]1CC2=C(O1)C=CC3=C2O[C@@H]4COC5=CC(=C(C=C5[C@@H]4C3=O)OC)OC,"less than 1 mg/mL at 68° F (NTP, 1992)","less than 1 mg/mL at 68 °F (NTP, 1992)"
+1582,6759.0,CC1=CC2=C(C=C1C)N(C3=NC(=O)NC(=O)C3=N2)C[C@H]([C@H]([C@H](CO)O)O)O,2.25e-04 M,
+1583,6762.0,CC(=O)OCCN1CCN(CC1)CCCN2C3=CC=CC=C3SC4=C2C=C(C=C4)Cl,2.00e-05 M,SOL IN ETHER
+1584,6763.0,C1=CC=C2C(=C1)C3=CC=CC=C3C(=O)C2=O,3.60e-05 M,Solubility in water: 0.4 mg/mL
+1585,6766.0,C1=CC=C(C=C1)C2=CC=CC=C2C3=CC=CC=C3,"Insoluble (NIOSH, 2016)","Insoluble (NIOSH, 2024)"
+1586,6768.0,COC1=CC2=C(C=CN=C2C=C1)C(=O)C3CC4CCN3CC4C=C,9.30e-06 M,
+1587,6776.0,C1=CC2=C(C=C1O)C(=O)C3=C(C2=O)C=C(C=C3)O,1.29e-06 M,
+1588,6777.0,C1CCC(CC1)OC(=O)C2=CC=CC=C2C(=O)OC3CCCCC3,"Insoluble (NTP, 1992)","Insoluble (NTP, 1992)"
+1589,6778.0,C1=CC=C(C=C1)OC(=O)C2=CC=CC=C2C(=O)OC3=CC=CC=C3,2.58e-07 M,
+1590,6779.0,CCCCOC(=O)C1=CC=CC=C1C(=O)OC2CCCCC2,"Insoluble (<1 mg/ml at 68° F) (NTP, 1992)","Insoluble (<1 mg/ml at 68 °F) (NTP, 1992)"
+1591,6780.0,C1=CC=C2C(=C1)C(=O)C3=CC=CC=C3C2=O,"less than 1 mg/mL at 73° F (NTP, 1992)","less than 1 mg/mL at 73 °F (NTP, 1992)"
+1592,6781.0,CCOC(=O)C1=CC=CC=C1C(=O)OCC,"less than 1 mg/mL at 66° F (NTP, 1992)","less than 1 mg/mL at 66 °F (NTP, 1992)"
+1593,6782.0,CC(C)COC(=O)C1=CC=CC=C1C(=O)OCC(C)C,"Insoluble (NTP, 1992)","Insoluble (NTP, 1992)"
+1594,6786.0,CCCCCCOC(=O)C1=CC=CC=C1C(=O)OCCCCCC,"Insoluble (NTP, 1992)","Insoluble (NTP, 1992)"
+1595,6787.0,CCCCCCCCCOC(=O)C1=CC=CC=C1C(=O)OCCCCCCCCC,"Phthalate esters are soluble to various extents in many common organic solvents and oils, but have a relatively low solubility in water. /Phthalate esters/","Phthalate esters are soluble to various extents in many common organic solvents and oils, but have a relatively low solubility in water. /Phthalate esters/"
+1596,6788.0,CCCCCCCCCCOC(=O)C1=CC=CC=C1C(=O)OCCCCCCCCCC,4.92e-10 M,"Phthalate esters are soluble to various extents in many common organic solvents and oils, but have a relatively low solubility in water. /Phthalate esters/"
+1597,6794.0,C1C[N+]2=CC=CC=C2C3=CC=CC=[N+]31.[Br-].[Br-],"greater than or equal to 100 mg/mL at 68° F (NTP, 1992)","Slightly soluble in alcohols, hydroxylic solvents. Practically insoluble in nonpolar organic solvents."
+1598,6795.0,C1C[N+]2=CC=CC=C2C3=CC=CC=[N+]31,"greater than or equal to 100 mg/mL at 68° F (NTP, 1992)","greater than or equal to 100 mg/mL at 68 °F (NTP, 1992)"
+1599,6796.0,C1=CC=C2C(=C1)C=CC3=C2C=CC=N3,"less than 0.1 mg/mL at 66° F (NTP, 1992)","less than 0.1 mg/mL at 66 °F (NTP, 1992)"
+1600,6799.0,C1=CC=C(C=C1)C(=O)C2=C(C=CC(=C2)Cl)O,"In water, 52.3 mg/L at 25 °C (est)",Insoluble in water
+1601,6800.0,CCC1=C(C(=C(C(=C1Br)Br)Br)Br)Br,"Insoluble (NTP, 1992)","Insoluble (NTP, 1992)"
+1602,6805.0,C1=CC(=C(C(=C1Cl)CC(=O)O)Cl)Cl,8.35e-04 M,"SOL IN ACETONE, ALC, ETHER"
+1603,6806.0,CC(=O)NC1=C(C=C(C(=C1I)C(=O)O)I)I,Soluble,Soluble
+1604,6808.0,C1C=CCC2C1C(=O)NC2=O,"In water, 4.18X10+4 mg/L at 25 °C (est)",
+1605,6809.0,C1=CC=C2C(=C1)C(=O)NC2=O,"less than 1 mg/mL at 67.1° F (NTP, 1992)","less than 1 mg/mL at 67.1 °F (NTP, 1992)"
+1606,6810.0,C1C=CCC2C1C(=O)OC2=O,Slightly soluble in petroleum ether and ethyl ether; soluble in benzene,Slightly soluble in petroleum ether and ethyl ether; soluble in benzene
+1607,6811.0,C1=CC=C2C(=C1)C(=O)OC2=O,"Decomposes (NTP, 1992)","Decomposes (NTP, 1992)"
+1608,6813.0,C1=CC=C(C=C1)C(=O)C2=CC=CC=C2C(=O)O,VERY SOL IN ALCOHOL & ETHER; SOL IN HOT BENZENE,VERY SOL IN ALCOHOL & ETHER; SOL IN HOT BENZENE
+1609,6814.0,C1=CC=C(C(=C1)C(=O)C2=CC=C(C=C2)O)C(=O)O,0.00 M,
+1610,6818.0,CCCCC(CC)COC(=O)C1=CC=CC=C1C(=O)OCCCC,"Phthalate esters are soluble to various extents in many common organic solvents and oils, but have a relatively low solubility in water. /Phthalate esters/","Phthalate esters are soluble to various extents in many common organic solvents and oils, but have a relatively low solubility in water. /Phthalate esters/"
+1611,6819.0,CCCCOC(=O)COC(=O)C1=CC=CC=C1C(=O)OCCCC,"Phthalate esters are soluble to various extents in many common organic solvents and oils, but have a relatively low solubility in water. /Phthalate esters/","Phthalate esters are soluble to various extents in many common organic solvents and oils, but have a relatively low solubility in water. /Phthalate esters/"
+1612,6821.0,CC1=CC(=CC=C1)NC(=O)C2=CC=CC=C2C(=O)O,0.00 M,
+1613,6824.0,C1=CC=C(C=C1)N=NC2=C(C=CC3=CC=CC=C32)N,"Very soluble in ethanol, acetic acid","Very soluble in ethanol, acetic acid"
+1614,6826.0,CNC1=CC=CC=C1C(=O)OC,"INSOL IN WATER; SOL IN ALCOHOL, ETHER","INSOL IN WATER; SOL IN ALCOHOL, ETHER"
+1615,6828.0,CCN(C1=CC=CC=C1)C(=O)N(CC)C2=CC=CC=C2,"less than 1 mg/mL at 70.7° F (NTP, 1992)","less than 1 mg/mL at 70.7 °F (NTP, 1992)"
+1616,6829.0,C1=CC=C(C=C1)C2=CC=CC=C2[N+](=O)[O-],"less than 1 mg/mL at 72° F (NTP, 1992)","less than 1 mg/mL at 72 °F (NTP, 1992)"
+1617,6834.0,CN(C)CCC(C1=CC=C(C=C1)Br)C2=CC=CC=N2,Freely soluble (maleate salt),Freely soluble (maleate salt)
+1618,6837.0,C1=CC=C(C=C1)C(C#N)C2=CC=CC=C2,0.00 M,
+1619,6838.0,C1=CC=C(C=C1)N(C2=CC=CC=C2)N=O,"less than 1 mg/mL at 66° F (NTP, 1992)","less than 1 mg/mL at 66 °F (NTP, 1992)"
+1620,6839.0,CN1C(=O)CC(C1=O)C2=CC=CC=C2,"less than 1 mg/mL at 66° F (NTP, 1992)",
+1621,6849.0,C1=CC=C2C(=C1)C=CC=C2[N+](=O)[O-],"less than 0.1 mg/mL at 72° F (NTP, 1992)","less than 0.1 mg/mL at 72 °F (NTP, 1992)"
+1622,6853.0,C1C2=CC=CC=C2C3=CC=CC=C31,"Insoluble. (1.7mg/kg) (NTP, 1992)","Insoluble. (1.7mg/kg) (NTP, 1992)"
+1623,6854.0,C1=CC=C2C(=C1)C3=CC=CC=C3N2,"less than 1 mg/mL at 66° F (NTP, 1992)","less than 1 mg/mL at 66 °F (NTP, 1992)"
+1624,6858.0,COC1=CC(=CC(=C1OC)OC)C=O,0.01 M,
+1625,6860.0,C[Hg+],"Methylmercury(II) complexes of most widely studied antidotes for mercury poisoning were prepared, and the water solubility and 1-octanol/water partition coefficients determined for these complexes and the l-cysteine complex.","Methylmercury(II) complexes of most widely studied antidotes for mercury poisoning were prepared, and the water solubility and 1-octanol/water partition coefficients determined for these complexes and the l-cysteine complex."
+1626,6861.0,C1=CC=C2C(=C1)C=CC=C2CC(=O)N,0.039 mg/mL at 40 °C,0.039 mg/mL at 40 °C
+1627,6862.0,C1=CC=C2C(=C1)C=CC=C2CC(=O)O,0.039 mg/mL at 40 °C,
+1628,6869.0,CC1([C@@H](N2[C@H](S1)[C@@H](C2=O)NC(=O)COC3=CC=CC=C3)C(=O)O)C,"less than 1 mg/mL at 55° F (NTP, 1992)","less than 1 mg/mL at 55 °F (NTP, 1992)"
+1629,6870.0,CC(=O)NC1=C2C(=CSS2)N(C1=O)C,0.21 mg/mL,0.21 mg/mL
+1630,6872.0,C1=CC=C(C=C1)NC(=O)C2=CC=CC=C2O,2.58e-04 M,
+1631,6873.0,CC(C)COC(=O)C1=CC=CC=C1O,67.83 mg/L @ 25 °C (est),"insoluble in water, glycerol; soluble in organic solvents, oils"
+1632,6874.0,CC(C)CCOC(=O)C1=CC=CC=C1O,6.96e-04 M,0.145 mg/mL at 25 °C
+1633,6877.0,CCOC(=O)C1=CC=CC=C1N,"Insoluble (NTP, 1992)","Insoluble (NTP, 1992)"
+1634,6884.0,COC1=C(C=C(C=C1Cl)Cl)Cl,4.73e-05 M,0.01 mg/mL at 20 °C
+1635,6887.0,CC1=CCCC(=C)[C@H]2CC([C@@H]2CC1)(C)C,"less than 1 mg/mL at 70° F (NTP, 1992)",
+1636,6888.0,CC1=NN(C(=C1)OC(=O)N(C)C)C2=CC=CC=C2,"Soluble (NTP, 1992)","Soluble (NTP, 1992)"
+1637,6890.0,CN(C)CC1=CNC2=CC=CC=C21,481.1 mg/L @ 25 °C (est),
+1638,6893.0,CC1=C(C(=CC=C1)N)C,"1 to 5 mg/mL at 75° F (NTP, 1992)","1 to 5 mg/mL at 75 °F (NTP, 1992)"
+1639,6894.0,CC1=C(C=CC=C1Cl)N,SOL IN HOT WATER; INSOL IN ETHER & BENZENE,SOL IN HOT WATER; INSOL IN ETHER & BENZENE
+1640,6895.0,C1=CC(=C(C(=C1)Cl)Cl)Cl,"Insoluble (NTP, 1992)","Insoluble (NTP, 1992)"
+1641,6896.0,CC1=C(C(=CC=C1)C)N,"less than 1 mg/mL at 75° F (NTP, 1992)","less than 1 mg/mL at 75 °F (NTP, 1992)"
+1642,6898.0,CC1=C(C(=CC=C1)Cl)O,0.17 M,
+1643,6899.0,C1=CC(=C(C(=C1)Cl)O)Cl,"less than 1 mg/mL at 68° F (NTP, 1992)","less than 1 mg/mL at 68 °F (NTP, 1992)"
+1644,6900.0,C[N+](C)(C)CCO.[C@@H]([C@H](C(=O)[O-])O)(C(=O)O)O,"Freely sol in water; slightly sol in alcohol; insol in ether, chloroform and  benzene","Freely sol in water; slightly sol in alcohol; insol in ether, chloroform and  benzene"
+1645,6901.0,C(=C(Cl)Cl)(C(=C(Cl)Cl)Cl)Cl,"less than 0.1 mg/mL at 72° F (NTP, 1992)","less than 0.1 mg/mL at 72 °F (NTP, 1992)"
+1646,6905.0,C1(=C(C(=C(C(=C1Br)Br)Br)Br)Br)Br,"Insoluble (NTP, 1992)","Insoluble (NTP, 1992)"
+1647,6906.0,CC1=C(C(=C(C(=C1Br)Br)Br)Br)Br,"Insoluble (<1 mg/ml) (NTP, 1992)","Insoluble (<1 mg/ml) (NTP, 1992)"
+1648,6907.0,C1(C(C(C(C(C1Br)Br)Br)Br)Br)Cl,"less than 0.1 mg/mL at 64° F (NTP, 1992)","less than 0.1 mg/mL at 64 °F (NTP, 1992)"
+1649,6908.0,CC1=C(C(=C(C(=C1C)C)C)C)C,1.45e-06 M,
+1650,6909.0,C1(=O)N(C(=O)N(C(=O)N1Cl)Cl)Cl,0.05 M,Soluble in chlorinated and highly polar solvents
+1651,6912.0,C([C@H](C([C@H](CO)O)O)O)O,4.22 M,
+1652,6913.0,CC1=CC(=C(C(=C1)C)N)C,Insoluble in water,Insoluble in water
+1653,6914.0,C1=C(C=C(C(=C1Cl)O)Cl)Cl,"less than 0.1 mg/mL at 64° F (NTP, 1992)","less than 0.1 mg/mL at 64 °F (NTP, 1992)"
+1654,6915.0,CCC(CC)C(=O)O,0.15 M,18 mg/mL at 20 °C
+1655,6916.0,CCN(CC)C(=O)Cl,SOL IN WATER,SOL IN WATER
+1656,6917.0,C=CN1CCCC1=O,"greater than or equal to 100 mg/mL at 68° F (NTP, 1992)",Soluble in water and many organic solvents
+1657,6918.0,C1=CSC=C1C(=O)O,0.03 M,
+1658,6919.0,C1=COC(=C1)C(=O)O,37.1 mg/mL at 15 °C,37.1 mg/mL at 15 °C
+1659,6920.0,CC(=O)C1=CC=CS1,0.11 M,14 mg/mL at 30 °C
+1660,6923.0,CC(C)(C)C1=CC=CC=C1O,0.00 M,"SOL IN ALCOHOL; VERY SOL IN ETHER; SOL IN ALKALI, CARBON TETRACHLORIDE"
+1661,6924.0,CC1=CC=CC=C1S(=O)(=O)N,0.01 M,"In water, 1.62X10+3 mg/L at 25 °C"
+1662,6926.0,C1=CC=C(C(=C1)N)S(=O)(=O)O,"10 to 50 mg/mL at 72° F (NTP, 1992)","10 to 50 mg/mL at 72 °F (NTP, 1992)"
+1663,6927.0,C1=C(C=C(C(=C1N)O)S(=O)(=O)O)Cl,"less than 1 mg/mL at 70° F (NTP, 1992)","less than 1 mg/mL at 70 °F (NTP, 1992)"
+1664,6929.0,CC(C)(C)C1=CC(=CC(=C1O)C(C)(C)C)CO,312.6 mg/L @ 25 °C (est),
+1665,6931.0,C1=CC(=C(C=C1O)C(F)(F)F)[N+](=O)[O-],0.02 M,"In water, 5000 mg/L at 25 °C"
+1666,6935.0,CC1=CC(=C(C=C1Cl)N)S(=O)(=O)O,ESSENTIALLY INSOL AS FREE ACID; SOL AS SODIUM SALT,ESSENTIALLY INSOL AS FREE ACID; SOL AS SODIUM SALT
+1667,6937.0,CC1=CC(=C(C=C1)C(C)(C)C)O,"INSOL IN WATER; SOL IN ALCOHOL, ETHER, ACETONE, ORGANIC SOLVENTS","INSOL IN WATER; SOL IN ALCOHOL, ETHER, ACETONE, ORGANIC SOLVENTS"
+1668,6940.0,C1=CC=C(C(=C1)C(=O)O)Br,0.01 M,
+1669,6942.0,C1=CC=C(C(=C1)C(=O)N)N,>20.4 [ug/mL],>20.4 [ug/mL] (The mean of the results at pH 7.4)
+1670,6943.0,CC(C)C1=CC=CC=C1O,1146 mg/L @ 25 °C (est),slightly soluble in water
+1671,6944.0,CC1=CC=CC=C1[N+](=O)[O-],"less than 1 mg/mL at 70° F (NTP, 1992)","less than 1 mg/mL at 70 °F (NTP, 1992)"
+1672,6945.0,C1=CC=C(C(=C1)[N+](=O)[O-])Cl,"less than 0.1 mg/mL at 67.8° F (NTP, 1992)","less than 0.1 mg/mL at 67.8 °F (NTP, 1992)"
+1673,6946.0,C1=CC=C(C(=C1)N)[N+](=O)[O-],"less than 1 mg/mL at 70.7° F (NTP, 1992)","less than 1 mg/mL at 70.7 °F (NTP, 1992)"
+1674,6947.0,C1=CC=C(C(=C1)[N+](=O)[O-])O,"less than 1 mg/mL at 70° F (NTP, 1992)","less than 1 mg/mL at 70 °F (NTP, 1992)"
+1675,6948.0,C1=C(C=C(C(=C1C(=O)O)I)I)I,"Insoluble in water; slightly soluble in benzene; very soluble in ethanol, ether","Insoluble in water; slightly soluble in benzene; very soluble in ethanol, ether"
+1676,6949.0,CC1CCC(=C(C)C)CC2=C1CCC2C,5.922 mg/L @ 25 °C (est),"Insoluble in water, propylene glycol; Soluble in oils"
+1677,6950.0,CCC(C)C1=C(C(=CC(=C1)[N+](=O)[O-])[N+](=O)[O-])O,2.16e-04 M,"0.0052 G/100 G WATER; 48 G/100 G ETHANOL; 27 G/100 G N-HEPTANE; MISCIBLE IN ETHYL ETHER, TOLUENE, & XYLENE"
+1678,6953.0,C1=C(C=C(C(=C1[N+](=O)[O-])Cl)[N+](=O)[O-])[N+](=O)[O-],"less than 1 mg/mL at 66° F (NTP, 1992)","less than 1 mg/mL at 66 °F (NTP, 1992)"
+1679,6954.0,C1=C(C=C(C(=C1[N+](=O)[O-])O)[N+](=O)[O-])[N+](=O)[O-],"1 % (NIOSH, 2016)","1 % (NIOSH, 2024)"
+1680,6956.0,C1=CC=C(C(=C1)C(=O)N)C(=O)N,"less than 1 mg/mL at 66° F (NTP, 1992)","less than 1 mg/mL at 66 °F (NTP, 1992)"
+1681,6966.0,C1=C2C(=CC3=C1C(=O)OC3=O)C(=O)OC2=O,Soluble in some organic solvents,Soluble in some organic solvents
+1682,6969.0,C1=CC2=C(C=C1[N+](=O)[O-])C(=O)NC2=O,"less than 0.1 mg/mL at 64° F (NTP, 1992)","less than 0.1 mg/mL at 64 °F (NTP, 1992)"
+1683,6974.0,CC1=CC(=C(C=C1)C)[N+](=O)[O-],"less than 1 mg/mL at 66° F (NTP, 1992)","less than 1 mg/mL at 66 °F (NTP, 1992)"
+1684,6977.0,C1=CC(=C(C=C1Cl)[N+](=O)[O-])Cl,7.29e-05 M,"In water, 95 mg/L at 25 °C"
+1685,6978.0,CC1=CC(=C(C=C1)N)[N+](=O)[O-],"less than 1 mg/mL at 72° F (NTP, 1992)","less than 1 mg/mL at 72 °F (NTP, 1992)"
+1686,6979.0,C1=CC(=C(C=C1Cl)[N+](=O)[O-])N,"less than 1 mg/mL at 72° F (NTP, 1992)","less than 1 mg/mL at 72 °F (NTP, 1992)"
+1687,6980.0,C1=CC(=C(C=C1Cl)[N+](=O)[O-])O,8.12e-04 M,
+1688,6982.0,CC1=CC(=C(C=C1Cl)C(C)C)O,0.01 M,
+1689,6983.0,C1=C(C(=CC(=C1Cl)Cl)Cl)[N+](=O)[O-],"less than 1 mg/mL at 61° F (NTP, 1992)","less than 1 mg/mL at 61 °F (NTP, 1992)"
+1690,6984.0,CCC(C)C1=CC=CC=C1O,"less than 1 mg/mL at 68° F (NTP, 1992)","less than 1 mg/mL at 68 °F (NTP, 1992)"
+1691,6985.0,CC1=CC(=C(C=C1)C(=O)C)C,334.1 mg/L @ 25 °C (est),"insoluble in water; soluble in organic solvents, oils"
+1692,6986.0,CC1CCC(C(=O)C1)C(C)C,0.00 M,Slightly sol in water; sol in org solvents /L-form/
+1693,6987.0,CC1=CC(=O)C(CC1)C(C)C,very slightly,very slightly
+1694,6988.0,CC1CCC(=C(C)C)C(=O)C1,"In water, 276 mg/L at 25 °C (est)",
+1695,6989.0,CC1=CC(=C(C=C1)C(C)C)O,"In water, 276 mg/L at 25 °C (est)",
+1696,6990.0,CC(=O)C1=C(C=C(C=C1)O)O,1.507e+004 mg/L @ 25 °C (est),
+1697,6991.0,CC1=CC(=C(C=C1)[N+](=O)[O-])C,"less than 1 mg/mL at 70° F (NTP, 1992)","less than 1 mg/mL at 70 °F (NTP, 1992)"
+1698,6992.0,CC1=CC=CC=C1CBr,"In water, 122 mg/L at 25 °C (est)",Insoluble in water
+1699,6996.0,C1=CC=C(C(=C1)C=O)Cl,"1 to 5 mg/mL at 75° F (NTP, 1992)","1 to 5 mg/mL at 75 °F (NTP, 1992)"
+1700,6997.0,CCC1=CC=CC=C1O,"less than 1 mg/mL at 72° F (NTP, 1992)","less than 1 mg/mL at 72 °F (NTP, 1992)"
+1701,6998.0,C1=CC=C(C(=C1)C=O)O,"Solubility in water, 1.7X10+4 mg/L at 86 °C","Solubility in water, 1.7X10+4 mg/L at 86 °C"
+1702,7000.0,COC1=CC=CC=C1N,"less than 0.1 mg/mL at 66° F (NTP, 1992)","less than 0.1 mg/mL at 66 °F (NTP, 1992)"
+1703,7002.0,CC1=CC=CC2=CC=CC=C12,"less than 1 mg/mL at 64Â° F (NTP, 1992)","less than 1 mg/mL at 64 °F (NTP, 1992)"
+1704,7003.0,C1=CC=C2C(=C1)C=CC=C2Cl,"less than 1 mg/mL at 68° F (NTP, 1992)","less than 1 mg/mL at 68 °F (NTP, 1992)"
+1705,7004.0,C1=CC=C2C(=C1)C=CC=C2I,2.82e-05 M,
+1706,7005.0,C1=CC=C2C(=C1)C=CC=C2O,0.01 M,"In water, 866 mg/L at 25 °C"
+1707,7012.0,CCC(C1=CC=CC=C1)C(=O)O,417 mg/mL,417 mg/mL
+1708,7013.0,C1=CC=C(C=C1)NC2=CC=CC3=CC=CC=C32,1.5 [ug/mL],1.5 [ug/mL] (The mean of the results at pH 7.4)
+1709,7014.0,C1CCN2C[C@H]3C[C@@H]([C@H]2C1)CN4[C@H]3CCCC4,0.01 M,
+1710,7015.0,C1=CC=C(C=C1)C2=CC=CC=C2N,"less than 0.1 mg/mL at 70° F (NTP, 1992)","less than 0.1 mg/mL at 70 °F (NTP, 1992)"
+1711,7017.0,C1=CC=C(C=C1)C2=CC=CC=C2O,"less than 0.1 mg/mL at 68.9° F (NTP, 1992)","less than 0.1 mg/mL at 68.9 °F (NTP, 1992)"
+1712,7018.0,C1C2=CC=CC=C2C(=O)C3=CC=CC=C31,SOL IN MOST ORG SOLVENTS WITHOUT FLUORESCENCE,SOL IN MOST ORG SOLVENTS WITHOUT FLUORESCENCE
+1713,7019.0,C1=CC=C2C(=C1)C(=C3C=CC=CC3=N2)N,"less than 1 mg/mL at 68° F (NTP, 1992)","less than 1 mg/mL at 68 °F (NTP, 1992)"
+1714,7025.0,CC(=C)C(=O)C(=CC(=O)O)OC,0.12 M,"MODERATELY SOLUBLE IN COLD WATER (2 G/100 ML); FREELY SOLUBLE IN HOT WATER, ALCOHOL, ETHER, BENZENE, CHLOROFORM; SLIGHTLY SOLUBLE IN HOT PETROLEUM ETHER; PRACTICALLY INSOLUBLE IN PENTANE-HEXANE"
+1715,7026.0,CN(C)CC1=CC(=C(C(=C1)CN(C)C)O)CN(C)C,"In water, 1.64X10+5 mg/L at 25 °C (est)",
+1716,7027.0,C([C@@H]1[C@H]([C@@H]([C@H](C(=O)O1)O)O)O)O,"In water, 1.64X10+5 mg/L at 25 °C (est)",
+1717,7028.0,C[C@@H]([C@H](C1=CC=CC=C1)O)NC,"In water, 1.06X10+5 mg/L at 25 Â°C (est)",Sparingly sol in water; freely sol in alc or ether
+1718,7029.0,CCN(CC)C(C)C(=O)C1=CC=CC=C1,"White or creamy white, small crystals or crystalline powder; characteristic, mildly aromatic odor; 1 g sol in: about 0.6 mL water, about 0.6 ml chloroform, 1 ml absolute methanol, 1 ml alcohol; practically insoluble in ether /Diethylpropion hydrochloride/","White or creamy white, small crystals or crystalline powder; characteristic, mildly aromatic odor; 1 g sol in: about 0.6 mL water, about 0.6 ml chloroform, 1 ml absolute methanol, 1 ml alcohol; practically insoluble in ether /Diethylpropion hydrochloride/"
+1719,7031.0,CN(C)C1=CC=C(C=C1)C(=O)C2=CC=C(C=C2)N(C)C,"less than 0.1 mg/mL at 64Â° F (NTP, 1992)","less than 0.1 mg/mL at 64 Â°F (NTP, 1992)"
+1720,7037.0,C1=CC=C(C=C1)C(C2=CC=CC=C2)O,0.00 M,
+1721,7040.0,CC1=C(C=CC=C1N=C=O)N=C=O,"Reaction (NTP, 1992)","Reaction (NTP, 1992)"
+1722,7041.0,COC1=C(C(=CC=C1)OC)O,17.2 mg/mL at 13 °C,17.2 mg/mL at 13 °C
+1723,7042.0,C1=CC=C(C(=C1)C#N)C#N,0.00 M,Soluble in alcohol and ether
+1724,7043.0,COC1=CC=CC=C1OC,3666 mg/L @ 25 °C (est),Insoluble in water
+1725,7044.0,C1CCC2CCCCC2C1,6.43e-06 M,"Very sol in alcohol, methanol, ether, chloroform. Miscible with propyl and isopropyl alcohol; miscible with most ketones and esters."
+1726,7045.0,C1=CC=C2C(=C1)N=CC=N2,5.07 M,
+1727,7047.0,C1=CC=C2C(=C1)C=CC=N2,12.4 [ug/mL],12.4 [ug/mL] (The mean of the results at pH 7.4)
+1728,7048.0,COC1=CC=CC=C1[N+](=O)[O-],0.01 M,"Miscible with ethanol, ethyl ether; soluble in carbon tetrachloride"
+1729,7050.0,CCN(CC)C1=CC2=C(C=C1)C(=CC(=O)O2)C,"Slightly soluble in hot solvent (NTP, 1992)","Slightly soluble in hot solvent (NTP, 1992)"
+1730,7051.0,CCCCN(C1=CC=CC=C1)C(=O)C,INSOL IN WATER,INSOL IN WATER
+1731,7054.0,C1=CC=C2C(=C1)C(=O)C(=O)N2,1.527e+004 mg/L @ 25 °C (est),
+1732,7055.0,CC1=CC2=CC=CC=C2C=C1,"less than 1 mg/mL at 70Â° F (NTP, 1992)","less than 1 mg/mL at 70 °F (NTP, 1992)"
+1733,7056.0,C1=CC=C2C=C(C=CC2=C1)Cl,"less than 1 mg/mL at 68.9° F (NTP, 1992)","less than 1 mg/mL at 68.9 °F (NTP, 1992)"
+1734,7057.0,C1=CC=C2C=C(C=CC2=C1)N,"less than 1 mg/mL at 72° F (NTP, 1992)","less than 1 mg/mL at 72 °F (NTP, 1992)"
+1735,7058.0,C1=CC=C2C=C(C=CC2=C1)S,slightly,slightly
+1736,7059.0,CC1=CC2=C(C=C1)N=CC=C2,"less than 1 mg/mL at 63° F (NTP, 1992)","less than 1 mg/mL at 63 °F (NTP, 1992)"
+1737,7060.0,CC1=NC2=CC=CC=C2C=C1,498.5 mg/L @ 25 °C (est),
+1738,7061.0,CCN(CC)C1=CC=CC=C1,"less than 1 mg/mL at 76.1° F (NTP, 1992)","less than 1 mg/mL at 76.1 °F (NTP, 1992)"
+1739,7062.0,CCN(CC)C1=CC(=CC=C1)O,"less than 1 mg/mL at 68.9° F (NTP, 1992)","less than 1 mg/mL at 68.9 °F (NTP, 1992)"
+1740,7064.0,C1=CC=C(C=C1)C2=NC(=NC(=N2)N)N,0.00 M,SOL IN METHYL CELLOSOLVE; INSOL IN BENZENE
+1741,7069.0,COC1=C(C=CC(=C1)C2=CC(=C(C=C2)N=C=O)OC)N=C=O,"less than 1 mg/mL at 63.5° F (NTP, 1992)","less than 1 mg/mL at 63.5 °F (NTP, 1992)"
+1742,7070.0,C1=CC(=C(C=C1C2=CC(=C(C=C2)N)Cl)Cl)N,"0.07 % at 59° F (NIOSH, 2016)","0.07 % at 59 °F (NIOSH, 2024)"
+1743,7071.0,C1=CC(=C(C=C1C2=CC(=C(C=C2)N)N)N)N,Solubility in water: very poor,Solubility in water: very poor
+1744,7075.0,C1=CC=C(C=C1)C2=CC(=C(C=C2)O)O,0.01 M,
+1745,7076.0,C1=CC=C(C=C1)C2=CC(=CC=C2)C3=CC=CC=C3,"Insoluble (NIOSH, 2016)","Insoluble (NIOSH, 2024)"
+1746,7079.0,COC1=CC=CC=C1NC(=O)CC(=O)C2=CC=CC=C2,>40.4 [ug/mL],>40.4 [ug/mL] (The mean of the results at pH 7.4)
+1747,7080.0,C1=CC=C2C=C3C=C4C=CC=CC4=CC3=CC2=C1,6.61e-09 M,
+1748,7087.0,CC1=CC2=C(C=C1)N=C(S2)C3=CC=C(C=C3)N,1.1 [ug/mL],1.1 [ug/mL] (The mean of the results at pH 7.4)
+1749,7091.0,C1=CC=C2C=C(C(=CC2=C1)O)O,0.00 M,
+1750,7092.0,CC1=CC2=C(C=C1)OC(=O)C=C2,"Insoluble (NTP, 1992)","Insoluble (NTP, 1992)"
+1751,7093.0,CCN(CCCl)C1=CC=CC=C1,SOL IN HOT ALCOHOL,SOL IN HOT ALCOHOL
+1752,7095.0,C1=CC=C(C=C1)C2=CC=CC=C2,"Insoluble (NTP, 1992)","Insoluble (NTP, 1992)"
+1753,7098.0,CCN(CC1=CC=CC=C1)C2=CC=CC=C2,"less than 1 mg/mL at 72° F (NTP, 1992)","less than 1 mg/mL at 72 °F (NTP, 1992)"
+1754,7099.0,C1=CC(=CC2=NC3=C(C=CC(=C3)N)C=C21)N,"less than 1 mg/mL at 72° F (NTP, 1992)",
+1755,7101.0,C1=CC=C(C=C1)C2=CC=C(C=C2)Br,"Insoluble (NTP, 1992)","Insoluble (NTP, 1992)"
+1756,7102.0,C1=CC=C(C=C1)C2=CC=C(C=C2)N,"less than 0.1 mg/mL at 66° F (NTP, 1992)","less than 0.1 mg/mL at 66 °F (NTP, 1992)"
+1757,7103.0,C1=CC=C(C=C1)C2=CC=C(C=C2)O,3.30e-04 M,"SLIGHTLY SOL IN PETROLEUM ETHER; VERY SOL IN ALCOHOL, ETHER, CHLOROFORM & PYRIMIDINE"
+1758,7104.0,C1=CC=C2C=C(C(=CC2=C1)C(=O)O)O,"Sol in benzene, chloroform, alkaline soln; freely soluble in alcohol and ether","Sol in benzene, chloroform, alkaline soln; freely soluble in alcohol and ether"
+1759,7108.0,C1=CC=C2C(=C1)NC3=CC=CC=C3S2,"less than 1 mg/mL at 68° F (NTP, 1992)","less than 1 mg/mL at 68 °F (NTP, 1992)"
+1760,7111.0,C1=CC(=CC=C1C2=CC=C(C=C2)N)N,"less than 1 mg/mL at 72° F (NTP, 1992)","less than 1 mg/mL at 72 Â°F (NTP, 1992)"
+1761,7113.0,CC(=O)C1=CC=C(C=C1)C2=CC=CC=C2,4.89e-04 M,
+1762,7114.0,C1=CC=C(C=C1)C2=CC=C(C=C2)[N+](=O)[O-],"Insoluble (NIOSH, 2016)","Insoluble (NIOSH, 2024)"
+1763,7115.0,C1=CC=C(C=C1)C2=CC=C(C=C2)C3=CC=CC=C3,"Insoluble (NIOSH, 2016)","Insoluble (NIOSH, 2024)"
+1764,7119.0,COC1=CC2=CC=CC=C2C=C1,75.88 mg/L @ 25 °C (est),"Insoluble in water, miscible in oils"
+1765,7120.0,CCN(CC)C1=CC=C(C=C1)N,"less than 1 mg/mL at 66° F (NTP, 1992)","less than 1 mg/mL at 66 °F (NTP, 1992)"
+1766,7122.0,CC(=O)C1=CC2=CC=CC=C2C=C1,0.00 M,0.272 mg/mL at 25 Â°C
+1767,7123.0,C1=CC=C2C=C(C=CC2=C1)C(=O)O,2.73e-04 M,
+1768,7124.0,C1=CC=C2C(=C1)C=CC(=N2)C(=O)O,2.73e-04 M,
+1769,7127.0,COC1=C(C=C(C=C1)CC=C)OC,"less than 1 mg/mL at 66° F (NTP, 1992)","less than 1 mg/mL at 66 °F (NTP, 1992)"
+1770,7128.0,CC=CC1=CC(=C(C=C1)OC)OC,Insoluble in glycerine and propylene glycol; soluble in most fixed oils,Insoluble in glycerine and propylene glycol; soluble in most fixed oils
+1771,7129.0,CCOC1=CC2=CC=CC=C2C=C1,38.32 mg/L @ 25 Â°C (est),"Insoluble in water, soluble in oils"
+1772,7136.0,CC(=O)OC1=C(C=C(C=C1)CC=C)OC,1.097e+005 mg/L @ 25 °C (est),"Insoluble in water; Soluble in ether, fixed oils"
+1773,7138.0,CC1=CC2=C(C=C1)C=CC(=N2)C,0.01 M,
+1774,7140.0,CC(C(=O)OC1=CC2=CC=CC=C2C=C1)O,"Insoluble (NTP, 1992)","Insoluble (NTP, 1992)"
+1775,7141.0,C1=CC=C2C=C(C=CC2=C1)NC3=CC=C(C=C3)O,"less than 1 mg/mL at 72° F (NTP, 1992)","less than 1 mg/mL at 72 °F (NTP, 1992)"
+1776,7142.0,C1=CC=C2C=C(C=CC2=C1)NC3=CC=C(C=C3)NC4=CC5=CC=CC=C5C=C4,"less than 1 mg/mL at 66° F (NTP, 1992)","less than 1 mg/mL at 66 °F (NTP, 1992)"
+1777,7144.0,CC1=CC(=C(C=C1)O)OC,2093 mg/L @ 25 °C (est),slightly soluble in water
+1778,7146.0,CC(C=O)C1=CC=CC=C1,1877 mg/L @ 25 °C (est),Soluble in most fixed oils; Slightly soluble in propylene glycol; Insoluble in glycerin
+1779,7147.0,CCC(C1=CC=CC=C1)O,0.6 g/L @ 20 °C (exp),0.6 g/L @ 20 °C (exp)
+1780,7148.0,CCC(=O)C1=CC=CC=C1,0.01 M,"MISCIBLE WITH METHANOL, ANHYD ETHANOL, ETHER, BENZENE, TOLUENE; INSOL IN WATER, GLYCEROL, ETHYLENE & PROPYLENE GLYCOL"
+1781,7150.0,COC(=O)C1=CC=CC=C1,"less than 1 mg/mL at 72.5° F (NTP, 1992)","less than 1 mg/mL at 72.5 °F (NTP, 1992)"
+1782,7151.0,COC(=O)C1=CN=CC=C1,Soluble,Soluble
+1783,7153.0,CC1=C(C=CC(=C1)Cl)OC(C)C(=O)O,0.00 M,"Solubility of its salts in water: diethanolamine 580, dimethyalmine 660 (all in g/L, 20 °C) /Mecoprop salts/"
+1784,7157.0,C=CCN(CC=C)C(=O)CCl,"Slighty soluble (NTP, 1992)","Slighty soluble (NTP, 1992)"
+1785,7158.0,CC(C(=O)O)OC1=CC(=C(C=C1Cl)Cl)Cl,3.41e-04 M,"/2,4,5-TP's/ acidic forming amine & alkali-metal salts which are sol in water, acetone, lower alcohol; insol in aromatic & chlorinated hydrocarbons & most non-polar organic solvents. Its lower alkyl esters are slightly volatile .... They are sparingly sol in water; very sol in most organic solvents."
+1786,7159.0,C1=CC=C2C(=C1)N=C3C(=N2)SC(=S)S3,"Slightly soluble in acetone, methanol. Anhydrous ethanol, -petroleum ether and kerosene","Slightly soluble in acetone, methanol. Anhydrous ethanol, -petroleum ether and kerosene"
+1787,7161.0,CCCCOC(=O)COC1=CC(=C(C=C1Cl)Cl)Cl,"less than 1 mg/mL at 70° F (NTP, 1992)","less than 1 mg/mL at 70 °F (NTP, 1992)"
+1788,7162.0,C1=C(C(=CC(=C1Cl)Cl)Cl)OCCCC(=O)O,1.48e-04 M,
+1789,7165.0,CCOC(=O)C1=CC=CC=C1,0.00 M,0.72 mg/mL at 25 °C
+1790,7166.0,CC(=O)CC(=O)C1=CC=CC=C1,0.00 M,
+1791,7167.0,C1=CC=C(C=C1)C(=O)OC(=O)C2=CC=CC=C2,4.42e-05 M,
+1792,7170.0,CCOC(=O)CC(=O)C1=CC=CC=C1,1212 mg/L @ 25 °C (est),"insoluble in water; soluble in organic solvents, oils"
+1793,7172.0,CNCC(C1=CC=C(C=C1)O)O,0.0004265 mg/L @ 25 °C (est),
+1794,7173.0,CC(C)OC(=O)COC1=C(C=C(C=C1)Cl)Cl,1.42e-04 M,Sol in alcohols and most oils /SRP: depends on pH; will hydrolyze at alkaline ph on prolonged standing/
+1795,7174.0,CCCOC(=O)C1=CC=C(C=C1)N,"Very soluble in benzene, ether, ethanol, chloroform","Very soluble in benzene, ether, ethanol, chloroform"
+1796,7175.0,CCCOC(=O)C1=CC=C(C=C1)O,"less than 1 mg/mL at 54° F (NTP, 1992)","less than 1 mg/mL at 54 °F (NTP, 1992)"
+1797,7176.0,CC(C)COC(=O)C1=CC=C(C=C1)N,0.00 M,
+1798,7179.0,C1=CC(=CC=C1C(=O)OOC(=O)C2=CC=C(C=C2)Cl)Cl,Insol in water; sol in organic solvents,Insol in water; sol in organic solvents
+1799,7181.0,CCC1=NN=C(S1)NS(=O)(=O)C2=CC=C(C=C2)N,25.6 [ug/mL],25.6 [ug/mL] (The mean of the results at pH 7.4)
+1800,7183.0,CCN(CC)CCOC(=O)C1=CC=C(C=C1)OCC,0.00 M,
+1801,7184.0,CCCCOC(=O)C1=CC=C(C=C1)O,"less than 1 mg/mL at 63° F (NTP, 1992)","less than 1 mg/mL at 63 °F (NTP, 1992)"
+1802,7187.0,C1=CC=C(C=C1)C(=O)OOC(=O)C2=CC=CC=C2,"less than 1 mg/mL at 79° F (NTP, 1992)","less than 1 mg/mL at 79 °F (NTP, 1992)"
+1803,7192.0,CCOC1=CC2=C(C=C1)N=C(S2)N,"less than 1 mg/mL at 73° F (NTP, 1992)","less than 1 mg/mL at 73 °F (NTP, 1992)"
+1804,7193.0,CC(C)CCOC(=O)C1=CC=CC=C1,13.68 mg/L @ 25 °C (est),"insoluble in water; soluble in organic solvents, oils"
+1805,7194.0,C1=CC=C(C=C1)CCOC(=O)C2=CC=CC=C2,11.99 mg/L @ 25 °C (est),
+1806,7195.0,C1=CC2=C(C=C1[N+](=O)[O-])NC=N2,"less than 0.1 mg/mL at 61.7° F (NTP, 1992)","less than 0.1 mg/mL at 61.7 °F (NTP, 1992)"
+1807,7196.0,C1OC2=C(O1)C=C(C=C2)C(=O)O,1424 mg/L @ 25 °C (est),
+1808,7197.0,CCCC1=CC2=C(C=C1)OCO2,"In water, 56.9 mg/L at 25 °C (est)","Miscible with ethanol, ether, acetic acid, benzene"
+1809,7198.0,COC(=O)C1CCC(CC1)C(=O)OC,"In water, 12,000 mg/L at 25 °C","In water, 12,000 mg/L at 25 °C"
+1810,7203.0,CCOC1=CC=CC=C1N,"5 to 10 mg/mL at 76.1° F (NTP, 1992)","5 to 10 mg/mL at 76.1 °F (NTP, 1992)"
+1811,7204.0,CC1=C(C=CC(=C1)Cl)OCC(=O)O,0.00 M,"Solubility: in water 270 g/l, methanol 340 g/l, benzene 1 g/l /2-Methyl-4-chlorophenoxyacetic acid sodium salt/"
+1812,7206.0,CCCCOC(=O)COC1=C(C=C(C=C1)Cl)Cl,"less than 1 mg/mL at 70° F (NTP, 1992)","less than 1 mg/mL at 70 °F (NTP, 1992)"
+1813,7207.0,CC1=C(C=CC(=C1)Cl)OCCCC(=O)O,2.10e-04 M,SLIGHTLY SOL IN CARBON TETRACHLORIDE OR BENZENE; SOL IN ... ETHER
+1814,7208.0,C1=CC=C(C=C1)C(=O)OCCOC2=C(C=C(C=C2)Cl)Cl,1.54e-04 M,
+1815,7211.0,CCCC(C(CC)CO)O,"SOL IN WATER 0.6% WT/WT; SOLUBILITY OF WATER IN ETHOHEXADIOL 10.8% WT/WT; SOL IN ETHANOL, ISOPROPANOL, PROPYLENE GLYCOL, CASTOR OIL","SOL IN WATER 0.6% WT/WT; SOLUBILITY OF WATER IN ETHOHEXADIOL 10.8% WT/WT; SOL IN ETHANOL, ISOPROPANOL, PROPYLENE GLYCOL, CASTOR OIL"
+1816,7216.0,CCN(CC)C(=S)SCC(=C)Cl,"less than 1 mg/mL at 72° F (NTP, 1992)","less than 1 mg/mL at 72 °F (NTP, 1992)"
+1817,7217.0,CCC(CC)C(=O)OCCOCCOCCOC(=O)C(CC)CC,0.02% BY WT IN WATER @ 20 °C,0.02% BY WT IN WATER @ 20 °C
+1818,7219.0,C1C=CC2=CC=CC=C21,"Insoluble (NIOSH, 2016)","Insoluble (NIOSH, 2024)"
+1819,7220.0,C1=CC2=NNN=C2C=C1,"1 to 5 mg/mL at 74.7° F (NTP, 1992)","1 to 5 mg/mL at 74.7 °F (NTP, 1992)"
+1820,7221.0,C1=CC=C2C(=C1)C=CS2,9.69e-04 M,
+1821,7222.0,C1=CC=C2C(=C1)N=CS2,0.03 M,"SLIGHTLY SOL IN WATER; SOL IN ALC, CARBON DISULFIDE"
+1822,7223.0,CCCCCCCCCCCCCCCCCC1=NCCN1CCO,"less than 1 mg/mL at 72° F (NTP, 1992)","less than 1 mg/mL at 72 °F (NTP, 1992)"
+1823,7225.0,CC1=NC2=CC=CC=C2O1,Insoluble in water,Insoluble in water
+1824,7230.0,CC(C)(C)NSC1=NC2=CC=CC=C2S1,SOL IN MOST ORG SOLVENTS,SOL IN MOST ORG SOLVENTS
+1825,7232.0,C1CCC(CC1)NSC2=NC3=CC=CC=C3S2,INSOL IN WATER; SOL IN BENZENE,INSOL IN WATER; SOL IN BENZENE
+1826,7234.0,C=CC(=O)OCC1CC2CC1C=C2,Sol in most organic solvents,Sol in most organic solvents
+1827,7236.0,CC1=CC=CC=C1Br,"less than 1 mg/mL at 59° F (NTP, 1992)","less than 1 mg/mL at 59 °F (NTP, 1992)"
+1828,7237.0,CC1=CC=CC=C1C,"Insoluble (NTP, 1992)","Insoluble (NTP, 1992)"
+1829,7238.0,CC1=CC=CC=C1Cl,"0.009 % at 77° F (NIOSH, 2016)","0.009 % at 77 °F (NIOSH, 2024)"
+1830,7239.0,C1=CC=C(C(=C1)Cl)Cl,"less than 1 mg/mL at 76.1° F (NTP, 1992)","less than 1 mg/mL at 76.1 °F (NTP, 1992)"
+1831,7240.0,C1=CC=C(C(=C1)N)Cl,"less than 1 mg/mL at 68° F (NTP, 1992)","less than 1 mg/mL at 68 °F (NTP, 1992)"
+1832,7242.0,CC1=CC=CC=C1N,"5 to 10 mg/mL at 59° F (NTP, 1992)","5 to 10 mg/mL at 59 °F (NTP, 1992)"
+1833,7243.0,C1=CC=C(C(=C1)N)N,"less than 1 mg/mL at 68° F (NTP, 1992)","less than 1 mg/mL at 68 °F (NTP, 1992)"
+1834,7244.0,C1=CC=C(C(=C1)O)Br,"Slightly soluble in chloroform; soluble in ethanol, ether, alkali","Slightly soluble in chloroform; soluble in ethanol, ether, alkali"
+1835,7245.0,C1=CC=C(C(=C1)O)Cl,"10 to 50 mg/mL at 59° F (NTP, 1992)","10 to 50 mg/mL at 59 °F (NTP, 1992)"
+1836,7246.0,C1COC(C(O1)Cl)Cl,"INSOL IN WATER, VERY SOL IN ETHER, ACETONE, BENZENE, CHLOROFORM, CARBON TETRACHL ORIDE, DIOXANE, PETROLEUM ETHER","INSOL IN WATER, VERY SOL IN ETHER, ACETONE, BENZENE, CHLOROFORM, CARBON TETRACHL ORIDE, DIOXANE, PETROLEUM ETHER"
+1837,7247.0,CC1=CC(=C(C=C1)C)C,"0.006 % (NIOSH, 2016)","0.006 % (NIOSH, 2024)"
+1838,7248.0,CC1=C(C=C(C=C1)N)C,"less than 1 mg/mL at 66° F (NTP, 1992)","less than 1 mg/mL at 66 °F (NTP, 1992)"
+1839,7249.0,CC1=C(C=C(C=C1)O)C,"less than 1 mg/mL at 68° F (NTP, 1992)","less than 1 mg/mL at 68 °F (NTP, 1992)"
+1840,7250.0,CC1=CC(=C(C=C1)N)C,"1 to 5 mg/mL at 63° F (NTP, 1992)","1 to 5 mg/mL at 63 °F (NTP, 1992)"
+1841,7251.0,CC1=C(C=CC(=C1)Cl)N,"less than 1 mg/mL at 68° F (NTP, 1992)","less than 1 mg/mL at 68 °F (NTP, 1992)"
+1842,7252.0,CC1=C(C=CC(=C1)N)N,"In water, 7.72X10+4 mg/L at 25 °C (est)","Soluble in water, ethanol, ethyl ether; slightly soluble in benzene, acetic acid"
+1843,7254.0,CC1=C(C=C(C=C1)Cl)Cl,INSOL IN WATER,INSOL IN WATER
+1844,7255.0,CC1=C(C=C(C=C1)N)Cl,"less than 1 mg/mL at 72° F (NTP, 1992)","less than 1 mg/mL at 72 °F (NTP, 1992)"
+1845,7256.0,CC1=CC(=C(C=C1)Cl)Cl,1.61e-04 M,
+1846,7257.0,C1=CC(=C(C=C1N)Cl)Cl,"less than 1 mg/mL at 70.7Â° F (NTP, 1992)","less than 1 mg/mL at 70.7 °F (NTP, 1992)"
+1847,7258.0,C1=CC(=C(C=C1O)Cl)Cl,"less than 1 mg/mL at 68° F (NTP, 1992)","less than 1 mg/mL at 68 °F (NTP, 1992)"
+1848,7259.0,CC1=CC(=C(C=C1)C)N,"less than 1 mg/mL at 64° F (NTP, 1992)","less than 1 mg/mL at 64 °F (NTP, 1992)"
+1849,7260.0,CC1=C(C=C(C=C1)Cl)N,SOL IN HOT ALCOHOL,SOL IN HOT ALCOHOL
+1850,7261.0,CC1=C(C=C(C=C1)N)N,"1 to 5 mg/mL at 70° F (NTP, 1992)","1 to 5 mg/mL at 70 °F (NTP, 1992)"
+1851,7262.0,C1=CC(=C(C=C1Cl)N)Cl,"less than 1 mg/mL at 72.5Â° F (NTP, 1992)","less than 1 mg/mL at 72.5 °F (NTP, 1992)"
+1852,7263.0,C1=CC(=C(C=C1Cl)N)N,"less than 1 mg/mL at 66° F (NTP, 1992)","less than 1 mg/mL at 66 °F (NTP, 1992)"
+1853,7264.0,CC1=CC(=C(C=C1)O)N,"less than 1 mg/mL at 68° F (NTP, 1992)","less than 1 mg/mL at 68 °F (NTP, 1992)"
+1854,7265.0,C1=CC(=C(C=C1Cl)N)O,"less than 1 mg/mL at 68° F (NTP, 1992)","less than 1 mg/mL at 68 °F (NTP, 1992)"
+1855,7267.0,CC1=CC(=C(C=C1)C)O,"less than 1 mg/mL at 68° F (NTP, 1992)","less than 1 mg/mL at 68 °F (NTP, 1992)"
+1856,7268.0,CCOC(=O)C(=O)OCC,0.25 M,SPARINGLY SOL IN WATER WHICH DECOMP IT GRADUALLY; MISCIBLE WITH USUAL ORG SOLVENTS
+1857,7269.0,CC1=CC(=C(C=C1C)C)C,2.59e-05 M,
+1858,7270.0,C1=C(C(=CC(=C1Cl)Cl)Cl)Cl,"less than 1 mg/mL at 70° F (NTP, 1992)","less than 1 mg/mL at 70 °F (NTP, 1992)"
+1859,7271.0,C1=C(C(=CC(=C1Cl)Cl)Cl)O,"less than 1 mg/mL at 70° F (NTP, 1992)","less than 1 mg/mL at 70 °F (NTP, 1992)"
+1860,7274.0,CC(=C)C(=O)OCC=C,"In water, 1.5X10-3 mg/L at 25 °C (est)",
+1861,7276.0,C1C(O1)C2=CC=CC=C2,"less than 1 mg/mL at 67.1° F (NTP, 1992)","less than 1 mg/mL at 67.1 °F (NTP, 1992)"
+1862,7280.0,C(C(CBr)Br)Cl,"less than 0.1 mg/mL at 64° F (NTP, 1992)","less than 0.1 mg/mL at 64 °F (NTP, 1992)"
+1863,7281.0,C(C(CBr)Br)O,"50 to 100 mg/mL at 68° F (NTP, 1992)","50 to 100 mg/mL at 68 °F (NTP, 1992)"
+1864,7282.0,CCC(C)CC,2.08e-04 M,"Sol in ethanol, carbon tetrachloride; miscible in ether, acetone, benzene, heptane"
+1865,7283.0,CCC(C)CN,Soluble in water,Soluble in water
+1866,7284.0,CCC(C)C=O,1.123e+004 mg/L @ 25 °C (est),
+1867,7285.0,C(C(CCl)Cl)Cl,"1 to 5 mg/mL at 75° F (NTP, 1992)","1 to 5 mg/mL at 75 °F (NTP, 1992)"
+1868,7286.0,C(C(=CCl)Cl)Cl,VERY SOL IN CHLOROFORM,VERY SOL IN CHLOROFORM
+1869,7288.0,CCC(=O)CC,"5 % (NIOSH, 2016)","5 % (NIOSH, 2024)"
+1870,7289.0,C(C(CCl)O)Cl,"greater than or equal to 100 mg/mL at 73° F (NTP, 1992)","greater than or equal to 100 mg/mL at 73 °F (NTP, 1992)"
+1871,7290.0,C(C(CCl)O)O,"greater than or equal to 100 mg/mL at 70° F (NTP, 1992)","greater than or equal to 100 mg/mL at 70 °F (NTP, 1992)"
+1872,7291.0,C(C(CS)O)O,SLIGHTLY SOL IN WATER; MISCIBLE WITH ALCOHOL; INSOL IN ETHER,SLIGHTLY SOL IN WATER; MISCIBLE WITH ALCOHOL; INSOL IN ETHER
+1873,7292.0,CCC(=NO)C,"greater than or equal to 100 mg/mL at 72° F (NTP, 1992)","greater than or equal to 100 mg/mL at 72 °F (NTP, 1992)"
+1874,7293.0,CNC(=O)NC,"greater than or equal to 100 mg/mL at 70° F (NTP, 1992)","greater than or equal to 100 mg/mL at 70 °F (NTP, 1992)"
+1875,7294.0,COC(=O)C=C,"10 to 50 mg/mL at 72° F (NTP, 1992)","10 to 50 mg/mL at 72 °F (NTP, 1992)"
+1876,7295.0,COC(=O)CCl,0.42 M,"In water, 4.6X10+4 mg/L at 20 °C"
+1877,7296.0,CC1CCCC1,"less than 1 mg/mL at 72° F (NTP, 1992)","less than 1 mg/mL at 72 °F (NTP, 1992)"
+1878,7298.0,C1CCC(C1)O,"SOL IN ALCOHOL, ETHER, ACETONE; SLIGHTLY SOL IN WATER","SOL IN ALCOHOL, ETHER, ACETONE; SLIGHTLY SOL IN WATER"
+1879,7301.0,CC1CCCO1,1.81 M,
+1880,7302.0,C1CC(=O)OC1,"greater than or equal to 100 mg/mL at 55° F (NTP, 1992)","greater than or equal to 100 mg/mL at 55 °F (NTP, 1992)"
+1881,7303.0,C1COC(=O)O1,11.36 M,"Soluble in water, alcohol, ether, and benzene"
+1882,7304.0,CN1C=CC=C1,1.206e+004 mg/L @ 25 °C (est),
+1883,7305.0,CC(C(C)(C)C)OP(=O)(C)F,0.12 M,"In water, 2.1X10+4 mg/L at 20 °C"
+1884,7308.0,CC1=CC(=C(C=C1SC2=CC(=C(C=C2C)O)C(C)(C)C)C(C)(C)C)O,"less than 0.1 mg/mL at 64° F (NTP, 1992)","less than 0.1 mg/mL at 64 °F (NTP, 1992)"
+1885,7309.0,CCC1=CC(=C(C=C1)O)C(C)(C)C,SOL IN ALC; INSOL IN ALKALI,SOL IN ALC; INSOL IN ALKALI
+1886,7311.0,CC(C)(C)C1=CC(=C(C=C1)O)C(C)(C)C,1.70e-04 M,"In water, 35 mg/L at 25 °C"
+1887,7313.0,CC(C)N(CCO)C(C)C,0.08 M,
+1888,7319.0,CC1=C(C=C(C=C1)C(=O)O)[N+](=O)[O-],"less than 1 mg/mL at 72° F (NTP, 1992)","less than 1 mg/mL at 72 °F (NTP, 1992)"
+1889,7321.0,C1=CC(=C(C=C1[N+](=O)[O-])[N+](=O)[O-])N,"less than 0.1 mg/mL at 73° F (NTP, 1992)","less than 0.1 mg/mL at 73 °F (NTP, 1992)"
+1890,7322.0,C1=CC(=C(C=C1S(=O)(=O)O)C(=O)O)O,8.061e+005 mg/L @ 25 °C (est),
+1891,7327.0,C1=CC=C(C=C1)S(=O)(=O)OC2=C(C=C(C=C2)Cl)Cl,PRACTICALLY INSOL IN WATER; SOL IN MOST ORGANIC SOLVENTS,PRACTICALLY INSOL IN WATER; SOL IN MOST ORGANIC SOLVENTS
+1892,7328.0,CCOP(=S)(OCC)OC1=C(C=C(C=C1)Cl)Cl,MISCIBLE WITH MOST ORGANIC SOLVENTS; SLIGHTLY SOLUBLE IN WATER.,MISCIBLE WITH MOST ORGANIC SOLVENTS; SLIGHTLY SOLUBLE IN WATER.
+1893,7329.0,C1=CC(=C(C=C1Cl)SC2=C(C=CC(=C2)Cl)O)O,"less than 1 mg/mL at 72° F (NTP, 1992)","less than 1 mg/mL at 72 °F (NTP, 1992)"
+1894,7331.0,COC1=C(C=C(C=C1)C(=O)NC2=CC=CC=C2)[N+](=O)[O-],"less than 0.1 mg/mL at 59° F (NTP, 1992)","less than 0.1 mg/mL at 59 °F (NTP, 1992)"
+1895,7333.0,CC1=CC=CC=C1NC(=NC2=CC=CC=C2C)N,>35.9 [ug/mL],>35.9 [ug/mL] (The mean of the results at pH 7.4)
+1896,7335.0,CC1=CCC(CC1OC(=O)C)C(=C)C,2583 mg/L @ 25 °C (est),slightly soluble in water; soluble in alcohol and most fixed oils
+1897,7336.0,CCC(=O)OC1CC(CC=C1C)C(=C)C,3.245 mg/L @ 25 °C (est),insoluble in water; soluble in alcohol and most fixed oils
+1898,7340.0,CC1=CC=CC=C1N=NC2=CC(=C(C=C2)N)C,"less than 1 mg/mL at 70° F (NTP, 1992)","less than 1 mg/mL at 70 °F (NTP, 1992)"
+1899,7341.0,CCCC(C)C(=O)O,0.13 M,1 ml in 1 ml 95% alcohol (in ethanol)
+1900,7342.0,CCOC(=O)C(C)C,3172 mg/L @ 25 °C (est),very soluble in ether
+1901,7343.0,CCOC(=O)C(=C)C,"5 to 10 mg/mL at 68° F (NTP, 1992)","5 to 10 mg/mL at 68 °F (NTP, 1992)"
+1902,7344.0,CCOC(=O)C(C)O,8.46 M,Miscible with water
+1903,7346.0,CC(C)C(=O)OC(=O)C(C)C,SOL IN ALL PROP IN ETHER,SOL IN ALL PROP IN ETHER
+1904,7347.0,CN(C)C(=S)SC(=S)N(C)C,Soluble in aromatic solvents,Soluble in aromatic solvents
+1905,7350.0,CC(CCN(C)C)N(C)C,"Soluble (NTP, 1992)","Soluble (NTP, 1992)"
+1906,7351.0,CC(C)COC(=O)C(C)C,0.01 M,0.5 G PER 100 ML WATER
+1907,7352.0,CC(C)COC(=O)C(=C)C,"Insoluble (<1mg/ml) (NTP, 1992)","Insoluble (<1mg/ml) (NTP, 1992)"
+1908,7353.0,CCCCOC(=O)C(C)C,356.7 mg/L @ 25 °C (est),"miscible in alcohol, ether, most fixed oils;  insoluble in glycerin, propylene glycol, water"
+1909,7354.0,CCCCOC(=O)C(=C)C,"Insoluble (NTP, 1992)","Insoluble (NTP, 1992)"
+1910,7355.0,CC(=C)C(=O)OCCOC(=O)C(=C)C,> 10% in benzene,> 10% in benzene
+1911,7357.0,B(CC)(CC)CC,"Soluble in alcohol, ether","Soluble in alcohol, ether"
+1912,7358.0,CCC(CC)CO,0.04 M,"SLIGHTLY SOL IN WATER; SOL IN ALCOHOL, ETHER"
+1913,7359.0,CCC(CC)C=O,3930 mg/L @ 25 °C (est),"miscible with alcohol, ether; soluble in water 1 ml in 50 ml"
+1914,7360.0,C1CC(OC1)CO,9.79 M,"Miscible with water, alcohol, ether, acetone, chloroform, benzene"
+1915,7361.0,C1=COC(=C1)CO,"greater than or equal to 100 mg/mL at 73° F (NTP, 1992)","greater than or equal to 100 mg/mL at 73 °F (NTP, 1992)"
+1916,7362.0,C1=COC(=C1)C=O,"50 to 100 mg/mL at 64° F (NTP, 1992)","50 to 100 mg/mL at 64 °F (NTP, 1992)"
+1917,7363.0,C1=COC(=C1)CS,5000 mg/L @ 20 °C (exp),5000 mg/L @ 20 °C (exp)
+1918,7364.0,C1=CSC(=C1)C=O,1.44e+004 mg/L @ 25 °C (est),
+1919,7365.0,C1=CC=C(C=C1)[As](=O)(O)O,"Sol in 40 parts water, 50 parts alcohol; insol in chloroform","Sol in 40 parts water, 50 parts alcohol; insol in chloroform"
+1920,7366.0,CC(C)(C)C1=CC=CC=C1,2.20e-04 M,"Miscible with alc, ether, benzene"
+1921,7367.0,C1=CC=C(C=C1)C(Cl)(Cl)Cl,"Decomposes (NTP, 1992)","Decomposes (NTP, 1992)"
+1922,7368.0,C1=CC=C(C=C1)C(F)(F)F,"less than 1 mg/mL at 70° F (NTP, 1992)","less than 1 mg/mL at 70 °F (NTP, 1992)"
+1923,7369.0,C1=CC=C(C=C1)S(=O)(=O)Cl,"INSOL IN WATER; SOL IN ETHER, ALCOHOL","INSOL IN WATER; SOL IN ETHER, ALCOHOL"
+1924,7371.0,C1=CC=C(C=C1)S(=O)(=O)O,"5 to 10 mg/mL at 72° F (NTP, 1992)","5 to 10 mg/mL at 72 °F (NTP, 1992)"
+1925,7372.0,C1=CC=C(C=C1)[Si](Cl)(Cl)Cl,"Soluble in carbon tetrachloride, chloroform, carbon disulfide","Soluble in carbon tetrachloride, chloroform, carbon disulfide"
+1926,7375.0,C1=CC(=CC(=C1)N)C(F)(F)F,"Slightly soluble (NTP, 1992)","Slightly soluble (NTP, 1992)"
+1927,7381.0,CC(C)(C)C1=CC(=C(C=C1)O)O,0.01 M,
+1928,7382.0,CS(=O)(=O)C1=CC(=C(C=C1)O)N,"1 to 5 mg/mL at 72° F (NTP, 1992)","1 to 5 mg/mL at 72 °F (NTP, 1992)"
+1929,7385.0,C1=CC(=C(C=C1S(=O)(=O)O)N)O,"less than 1 mg/mL at 70.7° F (NTP, 1992)","less than 1 mg/mL at 70.7 °F (NTP, 1992)"
+1930,7386.0,C1=CC(=CC(=C1)[N+](=O)[O-])C(F)(F)F,"Insoluble (NTP, 1992)","Insoluble (NTP, 1992)"
+1931,7389.0,C1=CC(=CC=C1N)[As](=O)(O)O,>32.6 [ug/mL],>32.6 [ug/mL] (The mean of the results at pH 7.4)
+1932,7390.0,CC1=CC=C(C=C1)C(C)(C)C,"less than 1 mg/mL at 63° F (NTP, 1992)","less than 1 mg/mL at 63 °F (NTP, 1992)"
+1933,7391.0,CC(C)(C)C1CCC(CC1)O,6.40e-04 M,Practically insoluble to insoluble in water
+1934,7393.0,CC(C)(C)C1=CC=C(C=C1)O,"Insoluble (NTP, 1992)","Insoluble (NTP, 1992)"
+1935,7394.0,C1=CC(=CC=C1C(F)(F)F)Cl,"less than 1 mg/mL at 68° F (NTP, 1992)","less than 1 mg/mL at 68 °F (NTP, 1992)"
+1936,7397.0,CC1=CC=C(C=C1)S(=O)(=O)Cl,"INSOL IN WATER; FREELY SOL IN ALCOHOL, BENZENE, ETHER","INSOL IN WATER; FREELY SOL IN ALCOHOL, BENZENE, ETHER"
+1937,7398.0,C1=CC(=CC=C1S(=O)(=O)Cl)Cl,VERY SOL IN ETHER & BENZENE,VERY SOL IN ETHER & BENZENE
+1938,7399.0,C1=CC(=CC=C1S(=O)(=O)Cl)I,5.39e-05 M,
+1939,7403.0,CC(C)(C)C1=CC=C(C=C1)C(=O)O,1.57e-04 M,INSOL IN WATER; VERY SOL IN ALCOHOL & BENZENE
+1940,7405.0,C1CC(=O)N[C@@H]1C(=O)O,>19.4 [ug/mL],>19.4 [ug/mL] (The mean of the results at pH 7.4)
+1941,7406.0,CC(C)C1=CC=CC=C1,"Insoluble (NIOSH, 2016)","Insoluble (NIOSH, 2024)"
+1942,7407.0,CC(=C)C1=CC=CC=C1,"less than 1 mg/mL at 72° F (NTP, 1992)","less than 1 mg/mL at 72 °F (NTP, 1992)"
+1943,7408.0,CC(C1=CC=CC=C1)N,SOL IN MOST ORG SOLVENTS & HYDROCARBONS,SOL IN MOST ORG SOLVENTS & HYDROCARBONS
+1944,7409.0,CC(C1=CC=CC=C1)O,"less than 1 mg/mL at 67.1° F (NTP, 1992)","less than 1 mg/mL at 67.1 °F (NTP, 1992)"
+1945,7410.0,CC(=O)C1=CC=CC=C1,0.05 M,"In water, 6,130 mg/L at 25 °C"
+1946,7411.0,C1=CC=C(C=C1)C(Cl)Cl,"less than 1 mg/mL at 63° F (NTP, 1992)","less than 1 mg/mL at 63 °F (NTP, 1992)"
+1947,7412.0,C1=CC=C(C=C1)C(=O)Cl,"Decomposes (NTP, 1992)","Decomposes (NTP, 1992)"
+1948,7413.0,C1CCC(CC1)C(=O)O,0.04 M,4.6 mg/mL at 25 °C
+1949,7415.0,CN(C)C1CCCCC1,"PARTLY SOL IN WATER; MISCIBLE WITH ALC, BENZENE, ACETONE","PARTLY SOL IN WATER; MISCIBLE WITH ALC, BENZENE, ACETONE"
+1950,7416.0,C1=CC=C(C=C1)[N+](=O)[O-],"Insoluble (<1 mg/ml at 75° F) (NTP, 1992)","Insoluble (<1 mg/ml at 75 °F) (NTP, 1992)"
+1951,7418.0,CC1=CC(=CC=C1)C(=O)O,"less than 1 mg/mL at 66° F (NTP, 1992)","less than 1 mg/mL at 66 °F (NTP, 1992)"
+1952,7419.0,C1=CC(=CC(=C1)N)C(=O)O,>20.6 [ug/mL],>20.6 [ug/mL] (The mean of the results at pH 7.4)
+1953,7420.0,C1=CC(=CC(=C1)O)C(=O)O,0.05 M,7.25 mg/mL at 25 °C
+1954,7421.0,CN(C)C1=CC(=CC=C1)O,"less than 0.1 mg/mL at 68° F (NTP, 1992)","less than 0.1 mg/mL at 68 °F (NTP, 1992)"
+1955,7422.0,CC1=CC(=CC=C1)[N+](=O)[O-],"less than 1 mg/mL at 70° F (NTP, 1992)","less than 1 mg/mL at 70 °F (NTP, 1992)"
+1956,7423.0,C1=CC(=CC(=C1)[N+](=O)[O-])N,16.7 [ug/mL],16.7 [ug/mL] (The mean of the results at pH 7.4)
+1957,7424.0,C1=C(C=C(C=C1O)O)C(=O)O,5.098e+004 mg/L @ 25 °C (est),
+1958,7426.0,CC1=CC(=CC(=C1)[N+](=O)[O-])C,"less than 1 mg/mL at 59° F (NTP, 1992)","less than 1 mg/mL at 59 °F (NTP, 1992)"
+1959,7427.0,C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O[C@@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O)O)O)O)O,1e+006 mg/L @ 25 °C (est),
+1960,7428.0,COC(=O)C1=CC(=C(C(=C1)O)O)O,0.06 M,
+1961,7430.0,C1=C(C=C(C(=C1Cl)N)Cl)[N+](=O)[O-],"less than 0.1 mg/mL at 77° F (NTP, 1992)","less than 0.1 mg/mL at 77 °F (NTP, 1992)"
+1962,7431.0,C1=C(OC(=CC1=O)C(=O)O)C(=O)O,0.08 M,
+1963,7433.0,C1=C(C=C(C=C1[N+](=O)[O-])[N+](=O)[O-])C(=O)O,0.01 M,
+1964,7434.0,C1=C(C=C(C=C1[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-],"Solubility in water, 278 mg/L at 15 °C","Solubility in water, 278 mg/L at 15 °C"
+1965,7438.0,CC1=CCC(CC1O)C(=C)C,"Insoluble (NTP, 1992)","Insoluble (NTP, 1992)"
+1966,7439.0,CC1=CCC(CC1=O)C(=C)C,0.01 M,Colorless to pale straw colored liquid; spearmint odor; solubility in 70% alcohol: 1:2 /L-Carvone/
+1967,7440.0,CC1=C(C=C(C=C1)[N+](=O)[O-])C,"1 to 5 mg/mL at 59° F (NTP, 1992)","1 to 5 mg/mL at 59 °F (NTP, 1992)"
+1968,7441.0,CC1=C(C=CC(=C1)[N+](=O)[O-])N,"less than 1 mg/mL at 72° F (NTP, 1992)","less than 1 mg/mL at 72 °F (NTP, 1992)"
+1969,7443.0,C1=CC(=C(C=C1[N+](=O)[O-])Cl)Cl,"less than 0.1 mg/mL at 74.3° F (NTP, 1992)","less than 0.1 mg/mL at 74.3 °F (NTP, 1992)"
+1970,7444.0,CC1=C(C=C(C=C1)[N+](=O)[O-])N,13.5 [ug/mL],13.5 [ug/mL] (The mean of the results at pH 7.4)
+1971,7447.0,COC1=C(C=C(C=C1)[N+](=O)[O-])N,"less than 0.1 mg/mL at 67.1° F (NTP, 1992)","less than 0.1 mg/mL at 67.1 °F (NTP, 1992)"
+1972,7449.0,C1=CC(=CC(=C1)[N+](=O)[O-])C=O,0.01 M,
+1973,7450.0,CC(C)C1=CC(=CC=C1)C(C)C,INSOL IN WATER,INSOL IN WATER
+1974,7451.0,C1=CC(=CC(=C1)C(=O)Cl)C(=O)Cl,SOL IN ETHER & OTHER ORG SOLVENTS,SOL IN ETHER & OTHER ORG SOLVENTS
+1975,7452.0,C1=CC(=CC(=C1)[N+](=O)[O-])[N+](=O)[O-],"0.02 % (NIOSH, 2016)","0.02 % (NIOSH, 2024)"
+1976,7453.0,CCC(C)C1=CC=C(C=C1)O,0.01 M,
+1977,7455.0,CC1=CC=C(C=C1)C(=O)OC,"less than 1 mg/mL at 72° F (NTP, 1992)","less than 1 mg/mL at 72 °F (NTP, 1992)"
+1978,7456.0,COC(=O)C1=CC=C(C=C1)O,0.02 M,"In water, 2.50X10+3 mg/L at 25 °C"
+1979,7458.0,CCOC(=O)CCCCCCCCC(C)C1=CC=C(C=C1)I,"FREELY SOL IN ALCOHOL, BENZENE, CHLOROFORM, ETHER; VERY SLIGHTLY SOL IN WATER",
+1980,7459.0,CC1CCC(CC1)C(C)C,"less than 1 mg/mL at 70° F (NTP, 1992)","less than 1 mg/mL at 70 °F (NTP, 1992)"
+1981,7460.0,CC1=CCC(C=C1)C(C)C,PRACTICALLY INSOL IN WATER; SOL IN ETHER /D- & L-FORMS/,PRACTICALLY INSOL IN WATER; SOL IN ETHER /D- & L-FORMS/
+1982,7461.0,CC1=CCC(=CC1)C(C)C,6.37e-05 M,0.00868 mg/mL at 22 Â°C
+1983,7462.0,CC1=CC=C(CC1)C(C)C,5.915 mg/L @ 25 Â°C (est),Insoluble in water; soluble in most fixed oils
+1984,7463.0,CC1=CC=C(C=C1)C(C)C,1.74e-04 M,"In water, 23.4 mg/L at 25 °C"
+1985,7465.0,CC(C)C1=CC=C(C=C1)O,1102 mg/L @ 25 °C (est),
+1986,7467.0,CC(=O)C1=CC=C(C=C1)Cl,"PRACTICALLY INSOL IN WATER; MISCIBLE WITH ALC, ETHER","PRACTICALLY INSOL IN WATER; MISCIBLE WITH ALC, ETHER"
+1987,7468.0,CC(=O)C1=CC=C(C=C1)N,Soluble in hydrochloric acid,Soluble in hydrochloric acid
+1988,7469.0,CC(=O)C1=CC=C(C=C1)O,0.07 M,Practically insoluble or insoluble in water
+1989,7470.0,CC1=CC=C(C=C1)C(=O)O,"less than 1 mg/mL at 66° F (NTP, 1992)","less than 1 mg/mL at 66 °F (NTP, 1992)"
+1990,7471.0,CC1=CC=C(C=C1)N(C)C,"In water, 455 mg/L","In water, 455 mg/L"
+1991,7472.0,CN(C)C1=CC=C(C=C1)N,"less than 1 mg/mL at 68° F (NTP, 1992)","less than 1 mg/mL at 68 °F (NTP, 1992)"
+1992,7473.0,CC1=CC=C(C=C1)[N+](=O)[O-],"less than 1 mg/mL at 68.9° F (NTP, 1992)","less than 1 mg/mL at 68.9 °F (NTP, 1992)"
+1993,7474.0,C1=CC(=CC=C1[N+](=O)[O-])Cl,"less than 0.1 mg/mL at 75° F (NTP, 1992)","less than 0.1 mg/mL at 75 °F (NTP, 1992)"
+1994,7475.0,C1=CC(=CC=C1N)[N+](=O)[O-],"less than 0.1 mg/mL at 70° F (NTP, 1992)","less than 0.1 mg/mL at 70 °F (NTP, 1992)"
+1995,7476.0,CC(=O)C1=CC=C(C=C1)OC,"In water, 3.62X10+3 mg/L at 25 °C (est)","Soluble in ethanol, diethyl ether, acetone and chloroform"
+1996,7477.0,COC1=CC=C(C=C1)C(=O)Cl,Soluble in ether and acetone. Very soluble in benzene. Slightly soluble in carbon tetrachloride.,Soluble in ether and acetone. Very soluble in benzene. Slightly soluble in carbon tetrachloride.
+1997,7478.0,COC1=CC=C(C=C1)C(=O)O,Soluble in ether and acetone. Very soluble in benzene. Slightly soluble in carbon tetrachloride.,
+1998,7482.0,C1=CC(=CC=C1CCl)[N+](=O)[O-],"Insoluble (NTP, 1992)","Insoluble (NTP, 1992)"
+1999,7483.0,CNC1=CC=C(C=C1)[N+](=O)[O-],"less than 1 mg/mL at 66° F (NTP, 1992)","less than 1 mg/mL at 66 °F (NTP, 1992)"
