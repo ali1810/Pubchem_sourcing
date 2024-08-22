@@ -9,7 +9,7 @@ PubChem is the world's largest collection of freely accessible chemical informat
 We clean this file (CID-SMILES.csv) make the CID column and smiles column and save in the csv file (CID-SMILES-fine.csv)
 
 - **Chunking**: Processed in chunks of 10,000 SMILES for efficiency.
-- **Data Sourcing**: Solubility data sourced using Pubchempy library and used a function to source the data and saved to CSV files.
+- **Data Sourcing**: Solubility data sourced using Pubchempy library and used a function to source the data and saved started with a csv file pubchem_0k_10k,csv after sourcing solubility data save this to (pubchem_new_0_10000_new.csv) file 
 
 2. **Data Processing**: Cleaning and converting the raw solubility data to a uniform format, including units like gm/l, mg/ml, g/ml, etc.
 3. **Data Evaluation**: Comparing the sourced data with literature solubility data to evaluate quality.
