@@ -11,9 +11,10 @@ We clean this file (CID-SMILES.csv) make the CID column and smiles column and sa
 - **Chunking**: Processed in chunks of 10,000 SMILES for efficiency.
 - **Data Sourcing**: Solubility data sourced using Pubchempy library and used a function to source the data and saved started with a csv file pubchem_0k_10k,csv after sourcing solubility data save this to (pubchem_new_0_10000_new.csv) file.These steps followed in the notrebook ( Pubchem_data_sourcing.ipynb)Once we have file with solubilities values the then we go further processing. 
 
-2. **Data Processing**: Cleaning and converting the raw solubility data to a uniform format, including units like gm/l, mg/ml, g/ml, etc. We saved the processd and clean data file in to 
-3. **Data Evaluation**: Comparing the sourced data with literature solubility data to evaluate quality.
+2. **Data Processing**: Cleaning and converting the raw solubility data to a uniform format, including units like gm/l, mg/ml, g/ml, etc. We saved the processd and clean data file in to (pubchem_clean_0k_10000k.csv)'
+3. **Data Evaluation**: Comparing the sourced data with literature solubility data to evaluate quality.These steps followed in the notrebook ( Pubchem_Post_Process.ipynb)
 
+Above steps we have followed for all the raw files . Fisrt we have combine all the raw files namely 
 ## Data Processing Summary
 
 - **Total SMILES Processed**: 50 million
