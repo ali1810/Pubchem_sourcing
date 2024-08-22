@@ -14,17 +14,15 @@ We clean this file (CID-SMILES.csv) make the CID column and smiles column and sa
 2. **Data Processing**: Cleaning and converting the raw solubility data to a uniform format, including units like gm/l, mg/ml, g/ml, etc. We saved the processd and clean data file in to (pubchem_clean_0k_10000k.csv)'
 3. **Data Evaluation**: Comparing the sourced data with literature solubility data to evaluate quality.These steps followed in the notrebook ( Pubchem_Post_Process.ipynb)
 
-Above steps we have followed for all the raw files . Fisrt we have combine all the raw files namely 
+Above steps we have followed for all the raw files . Fisrt we have combine all the raw files namely newdf1 to newdf17 
+and then combinbed all and saved to the file raw_0k_50000k.csv and then after preprocesing and cleaning save the file to clean_0k_50000k.csv . 
 ## Data Processing Summary
-
 - **Total SMILES Processed**: 50 million
 - **Raw Data Extracted**: 66,639 entries
 - **Clean Data**: 53,789 entries, including numerical solubility values with units.
 
-The raw data is saved in `raw_0k_50000k.csv`, and the clean data is stored in `clean_0k_50000.csv`. For quality evaluation, we compared our results with literature solubility data and found 631 unique matching entries, which are saved in `Pubchem_match.xlsx` and `Pubchem_match.csv`.
-
 ## Data Evaluation
-To assess the quality of the sourced data, we compared it with literature solubility data using `unique_train4_new_24.csv`. We found 631 unique matching data points, enabling a comparison of PubChem and literature solubility values. This matching data is saved in `Pubchem_match.xlsx` and `Pubchem_match.csv`.
+The raw data is saved in `raw_0k_50000k.csv`, and the clean data is stored in `clean_0k_50000.csv`. For quality evaluation, we compared our results with literature solubility we compare with file unique_train4_new24.csv and found 631 unique matching entries, which are saved in `Pubchem_match.xlsx` and `Pubchem_match.csv`.
 
 ## Repository Structure
 
