@@ -5,7 +5,8 @@ This project aims to source solubility data from the PubChem database by process
 PubChem is the world's largest collection of freely accessible chemical information. In this project, we utilized the PubChemPy Python library to retrieve solubility data for 50 million SMILES. The steps involved in the project are:
 
 ## Data Retrieval Process
-- **SMILES and CID**: Sourced from (https://ftp.ncbi.nlm.nih.gov/pubchem/Compound/Extras/CID-SMILES.gz), which contains information on over 111 million compounds.
+- **SMILES and CID**: In order to source the data from Pubchem we need to know the CID(compound identifiers) of the compound along with smiles which we have Sourced from (https://ftp.ncbi.nlm.nih.gov/pubchem/Compound/Extras/CID-SMILES.gz), which contains information on over 111 million compounds.
+We clean this file make the CID collumn and smiles column and save in the csv file with name 
 
 - **Chunking**: Processed in chunks of 10,000 SMILES for efficiency.
 - **Data Sourcing**: Solubility data sourced using Pubchempy, saved to CSV files.
