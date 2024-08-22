@@ -6,10 +6,10 @@ PubChem is the world's largest collection of freely accessible chemical informat
 
 ## Data Retrieval Process
 - **SMILES and CID**: In order to source the data from Pubchem we need to know the CID(compound identifiers) of the compound along with smiles which we have Sourced from (https://ftp.ncbi.nlm.nih.gov/pubchem/Compound/Extras/CID-SMILES.gz), which contains information on over 111 million compounds.
-We clean this file make the CID collumn and smiles column and save in the csv file with name 
+We clean this file (CID-SMILES.csv) make the CID column and smiles column and save in the csv file (CID-SMILES-fine.csv)
 
 - **Chunking**: Processed in chunks of 10,000 SMILES for efficiency.
-- **Data Sourcing**: Solubility data sourced using Pubchempy, saved to CSV files.
+- **Data Sourcing**: Solubility data sourced using Pubchempy library and used a function to source the data and saved to CSV files.
 
 2. **Data Processing**: Cleaning and converting the raw solubility data to a uniform format, including units like gm/l, mg/ml, g/ml, etc.
 3. **Data Evaluation**: Comparing the sourced data with literature solubility data to evaluate quality.
