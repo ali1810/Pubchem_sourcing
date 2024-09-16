@@ -27,28 +27,19 @@ The raw data is saved in `raw_0k_50000k.csv`, and the clean data is stored in `c
 ## Repository Structure
 
 - **data/**: Contains all datasets used in the study.
-  - `water_solubility_data.csv`
-  - `dataset-not-FA.csv`
-  - `Supplementary_data.csv`
-  - `data_paper.csv`
-  - `dataset-E.csv`
-  - `unique_train4_new24.csv`
-  - `unique_test_new24.csv`
-  - `overlap_data_new.csv`
-
+  - `Pubchem_match.csv`
+  - `clean_0k_50000.csv`
+  - `pubchem_0k_10k.csv`
+  - `pubchem_clean_0k_10000k_new.csv`
+  - `pubchem_new_0_10000.csv`
+  - `pubchem_new_0_10000_new.csv`
+  - `raw_0k_50000k.csv`
 - **notebooks/**: Jupyter notebooks containing the analysis, preprocessing, and model training code.
-  - `data_preprocess_3_24.ipynb`
-  - `4_24.ipynb`
-  - `feature_fg7_fe_38.ipynb`
-  - `Sorkundata_improve_Preprocess.ipynb`
-  - `mpnn.ipynb`
+  - `Pubchem_Post_Process.ipynb`
+  - `Pubchem4_data_preparation.ipynb
+  - `Pubchem_final_process_0k_50000.ipynb`
+  - `pubchem_data_sourcing.ipynb`
 
-- **scripts/**: Function to create the discriptors used in the study.
-  - `utilities.py`
-
-- **results/**: Contains the comparative model results.
-  - `model_results.csv`
-  - `compare_results.csv`
 ## Installation
 
 To install the required Python packages for this project, you can use the `requirements.txt` file. Run the following command:
