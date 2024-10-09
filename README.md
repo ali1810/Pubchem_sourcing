@@ -20,6 +20,9 @@ and then combinbed all and saved to the file raw_0k_50000k.csv and then after pr
 - **Total SMILES Processed**: 50 million
 - **Raw Data Extracted**: 66,639 entries
 - **Clean Data**: 53,789 entries, including numerical solubility values with units.
+- **Furher Clean Data**: 32,784 entries, including numerical solubility values with units.
+- **Match data with Literatute**: 368 entries, for Evaluation.
+
 
 ## Data Evaluation
 The raw data is saved in `raw_0k_50000k.csv`, and the clean data is stored in `clean_0k_50000.csv`. For quality evaluation, we compared our results with literature solubility we compare with file unique_train4_new24.csv and found 631 unique matching entries, which are saved in `Pubchem_match.xlsx` and `Pubchem_match.csv`.
