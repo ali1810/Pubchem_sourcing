@@ -20,8 +20,9 @@ and then combinbed all and saved to the file raw_0k_50000k.csv and then after pr
 - **Total SMILES Processed**: 50 million
 - **Raw Data Extracted**: 66,639 entries
 - **Clean Data**: 53,789 entries, including numerical solubility values with units.
-- **Furher Clean Data**: 32,784 entries, including numerical solubility values with units.
-- **Match data with Literatute**: 368 entries, for Evaluation.
+- **Furher Clean Data**: 32,874 entries, including numerical solubility values with units.
+- **Again devided**: 32874 in to salts and without salts compound 811 (with salts) 32063 (without salts) 
+- **Match data with Literatute**: We also compare the with salts and without salts data to compare the solubility prediction on the Husskonen test data. Added on the comparison of 32874 datapoints to the literature datapoints 19219 and found  matching 368 entries so that we could compare the solubility values among these data points.
 
 
 ## Data Evaluation
