@@ -23,7 +23,7 @@ and then combinbed all and saved to the file raw_0k_50000k.csv and then after pr
 - **Furher Clean Data**: 32,874 entries, including numerical solubility values with units.
 - **Match data with Literatute**: We also compare Literature dataponits 19219 with Pubchem data and found 368 mathcing dataponits and the compare the soulbilities values and and did the analysis.  
 - **Again devided**: We have further devided the data in to salts and without salts compound where we found 811 (with salts) 32063 (without salts) 
-- **Solubility prediction with Husskonen Data**: We also compare the with salts and without salts data to compare the solubility prediction on the Husskonen test data.This comparison has given that without salts data point has given better result compare the to with salts data ponits
+- **Solubility prediction with Husskonen Data**: We also compare the with salts and without salts data to compare the solubility prediction on the Husskonen test data.This comparison has given that without salts data point has given better result compare the to with salts data ponits. Without salts 32063 dataponitns has given with 123 descriptors on the Husskonen 1282 dataponits MAE 0.92 and R2 0.62.
 
 
 ## Data Evaluation
