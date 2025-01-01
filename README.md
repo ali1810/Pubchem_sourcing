@@ -17,7 +17,7 @@ We clean this file (CID-SMILES.csv) make the CID column and smiles column and sa
 Above steps we have followed for all the raw files . Fisrt we have combine all the raw files namely newdf1 to newdf17 
 and then combinbed all and saved to the file raw_0k_50000k.csv and then after preprocesing and cleaning save the file to clean_0k_50000k.csv . 
 ## Data Processing Summary
-- **Total SMILES Processed**: 50 million
+- **Total SMILES Processed**: 50 million processes from Pubchem ( A chemical database )
 - **Raw Data Extracted**: 66,639 entries
 - **Clean Data**: 53,789 entries, including numerical solubility values with units.
 - **Furher Clean Data**: 32,874 entries, including numerical solubility values with units.
